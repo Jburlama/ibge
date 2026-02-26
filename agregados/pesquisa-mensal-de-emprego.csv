@@ -1,0 +1,73 @@
+﻿id,nome
+10,População ocupada de 15 anos e mais (série encerrada)
+11,População desocupada de 15 anos e mais (série encerrada)
+12,Taxa de atividade (série encerrada)
+13,Taxa de desemprego aberto - semana (série encerrada)
+14,Taxa de desemprego aberto - 30 dias (série encerrada)
+15,Tempo médio de procura de trabalho (série encerrada)
+16,"Rendimento médio nominal, do trabalho principal, das pessoas ocupadas de 15 anos e mais (série encerrada)"
+2,População ocupada de 15 anos e mais por setor de atividade (série encerrada)
+2040,"Pessoas de 10 anos ou mais de idade, total, economicamente ativas e não economicamente ativas na semana de referência por sexo"
+2041,"Pessoas, total, economicamente ativas e não economicamente ativas na semana de referência por grupos de idade"
+2042,Taxa de atividade na semana de referência das pessoas de 10 anos ou mais de idade por sexo
+2043,Taxa de atividade das pessoas na semana de referência por grupos de idade
+2044,"Pessoas de 10 anos ou mais de idade, não economicamente ativas na semana de referência por anos de estudo"
+2045,"Pessoas de 10 anos ou mais de idade, não economicamente ativas na semana de referência, em relação ao total de pessoas em idade ativa"
+2046,"Pessoas de 10 anos ou mais de idade, não economicamente ativas na semana de referência, que não gostariam de trabalhar, total e em relação ao total de pessoas não economicamente ativas na semana de referência"
+2047,"Pessoas de 10 anos ou mais de idade, não economicamente ativas na semana de referência, que estavam disponíveis para trabalhar, total e em relação ao total de pessoas não economicamente ativas na semana de referência"
+2048,"Pessoas de 10 anos ou mais de idade, marginalmente ligadas às pessoas economicamente ativas na semana de referência, total e em relação ao total de pessoas não economicamente ativas na semana de referência"
+2050,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência por sexo"
+2051,Pessoas ocupadas na semana de referência por grupos de idade
+2052,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência por anos de estudo"
+2053,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, em relação ao total de pessoas em idade ativa"
+2054,"Taxa de ocupação na semana de referência, das pessoas de 10 anos ou mais de idade"
+2055,"Pessoas de 10 anos ou mais de idade, empregadas no trabalho principal da semana de referência, total e em relação ao total de pessoas ocupadas na semana de referência"
+2056,"Pessoas de 10 anos ou mais de idade, total e em relação ao total de pessoas ocupadas na semana de referência por posição na ocupação no trabalho principal na semana de referência"
+2057,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, total e em relação ao total de pessoas ocupadas na semana de referência por setor de atividade no trabalho principal na semana de referência"
+2058,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, que trabalhavam habitualmente e efetivamente por grupo de horas trabalhadas por semana em todos os trabalhos"
+2156,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência (exclusive trabalhadores domésticos e empregados no setor público), por grupos de pessoas no empreendimento"
+2157,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência por tempo de permanência no trabalho principal"
+2158,"Pessoas de 10 anos ou mais de idade, subocupadas por insuficiência de horas efetivamente trabalhadas na semana de referência, em todos os trabalhos, total e em relação ao total de pessoas ocupadas na semana de referência"
+2159,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, com rendimento mensal por horas semanais habituais inferior ao salário mínimo por 40 horas semanais, total e em relação ao total de pessoas ocupadas na semana de referência"
+2160,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, que procuraram outro trabalho no período de referência de 30 dias e estavam disponíveis para assumir outro trabalho, total e em relação ao total de pessoas ocupadas na semana de referência"
+2161,"Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, contribuintes de instituto de previdência em qualquer trabalho"
+2162,"Pessoas de 10 anos ou mais de idade, empregadas do setor privado no trabalho principal na semana de referência, com indicativo de carteira de trabalho assinada, total e em relação ao total de pessoas empregadas no trabalho principal da semana de referência"
+2163,"Pessoas de 10 anos ou mais de idade, empregadas do setor público no trabalho principal na semana de referência, com indicativo de carteira de trabalho assinada"
+2165,"Pessoas de 10 anos ou mais de idade, empregadas com contrato de trabalho, em relação ao total de empregados no trabalho principal da semana de referência"
+2166,"Média e mediana das horas trabalhadas por semana, em todos os trabalhos, pelas pessoas de 10 anos ou mais de idade, ocupadas na semana de referência"
+2167,"Tempos médio e mediano de permanência no trabalho principal das pessoas de 10 anos ou mais de idade, ocupadas na semana de referência"
+2168,"Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência por sexo"
+2169,Pessoas desocupadas na semana de referência por grupos de idade
+2170,"Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência por anos de estudo"
+2171,"Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência"
+2173,"Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência, em relação ao total de pessoas em idade ativa"
+2175,"Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência, em relação ao total de pessoas desocupadas na semana de referência por tempo de procura de trabalho"
+2176,"Taxa de desocupação na semana de referência, das pessoas de 10 anos ou mais de idade por sexo"
+2177,Taxa de desocupação na semana de referência por grupos de idade
+2178,"Taxa de desocupação na semana de referência, das pessoas de 10 anos ou mais de idade por anos de estudo"
+2179,"Taxa de desocupação na semana de referência, das pessoas de 10 anos ou mais de idade"
+2180,"Pessoas de 10 anos ou mais de idade, que saíram do último trabalho no período de referência de 365 dias"
+2181,"Rendimento médio e mediano real do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, ocupadas na semana de referência"
+2182,"Rendimento médio e mediano nominal do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, ocupadas na semana de referência"
+2183,"Rendimento médio e mediano real do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, empregadas do setor público, no trabalho principal da semana de referência"
+2184,"Rendimento médio e mediano nominal do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, empregadas do setor público, no trabalho principal da semana de referência"
+2185,"Rendimento médio e mediano real do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, empregadas do setor privado, no trabalho principal da semana de referência"
+2186,"Rendimento médio e mediano nominal do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, empregadas do setor privado, no trabalho principal da semana de referência"
+2187,"Rendimento médio e mediano real do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, ocupadas no trabalho principal da semana de referência"
+2189,"Rendimento médio e mediano nominal do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, ocupadas no trabalho principal da semana de referência"
+2190,"Rendimento médio e mediano real do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, empregadas do setor público, no trabalho principal da semana de referência"
+2191,"Rendimento médio e mediano nominal do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, empregadas do setor público, no trabalho principal da semana de referência"
+2192,"Rendimento médio e mediano real do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, empregadas do setor privado, no trabalho principal da semana de referência"
+2193,"Rendimento médio e mediano nominal do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, empregadas do setor privado, no trabalho principal da semana de referência"
+2259,"Rendimento médio e mediano nominal do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, conta própria, no trabalho principal da semana de referência"
+2260,"Rendimento médio e mediano nominal do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, conta própria, no trabalho principal da semana de referência"
+2274,"Rendimento médio e mediano real do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, conta própria, no trabalho principal da semana de referência"
+2275,"Rendimento médio e mediano real do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, conta própria, no trabalho principal da semana de referência"
+2276,"Taxa de desocupação na semana de referência, das pessoas de 10 anos ou mais de idade por grupamento de atividade no trabalho principal"
+3,População ocupada de 15 anos e mais por posição na ocupação (série encerrada)
+4,Taxa de desemprego aberto - semana por sexo (série encerrada)
+5,Taxa de desemprego aberto - semana por setor de atividade (série encerrada)
+6,"Rendimento médio nominal, do trabalho principal, das pessoas ocupadas de 15 anos e mais por setor de atividade (série encerrada)"
+7,"Rendimento médio nominal, do trabalho principal, das pessoas ocupadas de 15 anos e mais por posição na ocupação (série encerrada)"
+8,População residente de 15 anos e mais (série encerrada)
+9,População economicamente ativa de 15 anos e mais (série encerrada)

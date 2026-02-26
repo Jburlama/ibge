@@ -1,0 +1,26 @@
+{
+  "id": "XE",
+  "nome": "Projeção da População",
+  "agregados": [
+    {
+      "id": "7358",
+      "nome": "População, por sexo e idade"
+    },
+    {
+      "id": "7360",
+      "nome": "Indicadores implícitos na projeção da população"
+    },
+    {
+      "id": "7362",
+      "nome": "Esperança de vida ao nascer e Taxa de mortalidade infantil, por sexo"
+    },
+    {
+      "id": "7363",
+      "nome": "Taxa específica de fecundidade, por grupo de idade da mãe"
+    },
+    {
+      "id": "7365",
+      "nome": "Proporção de pessoas, por grupo de idade"
+    }
+  ]
+}

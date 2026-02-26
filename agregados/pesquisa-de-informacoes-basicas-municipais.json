@@ -1,0 +1,754 @@
+{
+  "id": "PM",
+  "nome": "Pesquisa de Informações Básicas Municipais",
+  "agregados": [
+    {
+      "id": "10000",
+      "nome": "Municípios, total, e com estudo setorial e/ou diagnóstico socioeconômico realizado entre os dois últimos anos e/ou com ações, programas ou projetos de inclusão produtiva para geração de trabalho e renda e/ou rural e/ou de qualificação profissional e intermediação de mão de obra, por classe de tamanho do município"
+    },
+    {
+      "id": "10001",
+      "nome": "Municípios, total, e com ações, programas ou projetos para empreendimentos urbanos e/ou de crédito, microcrédito e seguro e/ou de de geração de trabalho e renda, por classe de tamanho do município"
+    },
+    {
+      "id": "10002",
+      "nome": "Municípios com estudo setorial e/ou diagnóstico socioeconômico realizado entre os dois últimos anos por ano de elaboração e órgão responsável pelo diagnóstico, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10003",
+      "nome": "Municípios com ações, programas ou projetos de inclusão produtiva para a geração de trabalho e renda por órgão responsável pelas ações, programas ou projetos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10004",
+      "nome": "Municípios com ações, programas ou projetos de inclusão produtiva rural por tipo de ação, programa ou projeto desenvolvido, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10005",
+      "nome": "Municípios com ações, programas ou projetos de qualificação profissional e intermediação de mão de obra por ações, programas e projetos desenvolvidos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10006",
+      "nome": "Municípios com ações, programas ou projetos para empreendimentos urbanos por ações, programas ou projetos desenvolvidos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10007",
+      "nome": "Municípios com ações, programas ou projetos de crédito, microcrédito e seguro por ações, programas ou projetos desenvolvidos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10008",
+      "nome": "Municípios com ações, programas ou projetos de geração de trabalho e renda por ações, programas ou projetos desenvolvidos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10010",
+      "nome": "Municípios, total, e com lei municipal de segurança alimentar e nutricional, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10011",
+      "nome": "Municípios, total, e com câmara ou instância governamental de articulação intersetorial dos programas e ações de segurança alimentar e nutricional, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10012",
+      "nome": "Municípios com câmara ou instância governamental de articulação intersetorial dos programas e ações de segurança alimentar e nutricional, por áreas de governo representadas e existência de recursos orçamentários, segundo classe de tamanho da população do município"
+    },
+    {
+      "id": "10013",
+      "nome": "Municípios, total, e com ações de segurança alimentar, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10014",
+      "nome": "Municípios com ações de segurança alimentar, por origem dos recursos e classes de tamanho da população"
+    },
+    {
+      "id": "10015",
+      "nome": "Municípios com atividades relacionadas ao público do Cadastro Único e/ou Programa Auxílio Brasil, por programa utilizado no desenvolvimento das ações, segundo classe de tamanho da população do município"
+    },
+    {
+      "id": "10018",
+      "nome": "Municípios com Plano Municipal de Política para Mulheres, por tipo de regulamentação de criação, ano de criação e vigência, segundo classe de tamanho da população do município"
+    },
+    {
+      "id": "10019",
+      "nome": "Municípios, total, e com programa, projeto ou ação em cooperação, convênio e/ou articulação com outras instituições na área de política para mulheres, por tipo de instituição e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10020",
+      "nome": "Municípios com Conselho Municipal de Direitos da Mulher, por vínculo administrativo e responsável pela presidência do conselho, segundo a classe de tamanho da população do município"
+    },
+    {
+      "id": "10021",
+      "nome": "Municípios, total e com Casas-abrigo para Mulheres em situação de violência doméstica e familiar ou Serviços de Acolhimento para Mulheres em situação de violência (Sistema Único de Assistência Social - SUAS), por classe de tamanho da população do município"
+    },
+    {
+      "id": "10022",
+      "nome": "Municípios com Casas-abrigo para Mulheres em situação de violência doméstica e familiar ou Serviços de Acolhimento para Mulheres em situação de violência (Sistema Único de Assistência Social - SUAS), por quantidade, se tem endereço sigiloso, por atividades realizadas e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10023",
+      "nome": "Municípios, total e com serviços especializados, por tipo de serviço e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10024",
+      "nome": "Municípios com serviços especializados de violência contra mulher por quantidade de unidades de atendimento nos municípios, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10025",
+      "nome": "Municípios, total e levantamento do quantitativo de mulheres atenddas pelos Centros de Referência/Especializados ou Núcleos Integrados de Atendimento às Mulheres em Situação de Violência, por divulgação e quantidade de atendimentos e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10026",
+      "nome": "Municípios, total e com delegacias especializadas, por tipo de delegacia e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10027",
+      "nome": "Municípios, total e com Instituto Médico Legal, Unidade do Corpo de Bombeiros. Guarda Municipal e como sede de comarca, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10028",
+      "nome": "Municípios com Guarda Municipal, total e com cursos de formação, capacitação e aperfeiçoamento dos profissionais da Guarda Municipal, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10029",
+      "nome": "Municípios que realizam curso de capacitação e aperfeiçoamento para os profissionais da Guarda Municipal, por tema da capacitação do ano anterior à pesquisa e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10030",
+      "nome": "Municípios com Guarda Municipal, total e com algumas características dos profissionais da Guarda Municipal, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10031",
+      "nome": "Municípios com Guarda Municipal, total e com algumas características da estrutura das guardas por classe de tamanho da população do município"
+    },
+    {
+      "id": "10032",
+      "nome": "Municípios com estrutura organizacional na área de direitos humanos, por existência de programas e ações do órgão gestor da política de direitos humanos para grupos populacionais específcos e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10033",
+      "nome": "Municípios, total e por forma de tratamento do tema direitos humanos, existência de legislação específica e classe de tamanho da população do município"
+    },
+    {
+      "id": "10034",
+      "nome": "Municípios, total e com comitê/comissão sobre direitos humanos e com realização de conferências municipais sobre temas de direitos humanos nos últimos quatro anos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10035",
+      "nome": "Municípios, total e com políticas ou programas desenvolvidos pela gestão municipal na área de direitos humanos, por tipo de política ou programa e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10036",
+      "nome": "Municípios com política ou programa de promoção dos direitos e defesa das crianças e adolescentes, por ação ou medida e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10037",
+      "nome": "Municípios com Conselho Tutelar, por quantidade de conselhos e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10038",
+      "nome": "Municípios, total e com medidas socioeducativas em meio aberto para adolescentes em conflito com a lei, por responsável pela execução, por quantidade de unidades e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10039",
+      "nome": "Municípios com política ou programa de promoção de direitos da pessoa com deficiência, por tipos de ações ou medidas, por itens de acessibilidade existentes nos municípios e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10040",
+      "nome": "Municípios com política ou programa de promoção de direitos da pessoa idosa, por ações ou medidas e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10041",
+      "nome": "Municípios com política ou programa de promoção de direitos da pessoa em situação de rua, por ações ou medidas e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10042",
+      "nome": "Municípios, total e com acampamento ou rancho cigano e com protocolo que defina os procedimentos para a consulta livre, prévia e esclarecida aos povos e comunidades tradicionais para os\ncasos de medidas administrativas ou legislativas de qualquer natureza que lhes afete, incluindo obras de infraestrutura, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10043",
+      "nome": "Municípios, total, e por órgão responsável por receber, registrar e acompanhar denúncias de violação de direitos, por instrumentos utilizados pelo município para receber as denúncias e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10044",
+      "nome": "Municípios, total e com Plano Municipal para a Primeira Infância, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10045",
+      "nome": "Municípios, total e com Comitê, regulamentação e legislação específica para o tema da primeira infância, por tipo de instrumento e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10046",
+      "nome": "Municípios com Comitê Intersetorial de Políticas Públicas para a Primeira Infância, total e com representação, quantidade de reuniões, auxílio creche e com política ou programa especificamente direcionados à promoção e defesa de direitos das crianças de 0 a 6 anos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "10047",
+      "nome": "Municípios com política ou programa especificamente direcionados à promoção e defesa de direitos das crianças de 0 a 6 anos, por ações ou medidas e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10048",
+      "nome": "Municípios com auxílio creche para famílias com crianças na educação infantil, por forma de oferta do auxílio e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10384",
+      "nome": "Municípios com compras públicas da agricultura familiar, por tipo e programa utilizado e classe de tamanho da população do município"
+    },
+    {
+      "id": "10385",
+      "nome": "Municípios com estrutura organizacional na área de segurança alimentar, por secretaria ou setor ao qual a política está associada ou subordinada e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10386",
+      "nome": "Municípios com organismo executivo na área de política para mulheres, por secretaria ou setor ao qual a política está associada ou subordinada e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10387",
+      "nome": "Municípios com estrutura organizacional na área de direitos humanos, por secretaria ou setor ao qual a política está associada ou subordinada e por classe de tamanho da população do município"
+    },
+    {
+      "id": "10388",
+      "nome": "Municípios com Conselho Municipal de Assistência Social, por situação e representação do Conselho Municipal, segundo a classe de tamanho da população do município"
+    },
+    {
+      "id": "284",
+      "nome": "Municípios por classe de tamanho da população, sexo, idade, nível de instrução e partido político do prefeito, e indicativo se o prefeito exercia mandato no último ano da legislatura anterior"
+    },
+    {
+      "id": "5879",
+      "nome": "Municípios, total e com indicativo se o prefeito atual exercia mandato no último ano da legislatura anterior, sexo, grupos de idade, cor ou raça, nível de instrução e partido político do prefeito, por classes de tamanho da população, Grandes Regiões e Unidades da Federação"
+    },
+    {
+      "id": "5880",
+      "nome": "Municípios por cor ou raça, nível de instrução e partido político do prefeito, de acordo com as classes de tamanho da população, Grandes Regiões e Unidades da Federação"
+    },
+    {
+      "id": "5881",
+      "nome": "Pessoal ocupado na adinistração direta e indireta de acordo com o vínculo empregatício, segundo classes de tamanho da população dos municípios, Grandes Regiões e Unidades da Federação"
+    },
+    {
+      "id": "5882",
+      "nome": "Municípios, total e com Plano Diretor, por classe de tamanho da população, Grandes Regiões e Unidades da Federação"
+    },
+    {
+      "id": "5883",
+      "nome": "Municípios, total, e com legislação específica, com legislação como parte do Plano Diretor e sem legislação, segundo o tipo de instrumento, por classes de tamanho da população"
+    },
+    {
+      "id": "5884",
+      "nome": "Municípios com legislação específica segundo o tipo de instrumento e a faixa de anos de criação, por classe de tamanho dos municípios"
+    },
+    {
+      "id": "5885",
+      "nome": "Municípios, total, e com estrutura oranizacional nas áreas de educação, cultura, esporte e saúde, segundo classe de tamanho da população do município"
+    },
+    {
+      "id": "6328",
+      "nome": "Municípios com estrutura na área de habitação, transporte, agropecuária e meio ambiente, por classe de tamanho da população do município, segundo caracterização do órgão gestor, sexo, idade, cor ou raça e nível de instrução do titular do órgão gestor"
+    },
+    {
+      "id": "6400",
+      "nome": "Municípios, total e por existência de estrutura organizacional nas áreas de habitação, transporte, agropecuária e meio ambiente, segundo classe de tamanho da população do município"
+    },
+    {
+      "id": "6476",
+      "nome": "Municípios, total, que concederam apoio financeiro e não financeiro a atividades culturais e que desenvolveram programas ou ações para implantação, reforma ou modernização de equipamentos culturais, nos últimos 12 meses, por classe de tamanho da população"
+    },
+    {
+      "id": "6477",
+      "nome": "Municípios, total e com mídias e tipos de mídias, com canais de TV aberta e com equipamentos culturais, por classe de tamanho da população"
+    },
+    {
+      "id": "6478",
+      "nome": "Municípios com equipamentos culturais, por tipo e quantidade de equipamentos e por classe de tamanho da população do município"
+    },
+    {
+      "id": "6479",
+      "nome": "Municípios, total, e com Pontos de Cultura, quantidade e se apresenta ações em parceria com os pontos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "6480",
+      "nome": "Municípios, total, e com percentual de execução do orçamento previsto para cultura, por faixa percentual e classe de tamanho da população do município"
+    },
+    {
+      "id": "6481",
+      "nome": "Municípios, total, e que distribuíram recursos da Lei Aldir Blanc, por tipo de instrumento utilizado e classe de tamanho da população do município"
+    },
+    {
+      "id": "6809",
+      "nome": "Municípios que distribuíram recursos da Lei Aldir Blanc, por percentual de recursos utilizado, formas de divulgação da lei, forma de cadastro dos proponentes e classe de tamanho da população do município"
+    },
+    {
+      "id": "6810",
+      "nome": "Municípios que distribuíram recursos da Lei Aldir Blanc, por critério social de priorização, tipos de grupos/atividades que receberam recursos da lei e classe de tamanho da população do município"
+    },
+    {
+      "id": "6811",
+      "nome": "Municípios, total, e que tiveram dificuldades ou não distribuíram os recursos da Lei Aldir Blanc, por classe de tamanho da população do município"
+    },
+    {
+      "id": "6812",
+      "nome": "Municípios, total, e com Sistema Municipal de Esporte instituído, por classe de tamanho da população do município"
+    },
+    {
+      "id": "6984",
+      "nome": "Municípios que instituíram o Sistema Nacional de Esporte, por tipo de organismo que integra o sistema e por classe de tamanho da população do município"
+    },
+    {
+      "id": "7282",
+      "nome": "Municípios com estrutura na área de educação, cultura, esporte e saúde, por classe de tamanho da população do município, segundo caracterização do órgão gestor, sexo, idade, cor ou raça e nível de instrução do titular do órgão gestor"
+    },
+    {
+      "id": "7296",
+      "nome": "Municípios com estrutura organizacional na área de educação, por nível de instrução e área de formação do titular do órgão gestor, segundo classe de tamanho do município"
+    },
+    {
+      "id": "7299",
+      "nome": "Municípios com estrutura organizacional na área de educação, por tipos de ações prioritárias adotadas, de medidas de combate a discriminação e de existência de projetos no órgão gestor, segundo a classe de tamanho da população do município"
+    },
+    {
+      "id": "7308",
+      "nome": "Municípios, totais e com ou sem Plano Municipal nas áreas de educação, cultura e saúde, por classe de tamanho da população do município"
+    },
+    {
+      "id": "7310",
+      "nome": "Municípios, totais, e com Fórum Permanente de Educação, com Plano de Carreira para o Magistério, e com Plano de Carreira vigente para os(as) profissionais da educação não docentes, por classe de tamanho da população do município"
+    },
+    {
+      "id": "7312",
+      "nome": "Municípios com Plano de Carreira para o Magistério que inclui ou não previsão expressa do limite de dois terços da carga horária para o desempenho das atividades\nde interação com os educandos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "7340",
+      "nome": "Municípios, total, e com conselho municipal na área de educação, por classe de tamanho da população e por tipo de conselho"
+    },
+    {
+      "id": "7341",
+      "nome": "Municípios com Conselho Municipal de Educação, de Alimentação Escolar e de Transporte Escolar, por situação, caráter e representação do Conselho Municipal e por classe de tamanho da população do município"
+    },
+    {
+      "id": "7393",
+      "nome": "Municípios com Conselho Municipal de Educação, de Alimentação Escolar, de Acompanhamento Social do FUNDEB e de Transporte Escolar, por existência de capacitação para membros do conselho, de infraestrutura para o funcionamento do conselho e de reuniões do conselho nos últimos 12 meses, por classe de tamanho da população do município"
+    },
+    {
+      "id": "7402",
+      "nome": "Municípios, total, e com conselho municipal nas áreas de cultura, esporte e saúde, por classe de tamanho da população"
+    },
+    {
+      "id": "7403",
+      "nome": "Municípios com Conselho Municipal de Cultura, de Preservação do Patrimônio, de Esporte e de Saúde, por situação, caráter e representação do Conselho Municipal, por classe de tamanho da população do município"
+    },
+    {
+      "id": "7405",
+      "nome": "Municípios com Conselho Municipal de Cultura, de Preservação do Patrimônio, de Esporte e de Saúde, por classe de tamanho da população do município, existência de infraestrutura para o funcionamento do conselho, de capacitação para membros do conselho e de reuniões do conselho nos últimos 12 meses"
+    },
+    {
+      "id": "7410",
+      "nome": "Municípios com Conselho Municipal de Educação, por tipo de composição e função do gestor da educação no conselho, por classe de tamanho da população do município"
+    },
+    {
+      "id": "7423",
+      "nome": "Municípios, total, e com lei municipal que estabelece a criação de conselhos escolares, tipos de representação dos conselhos, responsabilidade da ordenação de despesas da educação e formas de nomeação dos(as) diretores(as) das escolas municipais, por classe de tamanho da população"
+    },
+    {
+      "id": "7519",
+      "nome": "Municípios, total, e com levantamento de demanda da população em idade escolar que não esteja sendo atendida, com mecanismos de consulta pública da demanda das famílias por creches e com creches municipais por classe de tamanho da população"
+    },
+    {
+      "id": "8431",
+      "nome": "Número de municípios totais com ou sem Plano Municipal nas áreas de habitação e transporte, por classe de tamanho da população"
+    },
+    {
+      "id": "8432",
+      "nome": "Municípios que realizaram Conferência Municipal nas áreas de habitação e transporte nos últimos 4 anos, por aspectos das conferências e classe de tamanho da população do município"
+    },
+    {
+      "id": "8433",
+      "nome": "Municípios com Plano Municipal de Habitação por algumas características do plano, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8434",
+      "nome": "Número de municípios, por classe de tamanho da população do município e realização de Conferência Municipal nos últimos 4 anos"
+    },
+    {
+      "id": "8435",
+      "nome": "Número de municípios, por classe de tamanho da população do município e existência de Conselho Municipal em diversas áreas"
+    },
+    {
+      "id": "8436",
+      "nome": "Municípios com Conselho Municipal nas áreas de habitação, transporte, agropecuária e meio ambiente, por tipo de representação e caráter do conselho, segundo a classe de tamanho da população do município"
+    },
+    {
+      "id": "8437",
+      "nome": "Municípios com Conselho Municipal nas áreas de habitação, transporte, agropecuária e meio ambiente, por características do conselho, segundo a classe de tamanho da população do município"
+    },
+    {
+      "id": "8438",
+      "nome": "Municípios com Fundo Municipal nas áreas de habitação, transporte e meio ambiente, por algumas características do fundo, segundo a classe de tamanho da população do município"
+    },
+    {
+      "id": "8439",
+      "nome": "Municípios, total e com cadastro ou levantamento de famílias interessadas, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8440",
+      "nome": "Municípios, total e com favelas, mocambos, palafitas ou assemelhados, com cortiços, casas de cômodos ou cabeças de porco, com loteamentos irregulares e/ou clandestinos, com ocupações de terrenos ou prédios por movimentos de moradia, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8441",
+      "nome": "Municípios, total e com algum programa que conceda o benefício do aluguel social, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8442",
+      "nome": "Municípios total e com Fundo Municipal nas áreas de habitação, transporte e meio ambiente, por classe de tamanho da população"
+    },
+    {
+      "id": "8443",
+      "nome": "Municípios, total e com serviços regulares de transporte existente nos municípios, por tipo de transporte e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8444",
+      "nome": "Municípios, total e com transporte coletivo por ônibus intramunicipal por tipo de regulamentação, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8445",
+      "nome": "Municípios com transporte coletivo por ônibus intramunicipal total e com isenção formal da tarifa, por classe de tamanho da população do município e por tipo de passageiro com isenção formal"
+    },
+    {
+      "id": "8446",
+      "nome": "Municípios com transporte coletivo por ônibus intramunicipal, total e com adaptação da frota de ônibus para pessoas com deficiência ou mobilidade reduzida, por tipo de adaptação, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8447",
+      "nome": "Municípios, total, com transporte coletivo por ônibus intermunicipal, por características do serviço e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8448",
+      "nome": "Municípios, total e com ciclovias e bicicletários públicos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8449",
+      "nome": "Municípios total e com órgão público ou convênios com instituições que atuem na assistência técnica e/ou extensão rural, por tipo de órgão, por tipo de instituição, por classe de tamanho da população"
+    },
+    {
+      "id": "8450",
+      "nome": "Municípios, total e com entidades de associativismo ou representação de produtores agropecuários com registro oficial ou em atividade, por tipo de entidade e por classe de tamanho da população"
+    },
+    {
+      "id": "8451",
+      "nome": "Municípios, total e com infraestrutura de comercialização e exposição e com programa ou ação para aquisição de produtos agropecuários, por tipo de infraestrutura, por tipo de programa ou ação e por classe de tamanho dos municípios"
+    },
+    {
+      "id": "8452",
+      "nome": "Municípios total e com iniciativas que auxiliem o exercício da atividade pecuária e extrativa vegetal, por tipo de iniciativa e por classe de tamanho da população"
+    },
+    {
+      "id": "8453",
+      "nome": "Municípios com Plano Municipal de Transporte, por algumas características do plano, segundo as classes de tamanho da população dos municípios"
+    },
+    {
+      "id": "8477",
+      "nome": "Municípios, total, com programas ou ações realizados pela prefeitura na área de habitação, no ano de 2018 e/ou 2019, , por classe de tamanho da população do município"
+    },
+    {
+      "id": "8481",
+      "nome": "Municípios com programa ou ação de acesso facilitado aos produtores agropecuários, por tipo e forma de acesso, por classe de tamanho dos municípios"
+    },
+    {
+      "id": "8482",
+      "nome": "Municípios total e com algum tipo de programa ou ação para o desenvolvimento de atividades agropecuárias, por tipo de programa ou ação e classes de tamanho da população"
+    },
+    {
+      "id": "8483",
+      "nome": "Municípios, total e com apoio e promoção de atividades agropecuárias e/ou com programa ou ação de prevenção contra problemas climáticos para o setor agropecuário"
+    },
+    {
+      "id": "8484",
+      "nome": "Municípios total e com programa ou ação social por tipo e área de atuação, por classe de tamanho da população"
+    },
+    {
+      "id": "8485",
+      "nome": "Municípios, total, e com capacitação de servidores promovida pelo governo federal nos últimos 4 anos, por área temática e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8486",
+      "nome": "Municípios total e com recursos financeiros próprios para a área de meio ambiente, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8487",
+      "nome": "Municípios total e com legislação ou instrumento de gestão ambiental por tipo de legislação, ano de criação e classe de tamanho da população do município"
+    },
+    {
+      "id": "8488",
+      "nome": "Municípios, total e que possui Plano de Gestão Integrada de Resíduos Sólidos e com programas ambientais implementados em parceria com Governo Federal, por tipo de programa e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8489",
+      "nome": "Municípios que pagam diretamente por Serviços Ambientais, por fonte de recursos, tipo de serviço e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8490",
+      "nome": "Municípios, total e com ocorrência de algum impacto ambiental e/ou processo/ação que resulte em impacto no ambiente, por tipo de ocorrência e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8495",
+      "nome": "Municípios, total, e com regulamentação na área de esporte por meio de instrumento legal, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8530",
+      "nome": "Municípios total e atingidos pela seca nos últimos 4 anos, existência de Plano de Contingência e/ou Prevenção para a seca, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8531",
+      "nome": "Municípios, total, e com ocorrência de casos confirmados clinicamente ou laboratorialmente de COVID-19, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8532",
+      "nome": "Municípios, total, e com rodízio na circulação de automóveis, motocicletas, ônibus ou outro transporte público ou privado no período da pandemia da COVID-19, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8533",
+      "nome": "Municípios com necessidade de internação de pessoas que contraíram COVID-19, total e com existência de internações acima da capacidade de leitos e de UTI públicos ou privados conveniados ao SUS e com necessidade de ampliação do número de leitos para atender à demanda por internação no município em virtude da COVID-19, por classe de tamanho da população do município,"
+    },
+    {
+      "id": "8534",
+      "nome": "Municípios atingidos pela seca nos últimos 4 anos, ano da seca de maior impacto, ocorrências no ano da seca de maior impacto e ações para evitar ou minimizar os danos causados pela seca, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8535",
+      "nome": "Municípios, total e com ocorrência de alagamentos e processo erosivo nos últimos 4 anos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8536",
+      "nome": "Municípios, total e atingidos por enchentes ou inundações graduais, enchurradas ou inundações bruscas ou escorregamentos ou deslizamenrtos de encostas nos últimos 4 anos, por algumas características dos desastres naturais e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8537",
+      "nome": "Municípios com ocorrência de enchentes e inundações graduais nos últimos 4 anos por áreas atingidas e tipos de atividades preventivas implementadas e por classe de tamanho da população do município."
+    },
+    {
+      "id": "8538",
+      "nome": "Municípios com ocorrência de enxurradas e inundações bruscas nos últimos 4 anos, por áreas de ocorrência, por medidas implementadas para evitar ou minimizar os danos causados e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8539",
+      "nome": "Municípios com ocorrência de escorregamentos ou deslizamentos de encostas nos últimos 4 anos por áreas de ocorrência, por medidas adotadas para evitar ou minimizar danos e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8540",
+      "nome": "Municípios, total e com algum tipo de instrumento de planejamento de gestão de riscos e desastres, por tipo de instrumento e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8541",
+      "nome": "Municípios, total e com medidas adotadas em relação à gestão de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas e de desastres decorrentes de escorregamentos ou desizamentos de encostas, por tipos de medidas e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8542",
+      "nome": "Municípios, total com instituições de apoio a gestão de riscos e de desastres, por tipo de instituição, por atividades promovidas e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8543",
+      "nome": "Municípios, total e com alguma medida de isolamento social em virtude da pandemia da COVID-19 e com análise de eficácia do isolamento, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8544",
+      "nome": "Municípios, total e com barreiras sanitárias nas entradas do município durante o período da pandemia da COVID-19 e medida para regulamentar sanções por descumprimento de isolamento social, por classe de tamanho da população do município"
+    },
+    {
+      "id": "8545",
+      "nome": "Municípios, total e que implementaram ações durante a pandemia da COVID-19 e para assegurar a proteção social das famílias e indivíduos em situação de risco e/ou vulnerabilidade social, por tipo de ação e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8546",
+      "nome": "Municípios com casos confirmados clinicamente ou laboratorialmente de COVID-19 no município, por necessidade de instalação de tendas de triagem, por necessidade de internação, e por classe de tamanho da população do município"
+    },
+    {
+      "id": "8547",
+      "nome": "Municípios, total e com ações de enfrentamento da pandemia da COVID-19, por características das ações e por classe de tamanho da população do município"
+    },
+    {
+      "id": "9347",
+      "nome": "Municípios, total, e que executaram ações, projetos e programas ou ações, projetos e programas permanentes de inclusão na área do esporte e que realizou evento(s) esportivo(s) no município executado(s) por ou com participação da prefeitura nos últimos 24 meses, com abrangência do(s) evento(s) por classe de tamanho da população do município"
+    },
+    {
+      "id": "9466",
+      "nome": "Municípios com Plano Municipal de Saúde, ano de elaboração do plano e inclusão de ações previstas na Política Nacional de Saúde Integral da População Negra no plano, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9467",
+      "nome": "Municípios, total, e com tópicos específicos em cursos e processos de formação de pessoal e com instância específica para conduzir, coordenar e monitorar ações de saúde voltadas para a população negra, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9469",
+      "nome": "Municípios, total, e com estabelecimento de saúde de responsabilidade da gestão municipal, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9470",
+      "nome": "Municípios com estabelecimento de saúde de responsabilidade da gestão municipal, total, e administrado por terceiros, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9472",
+      "nome": "Municípios com estabelecimento de saúde de responsabilidade da gestão municipal, total, e administrado por terceiros, por tipo de administração, número de estabelecimentos e por classe de tamanho da população do município"
+    },
+    {
+      "id": "9473",
+      "nome": "Municípios, total, e com Programa de Agentes Comunitários e Programa de Saúde da Família e com estrutura similar ao Programa de Saúde da Família, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9474",
+      "nome": "Municípios com Programa de Saúde da Família ou com estrutura similar, por tipo e faixa de pessoal ocupado no programa, por classe de tamanho da população"
+    },
+    {
+      "id": "9475",
+      "nome": "Municípios com Programa de Saúde da Família ou da estrutura similar, por existencia de equipe atendendo grupos específicos e classe de tamanho da população do município"
+    },
+    {
+      "id": "9476",
+      "nome": "Municípios com posto ou serviço regular de vacinação e aplicação da Caderneta de Saúde da Criança do Ministério da Saúde e próprio, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9477",
+      "nome": "Municípios, total, e com política, programa ou ações específicas, com programa de Planejamento Familiar ou Reprodutivo e com implantação/colocação de DIU, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9479",
+      "nome": "Municípios, total, e com programas e ações na área de saúde para grupos populacionais específicos e com referenciamento de pacientes da Atenção Básica, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9487",
+      "nome": "Municípios, total, e com serviços específicos e tipos de leitos/berços em estabelecimentos públicos ou conveniados com o SUS, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9491",
+      "nome": "Municípios, total, e com estabelecimento público ou convenidos ao SUS de saúde, seus aspectos e outros tipos de instituições, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9493",
+      "nome": "Municípios, total, e com realização de busca ativa dos casos de nascidos vivos não registrados e de serviços de vigilância em saúde, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9494",
+      "nome": "Municípios, total, e com local (público ou privado) com condições de realizar testes PCR ou sorológicos em pacientes suspeitos de COVID-19, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9495",
+      "nome": "Municípios com Conselho Municipal de Acompanhamento Social do FUNDEB, por situação e representação do Conselho Municipal e por classe de tamanho da população do município"
+    },
+    {
+      "id": "9701",
+      "nome": "Municípios com creche, total e em período integral de responsabilidade do poder público municipal, por classe de tamanho da população do município e quantidade de creches municipais"
+    },
+    {
+      "id": "9702",
+      "nome": "Municípios, total e com realização de alguma Conferência Municipal de Cultura nos últimos 4 anos, por classe de tamanho da população"
+    },
+    {
+      "id": "9703",
+      "nome": "Municípios, total, e com Plano Municipal de Cultura, por características do plano e classe de tamanho da população"
+    },
+    {
+      "id": "9704",
+      "nome": "Municípios com Plano Municipal de Cultura e com a participação da sociedade civil na elaboração do plano, primeiro e último ano de vigência do plano e existência de metas no Plano Municipal de Cultura e por classe de tamanho da população do município"
+    },
+    {
+      "id": "9705",
+      "nome": "Municípios, total, e com legislação municipal de proteção ao patrimônio cultural e previsão de tombamento na legislação, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9706",
+      "nome": "Municípios, total, e com Fundo Municipal nas áreas de cultura e saúde, por classe de tamanho da população"
+    },
+    {
+      "id": "9707",
+      "nome": "Municípios com Fundo Municipal de Cultura, gestão do fundo e recursos destinados aos programas culturais, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9710",
+      "nome": "Municípios, total, e com instalações esportivas municipais, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9711",
+      "nome": "Municípios, total, e com elaboração de calendário de eventos esportivos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9712",
+      "nome": "Municípios com instalações esportivas municipais, por tipo de instalação e classe de tamanho da população do município"
+    },
+    {
+      "id": "9713",
+      "nome": "Municípios com estrutura organizacional na área de saúde, por nível de instrução, área de formação do titular do órgão gestor e classe de tamanho da população do município"
+    },
+    {
+      "id": "9714",
+      "nome": "Municípios com Fundo Municipal de Saúde, por responsabilidade de gestão do fundo e classe de tamanho da população do município"
+    },
+    {
+      "id": "9715",
+      "nome": "Municípios, total, e que realizaram Conferência Municipal de Saúde, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9716",
+      "nome": "Municípios com estrutura organizacional na área de saúde e cujo órgão gestor participa de algum Colegiado de Gestão Regional, com ou sem reuniões nos últimos 12 meses, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9982",
+      "nome": "Municípios com estrutura na área de assistência social, segurança pública, direitos humanos e política para mulheres, por classe de tamanho da população do município, segundo caracterização do órgão gestor, sexo, idade, cor ou raça e nível de instrução do titular do órgão gestor"
+    },
+    {
+      "id": "9984",
+      "nome": "Municípios com estrutura organizacional na área de assistência social, por nível de instrução e área de formação do titular do órgão gestor, segundo classe de tamanho do município"
+    },
+    {
+      "id": "9985",
+      "nome": "Municípios, totais e com Plano Municipal nas áreas de assistência social, segurança alimentar, política para mulheres, segurança pública, direitos humanos e primeira infância, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9987",
+      "nome": "Municípios, total, e com conselho municipal nas áreas de assistência social, segurança alimentar, política para mulheres, segurança pública e direitos humanos, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9988",
+      "nome": "Municípios com Conselho Municipal de Assistência Social, de Direitos da Criança e do Adolescente, de Direitos da Mulher, de Direitos da Pessoa com Deficiência, de Direitos da Pessoa Idosa, de Direitos de Lésbicas, Gays, Bissexuais, Travestis e Transexuais, de Direitos Humanos, de Igualdade Racial, de Segurança Alimentar e Nutricional, de Segurança Pública e dos Povos e Comunidades Tradicionais, por existência de infraestrutura para o funcionamento do conselho, de capacitação para membros do conselho e de reuniões do conselho nos últimos 12 meses, segundo classe de tamanho da população do município"
+    },
+    {
+      "id": "9989",
+      "nome": "Municípios com Plano Municipal de Direitos Humanos e para Primeira Infância, por tipo de regulamentação de criação e ano de criação, segundo classe de tamanho da população do município"
+    },
+    {
+      "id": "9990",
+      "nome": "Municípios com estrutura organizacional na área de assistência social, por classe de tamanho da população do município e participação do pessoal ocupado na área de assistência social em cursos de capacitação, por grupos de temas"
+    },
+    {
+      "id": "9991",
+      "nome": "Municípios, total, e com Fundo Municipal nas áreas de assistência social, segurança pública e direitos humanos, segundo classe de tamanho da população do município"
+    },
+    {
+      "id": "9992",
+      "nome": "Municípios com estrutura organizacional na área de assistência social, total e que receberam orientações e apoio técnico do órgão gestor da assistência social do estado, com características e finalidade de utilização do CadÚnico, por classe de tamanho da população do município,"
+    },
+    {
+      "id": "9993",
+      "nome": "Municípios com Plano Municipal de Assistência Social, por classe de tamanho da população do município e por faixas de ano de criação e de atualização do plano"
+    },
+    {
+      "id": "9994",
+      "nome": "Municípios com Plano Municipal de Assistência Social, total e com aprovação realizada pelo conselho e com avaliação anual de desenvolvimento, por classe de tamanho da população do município e por responsabilidade de avaliação"
+    },
+    {
+      "id": "9995",
+      "nome": "Municípios com Conselho Municipal de Assistência Social ativo, por faixa de anos de criação e composição do conselho, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9996",
+      "nome": "Municípios com Fundo Municipal de Assistência Social e responsável pela gestão do fundo, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9997",
+      "nome": "Número de municípios total e que executam serviços socioassistenciais e com concessão de benefícios eventuais, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9998",
+      "nome": "Municípios que executam serviços socioassistenciais, por tipo de serviço executado, tipo de unidade física presente no município e grupo específico beneficiado, por classe de tamanho da população do município"
+    },
+    {
+      "id": "9999",
+      "nome": "Municípios com rede socioassistencial para executar os serviços socioassistenciais, por número de unidades físicas e por classe de tamanho da população do município"
+    }
+  ]
+}

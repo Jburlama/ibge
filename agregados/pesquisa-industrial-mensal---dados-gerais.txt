@@ -1,0 +1,67 @@
++----+------+--------------------------------------------------------------------------------------------------------------+
+|    |   id | nome                                                                                                         |
++====+======+==============================================================================================================+
+|  0 |   49 | Folha de pagamento nominal por tipo de índice e gêneros da indústria de transformação                        |
++----+------+--------------------------------------------------------------------------------------------------------------+
+|  1 |   50 | Folha de pagamento nominal por classes de indústrias e tipo de índice                                        |
++----+------+--------------------------------------------------------------------------------------------------------------+
+|  2 |   51 | Folha de pagamento nominal por trabalhador por tipo de índice e gêneros da indústria de transformação        |
++----+------+--------------------------------------------------------------------------------------------------------------+
+|  3 |   52 | Folha de pagamento nominal por trabalhador por classes de indústrias e tipo de índice                        |
++----+------+--------------------------------------------------------------------------------------------------------------+
+|  4 |   53 | Folha de pagamento real por trabalhador por tipo de índice e gêneros da indústria de transformação           |
++----+------+--------------------------------------------------------------------------------------------------------------+
+|  5 |   54 | Folha de pagamento real por trabalhador por classes de indústrias e tipo de índice                           |
++----+------+--------------------------------------------------------------------------------------------------------------+
+|  6 |   55 | Folha de pagamento real por tipo de índice e gêneros da indústria de transformação                           |
++----+------+--------------------------------------------------------------------------------------------------------------+
+|  7 |   56 | Folha de pagamento real por classes de indústrias e tipo de índice                                           |
++----+------+--------------------------------------------------------------------------------------------------------------+
+|  8 |   57 | Número de horas pagas na produção por tipo de índice e gêneros da indústria de transformação                 |
++----+------+--------------------------------------------------------------------------------------------------------------+
+|  9 |   59 | Número de horas pagas na produção por trabalhador por tipo de índice e gêneros da indústria de transformação |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 10 |   60 | Número de horas pagas na produção por classes de indústrias e tipo de índice                                 |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 11 |   62 | Número de horas pagas na produção por trabalhador por classes de indústrias e tipo de índice                 |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 12 |   63 | Pessoal ocupado na produção por tipo de índice e gêneros da indústria de transformação                       |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 13 |   64 | Pessoal ocupado na produção por classes de indústrias e tipo de índice                                       |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 14 |   65 | Salário contratual médio nominal por tipo de índice e gêneros da indústria de transformação                  |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 15 |   66 | Salário contratual médio real por tipo de índice e gêneros da indústria de transformação                     |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 16 |   67 | Salário contratual médio nominal por classes de indústrias e tipo de índice                                  |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 17 |   68 | Salário contratual nominal por tipo de índice e gêneros da indústria de transformação                        |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 18 |   69 | Salário contratual médio real por classes de indústrias e tipo de índice                                     |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 19 |   70 | Salário contratual nominal por classes de indústrias e tipo de índice                                        |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 20 |   71 | Salário contratual real por tipo de índice e gêneros da indústria de transformação                           |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 21 |   72 | Salário contratual real por classes de indústrias e tipo de índice                                           |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 22 |   75 | Valor da produção nominal por tipo de índice e gêneros da indústria de transformação                         |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 23 |   76 | Valor da produção nominal por classes de indústrias e tipo de índice                                         |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 24 |   77 | Valor da produção real por tipo de índice e gêneros da indústria de transformação                            |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 25 |   78 | Valor da produção real por classes de indústrias e tipo de índice                                            |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 26 |   79 | Valor das horas extras pagas nominal por tipo de índice e gêneros da indústria de transformação              |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 27 |   80 | Valor das horas extras pagas nominal por classes de indústrias e tipo de índice                              |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 28 |   81 | Valor das horas extras pagas real por tipo de índice e gêneros da indústria de transformação                 |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 29 |   82 | Valor das horas extras pagas real por classes de indústrias e tipo de índice                                 |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 30 |   92 | Taxa de rotatividade por gêneros da indústria de transformação                                               |
++----+------+--------------------------------------------------------------------------------------------------------------+
+| 31 |   93 | Taxa de rotatividade por classes de indústrias                                                               |
++----+------+--------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,38 @@
+{
+  "id": "IG",
+  "nome": "Índice Nacional de Preços ao Consumidor Amplo Especial",
+  "agregados": [
+    {
+      "id": "117",
+      "nome": "IPCAE - Série histórica com número-índice, variação percentual no mês e variações percentuais acumuladas em 3 meses, 6 meses, no ano e em 12 meses (série encerrada)"
+    },
+    {
+      "id": "2946",
+      "nome": "IPCAE - Percentual no mês, acumulado no ano e peso no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (série encerrada)"
+    },
+    {
+      "id": "633",
+      "nome": "IPCAE - Percentual acumulado no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1992 até julho/1999)"
+    },
+    {
+      "id": "648",
+      "nome": "IPCAE - Percentual acumulado no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até julho/2006)"
+    },
+    {
+      "id": "649",
+      "nome": "IPCAE - Percentual no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até julho/2006)"
+    },
+    {
+      "id": "650",
+      "nome": "IPCAE - Peso no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até julho/2006)"
+    },
+    {
+      "id": "84",
+      "nome": "IPCAE - Percentual no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1992 até julho/1999)"
+    },
+    {
+      "id": "85",
+      "nome": "IPCAE - Peso no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1992 até julho/1999)"
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "id": "IU",
+  "nome": "Indicadores de Desenvolvimento Sustentável",
+  "agregados": [
+    {
+      "id": "1096",
+      "nome": "Participação relativa das despesas públicas com a proteção ao meio ambiente em relação ao total das depesas públicas por níveis de governo, segundo as Grandes Regiões e Unidades da Federação"
+    },
+    {
+      "id": "1103",
+      "nome": "Áreas remanescentes e desflorestadas da Mata Atlântica, de Restinga e de Manguezal, segundo as Unidades da Federação abrangidas no inventário (série encerrada)"
+    },
+    {
+      "id": "1104",
+      "nome": "Vulnerabilidade climática à desertificação na Região Nordeste, segundo as classes de vulnerabilidade (série encerrada)"
+    },
+    {
+      "id": "1105",
+      "nome": "Número e Área dos municípios que declararam ter problemas, na agricultura e/ou pecuária, causados por desertificação e/ou que declararam ter programas e/ou ações de recuperação e controle de áreas em processo de desertificação, segundo as Grandes Regiões e Unidades da Federação que fazem parte do semiárido (série encerrada)"
+    },
+    {
+      "id": "1106",
+      "nome": "Arenização no sudoeste do Rio Grande do Sul, segundo os municípios de ocorrência (série encerrada)"
+    },
+    {
+      "id": "1107",
+      "nome": "Produção estimada de pescado por modalidade de pesca (série encerrada)"
+    },
+    {
+      "id": "1108",
+      "nome": "Produção estimada de pescado por modalidade, segundo as Grandes Regiões e Unidades da Federação (série encerrada)"
+    },
+    {
+      "id": "1121",
+      "nome": "População residente total e em área costeira e Proporção da população residente em área costeira"
+    },
+    {
+      "id": "1122",
+      "nome": "Número de espécies viventes e ameaçadas de extinção, no Brasil e no mundo, segundo grupos taxonômicos selecionados (série encerrada)"
+    },
+    {
+      "id": "1123",
+      "nome": "Número de espécies animais terrestres e aquáticas ameaçadas de extinção por grupos taxonômicos e categorias de risco (série encerrada)"
+    },
+    {
+      "id": "1124",
+      "nome": "Número de espécies da flora ameaçadas de extinção, por grupos taxonômicos e categorias de risco (série extinta)"
+    },
+    {
+      "id": "1125",
+      "nome": "Número de espécies de plantas medicinais ameaçadas de extinção por categorias de risco (série encerrada)"
+    },
+    {
+      "id": "1126",
+      "nome": "Número de espécies, viventes e endêmicas, da flora e da fauna brasileiras por grupos taxonômicos segundo os biomas (série encerrada)"
+    },
+    {
+      "id": "1127",
+      "nome": "Número de espécies da flora e da fauna terrestre brasileira ameaçadas de extinção, por grupos taxonômicos (série encerrada)"
+    },
+    {
+      "id": "1128",
+      "nome": "Número de espécies de peixes e de invertebrados aquáticos da fauna brasileira sobreexplotadas ou ameaçadas de sobreexplotação, segundo os habitats (série encerrada)"
+    },
+    {
+      "id": "1129",
+      "nome": "Número de espécies da flora e da fauna brasileiras ameaçadas de extinção por categorias de risco, segundo as Unidades da Federação que possuem lista de espécies ameaçadas (série encerrada)"
+    },
+    {
+      "id": "1130",
+      "nome": "Número de espécies da flora brasileira ameaçadas de extinção por grupos taxonômicos, segundo as Unidades da Federação que possuem lista de espécies ameaçadas (série encerrada)"
+    },
+    {
+      "id": "1131",
+      "nome": "Número de espécies da fauna brasileira ameaçadas de extinção por grupos taxonômicos, segundo as Unidades da Federação que possuem lista de espécies ameaçadas (série encerrada)"
+    },
+    {
+      "id": "1132",
+      "nome": "Número de espécies arbóreas nativas (série encerrada)"
+    },
+    {
+      "id": "1133",
+      "nome": "Número de espécies arbóreas nativas ameaçadas de extinção por categorias de risco e grupos taxonômicos (série encerrada)"
+    },
+    {
+      "id": "1135",
+      "nome": "Número e Área das unidades de conservação estaduais por tipo de uso e categoria de manejo (série encerrada)"
+    },
+    {
+      "id": "1136",
+      "nome": "Número e Área das unidades de conservação estaduais por tipo de uso (série encerrada)"
+    },
+    {
+      "id": "1137",
+      "nome": "Número e Área das unidades de conservação municipais por tipo de uso e categoria de manejo (série encerrada)"
+    },
+    {
+      "id": "1138",
+      "nome": "Número de animais silvestres apreendidos (série encerrada)"
+    },
+    {
+      "id": "1139",
+      "nome": "Fauna silvestre, total e percentual, apreendida por classes da fauna (série encerrada)"
+    },
+    {
+      "id": "1140",
+      "nome": "Número de animais silvestres apreendidos, segundo as Grandes Regiões (série encerrada)"
+    },
+    {
+      "id": "1141",
+      "nome": "Número de espécies animais apreendidas por alguns grupos taxonômicos, segundo as Grandes Regiões (série encerrada)"
+    },
+    {
+      "id": "1142",
+      "nome": "Número de criadouros da fauna nativa (série encerrada)"
+    },
+    {
+      "id": "1143",
+      "nome": "Valor, Quantidade e Peso da exportação de peixes ornamentais vivos (série encerrada)"
+    },
+    {
+      "id": "1144",
+      "nome": "Núcleos de desertificação na Região Nordeste, com indicação da área total dos municípios e da população residente nos municípios atingidos (série encerrada)"
+    },
+    {
+      "id": "1145",
+      "nome": "Percentual de amostras com valores até 1.000 coliformes fecais /100 ml ou até 800 Escheríchia coli/100 ml ou até 100 Enteroccocos/100 ml, nas águas de praias selecionadas"
+    },
+    {
+      "id": "1146",
+      "nome": "Média anual de coliformes fecais ou de Escheríchia coli ou de Enteroccocos, nas águas de praias selecionadas"
+    },
+    {
+      "id": "1147",
+      "nome": "Percentil 80 anual da qualidade de água para recreação de contato primário, por vários métodos com base na resolução 274/2000 do CONAMA, nas águas de praias selecionadas"
+    },
+    {
+      "id": "1148",
+      "nome": "Espécies mais apreendidas/recolhidas aos centros de triagem de animais silvestres por grupos taxonômicos (série encerrada)"
+    },
+    {
+      "id": "1149",
+      "nome": "Número de espécimes mais recebidos nos núcleos de fauna e nos centros de triagem de animais silvestres por grupos taxonômicos (série encerrada)"
+    },
+    {
+      "id": "1150",
+      "nome": "Número de espécies da fauna brasileira incluídas na lista da Convenção sobre o Comércio Internacional de Espécies da Flora e da Fauna Selvagens em Perigo de Extinção - CITES (série encerrada)"
+    },
+    {
+      "id": "1151",
+      "nome": "Número de espécies da flora brasileira incluídas na lista da Convenção sobre o Comércio Internacional de Espécies da Flora e da Fauna Selvagens em Perigo de Extinção - CITES (série encerrada)"
+    },
+    {
+      "id": "1152",
+      "nome": "Número de espécies invasoras, terrestres e aquáticas, segundo alguns grupos taxonômicos, hábito ou forma de vida"
+    },
+    {
+      "id": "1153",
+      "nome": "Número de espécies invasoras de Moneras, Protistas e animais, terrestres e aquáticas, por danos causados ao meio ambiente e/ou ao homem, segundo alguns grupos taxonômicos"
+    },
+    {
+      "id": "1154",
+      "nome": "Número de espécies vegetais invasoras, terrestres e aquáticas, por danos causados ao meio ambiente e/ou ao homem, segundo o hábito ou forma de vida"
+    },
+    {
+      "id": "1155",
+      "nome": "Espécies invasoras, total e percentual, segundo o local de origem"
+    },
+    {
+      "id": "1156",
+      "nome": "Número de municípios, total e com alguma ocorrência registrada de espécies invasoras e proporção em relação ao total de municípios"
+    },
+    {
+      "id": "1157",
+      "nome": "Distribuição percentual de moradores em domicílios particulares permanentes por tipo de destino do lixo e situação do domicílio"
+    },
+    {
+      "id": "1158",
+      "nome": "Quantidade de lixo coletado por tipo de destinação final do lixo"
+    },
+    {
+      "id": "1159",
+      "nome": "Distribuição percentual de moradores em domicílios particulares permanentes por tipo de abastecimento de água e situação do domicílio"
+    },
+    {
+      "id": "1160",
+      "nome": "Distribuição percentual de moradores em domicílios particulares permanentes pelo tipo de esgotamento sanitário, segundo a situação do domicílio"
+    },
+    {
+      "id": "1162",
+      "nome": "População residente e Taxa média geométrica de crescimento anual da população residente"
+    },
+    {
+      "id": "1163",
+      "nome": "Taxa de fecundidade total por situação do domicílio (série encerrada)"
+    },
+    {
+      "id": "1164",
+      "nome": "População indígena residente (série encerrada)"
+    },
+    {
+      "id": "1165",
+      "nome": "Número e área de parques e terras indígenas homologados e registrados (série encerrada)"
+    },
+    {
+      "id": "1166",
+      "nome": "Participação dos parques e terras indígenas homologados e registrados no total das áreas das unidades territoriais (série encerrada)"
+    },
+    {
+      "id": "1167",
+      "nome": "Índice de Gini da distribuição do rendimento mensal das pessoas de 10 anos ou mais de idade, com rendimento"
+    },
+    {
+      "id": "1168",
+      "nome": "Taxa média anual de desocupação das pessoas de 10 anos ou mais de idade, das Regiões Metropolitanas de Recife, Salvador, Belo Horizonte, Rio de Janeiro, São Paulo e Porto Alegre"
+    },
+    {
+      "id": "1169",
+      "nome": "Taxa de desocupação na semana de referência das pessoas de 10 anos ou mais de idade, segundo os meses do ano"
+    },
+    {
+      "id": "1170",
+      "nome": "Distribuição das famílias residentes em domicílios particulares por classes de rendimento mensal familiar per capita (série encerrada)"
+    },
+    {
+      "id": "1171",
+      "nome": "Número de famílias residentes em domicílios particulares"
+    },
+    {
+      "id": "1172",
+      "nome": "Rendimento médio mensal real das pessoas de 10 anos ou mais de idade, com rendimento, por sexo"
+    },
+    {
+      "id": "1173",
+      "nome": "Rendimento médio mensal real das pessoas de 10 anos ou mais de idade, com rendimento, por cor ou raça"
+    },
+    {
+      "id": "1174",
+      "nome": "Esperança de vida ao nascer"
+    },
+    {
+      "id": "1175",
+      "nome": "Taxa de mortalidade infantil, por 1.000 nascidos vivos (série encerrada)"
+    },
+    {
+      "id": "1176",
+      "nome": "Prevalência de desnutrição total em crianças menores de 5 anos de idade"
+    },
+    {
+      "id": "1180",
+      "nome": "Número de linhas telefônicas fixas e móveis celulares por 1.000 habitantes"
+    },
+    {
+      "id": "1182",
+      "nome": "População residente estimada e número de linhas telefônicas fixas e móveis celulares, total e por 1.000 habitantes"
+    },
+    {
+      "id": "1183",
+      "nome": "Oferta de serviços básicos de saúde por tipo de serviço"
+    },
+    {
+      "id": "1184",
+      "nome": "Taxa de escolarização das pessoas de 5 a 24 anos de idade por grupos de idade (série encerrada)"
+    },
+    {
+      "id": "1185",
+      "nome": "Taxa de escolarização das pessoas de 7 a 14 anos de idade por sexo (série encerrada)"
+    },
+    {
+      "id": "1186",
+      "nome": "Taxa de escolarização das pessoas de 7 a 14 anos de idade por cor ou raça (série encerrada)"
+    },
+    {
+      "id": "1187",
+      "nome": "Taxa de alfabetização das pessoas de 15 anos ou mais de idade por sexo"
+    },
+    {
+      "id": "1188",
+      "nome": "Taxa de alfabetização das pessoas de 15 anos ou mais de idade, por cor ou raça"
+    },
+    {
+      "id": "1189",
+      "nome": "Média de anos de estudo das pessoas de 25 anos ou mais de idade por sexo (série encerrada)"
+    },
+    {
+      "id": "1190",
+      "nome": "Média de anos de estudo das pessoas de 25 anos ou mais de idade por cor ou raça (série encerrada)"
+    },
+    {
+      "id": "1191",
+      "nome": "Domicílios particulares permanentes, total e adequados para moradia, e Proporção de domicílios particulares permanentes adequados para moradia em relação ao total"
+    },
+    {
+      "id": "1192",
+      "nome": "Percentual de domicílios particulares permanentes adequados para moradia, por critérios de adequação"
+    },
+    {
+      "id": "1193",
+      "nome": "Produto Interno Bruto per capita, a preços de 1995"
+    },
+    {
+      "id": "1194",
+      "nome": "Produto Interno Bruto per capita"
+    },
+    {
+      "id": "1195",
+      "nome": "Taxa de investimento"
+    },
+    {
+      "id": "1196",
+      "nome": "Formação bruta de capital, por setor institucional"
+    },
+    {
+      "id": "1197",
+      "nome": "Dívida externa líquida, total e como percentual do PIB"
+    },
+    {
+      "id": "1198",
+      "nome": "Índice do consumo mineral per capita, segundo substâncias selecionadas"
+    },
+    {
+      "id": "1199",
+      "nome": "Consumo mineral per capita, segundo substâncias selecionadas (classe, sub-classe e substância)"
+    },
+    {
+      "id": "1201",
+      "nome": "Reservas, Produção e Vida útil das reservas de petróleo e gás natural"
+    },
+    {
+      "id": "1202",
+      "nome": "Proporção de material recliclado em atividades industriais selecionadas"
+    },
+    {
+      "id": "1203",
+      "nome": "Serviço de coleta seletiva de lixo por número de municípios e residências atendidos e quantidade de lixo coletado (série encerrada)"
+    },
+    {
+      "id": "1204",
+      "nome": "Número e Atividade total dos rejeitos radioativos de fontes diversas armazenados nos depósitos intermediários dos Institutos da Comissão Nacional de Energia Nuclear - CNEN"
+    },
+    {
+      "id": "1205",
+      "nome": "Número de pára-raios, fitas e detetores radioativos armazenados nos depósitos intermediários dos Institutos da Comissão Nacional de Energia Nuclear - CNEN"
+    },
+    {
+      "id": "1207",
+      "nome": "Volume e Atividade de subprodutos industriais e rejeitos radioativos, de origens diversas, armazenados em depósitos temporários e definitivos, segundo o tipo de depósito"
+    },
+    {
+      "id": "1208",
+      "nome": "Quantidade de combustível nuclear dentro do reator, em 31/12 nas usinas de Angra I e Angra II"
+    },
+    {
+      "id": "1210",
+      "nome": "Número de instalações radioativas por área de atividade"
+    },
+    {
+      "id": "1212",
+      "nome": "Total de municípios e proporção de municípios que possuem conselho de meio ambiente, por condição de atividade do conselho"
+    },
+    {
+      "id": "1219",
+      "nome": "Estabelecimentos de ensino fundamental e médio com acesso à Internet"
+    },
+    {
+      "id": "1220",
+      "nome": "Domicílios particulares permanentes com acesso à Internet"
+    },
+    {
+      "id": "1377",
+      "nome": "Quantidade e Área das reservas particulares do patrimônio natural federais, com indicação de participação em relação à área total (série encerrada)"
+    },
+    {
+      "id": "352",
+      "nome": "Produção de rejeitos radioativos de baixo e médio níveis de atividade nas usinas de Angra I e Angra II"
+    },
+    {
+      "id": "3727",
+      "nome": "Taxa de fecundidade total"
+    },
+    {
+      "id": "3733",
+      "nome": "Razão de dependência da população, por condição da população em relação a idade"
+    },
+    {
+      "id": "3734",
+      "nome": "Domicílios particulares permanentes urbanos e distribuição percentual, por classes de rendimento mensal domiciliar per capita em salários mínimos"
+    },
+    {
+      "id": "3735",
+      "nome": "Razão de sexo (homens / mulheres) e razão de cor ou raça (branca / preta ou parda) do rendimento médio mensal da população, exclusive as informações das pessoas sem declaração de rendimento"
+    },
+    {
+      "id": "3736",
+      "nome": "Percentual de domicílios com rendimento mensal domiciliar per capita de até 1/2 salário mínimo, exclusive o rendimento das pessoas cuja condição no domicílio era pensionista, empregado doméstico ou parente do empregado doméstico"
+    },
+    {
+      "id": "3762",
+      "nome": "Percentual da população residente em municípios com Agenda 21 Local e com Fórum da Agenda 21 Local"
+    },
+    {
+      "id": "3824",
+      "nome": "Proporção de mulheres em trabalhos formais"
+    },
+    {
+      "id": "3825",
+      "nome": "Esperança de vida ao nascer, por sexo"
+    },
+    {
+      "id": "3826",
+      "nome": "Rendimento médio mensal nominal das pessoas de 10 anos ou mais de idade, com rendimento, por sexo"
+    },
+    {
+      "id": "3828",
+      "nome": "Rendimento médio mensal nominal das pessoas de 10 anos ou mais de idade, com rendimento, por cor ou raça"
+    },
+    {
+      "id": "3834",
+      "nome": "Taxa de mortalidade infantil"
+    },
+    {
+      "id": "3835",
+      "nome": "Taxa de incidência de AIDS, por ano de diagnóstico"
+    },
+    {
+      "id": "3836",
+      "nome": "Taxa de frequência escolar bruta e Taxa de frequência escolar líquida"
+    },
+    {
+      "id": "3837",
+      "nome": "Taxa de frequência escolar bruta e Taxa de frequência escolar líquida, por sexo"
+    },
+    {
+      "id": "3838",
+      "nome": "Taxa de frequência escolar bruta e Taxa de frequência escolar líquida, por cor ou raça"
+    },
+    {
+      "id": "3843",
+      "nome": "Consumo de substâncias destruidoras da camada de ozônio, por tipo de substância"
+    },
+    {
+      "id": "3844",
+      "nome": "Número de municípios, total e que fazem parte de Comitê de Bacia Hidrográfica, e respectivo percentual"
+    },
+    {
+      "id": "3845",
+      "nome": "População residente e número, total e por 100.000 habitantes, de Fundações Privadas e Associações sem Fins Lucrativos"
+    },
+    {
+      "id": "3846",
+      "nome": "Número de Fundações Privadas e Associações sem Fins Lucrativos por 100.000 habitantes, por tipo de fundação"
+    },
+    {
+      "id": "3847",
+      "nome": "População residente"
+    },
+    {
+      "id": "3848",
+      "nome": "População residente em municípios com Agenda 21 Local, total e percentual distribuído pela etapa de implantação da Agenda 21 Local"
+    },
+    {
+      "id": "3849",
+      "nome": "População residente em municípios com Fórum da Agenda 21 Local, por frequência das reuniões"
+    },
+    {
+      "id": "3850",
+      "nome": "Número de municípios, total, com Agenda 21 Local e com Fórum da Agenda 21 Local, e respectivos percentuais"
+    },
+    {
+      "id": "3855",
+      "nome": "Estimativas das emissões líquidas de gases de efeito estufa de origem antrópica, por tipo de gás e setor de emissão"
+    },
+    {
+      "id": "3856",
+      "nome": "Volume de esgoto coletado e tratado por ano, e percentual de esgoto tratado"
+    },
+    {
+      "id": "3875",
+      "nome": "Número de municípios, total, com serviço de coleta seletiva de lixo e com serviço de coleta seletiva de lixo em toda a área municipal, e respectivos percentuais"
+    },
+    {
+      "id": "3877",
+      "nome": "Número de espécies da flora ameaçadas de extinção, por grupos taxonômicos e categorias de risco"
+    },
+    {
+      "id": "3884",
+      "nome": "Número de espécies da flora brasileira ameaçadas de extinção, por biomas"
+    },
+    {
+      "id": "3886",
+      "nome": "Número de espécies da fauna terrestre brasileira ameaçadas de extinção, por grupos taxonômicos e biomas"
+    },
+    {
+      "id": "3887",
+      "nome": "Número de espécies animais terrestres e aquáticas ameaçadas de extinção por grupos taxonômicos e categorias de risco"
+    },
+    {
+      "id": "3897",
+      "nome": "Pessoas de 25 a 64 anos de idade e distribuição percentual, por grupos de anos de estudo"
+    },
+    {
+      "id": "3898",
+      "nome": "Pessoas de 25 a 64 anos de idade, total e com 11 anos de estudo, e respectiva proporção, por sexo"
+    },
+    {
+      "id": "3899",
+      "nome": "Pessoas de 25 a 64 anos de idade, total e com 11 anos de estudo, e respectiva proporção, por cor ou raça"
+    },
+    {
+      "id": "3900",
+      "nome": "Número de municípios e articulações interinstitucionais entre o município e os entes federativos, total, possíveis, existentes e respectiva proporção"
+    },
+    {
+      "id": "3903",
+      "nome": "Articulações interinstitucionais existentes entre o município e os entes federativos, total e distribuição percentual, por tipo de articulação interinstitucional"
+    },
+    {
+      "id": "3913",
+      "nome": "Áreas total, remanescentes e desmatadas, até 2010, da Mata Atlântica, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+    },
+    {
+      "id": "3914",
+      "nome": "Áreas total, remanescentes e desmatadas, até 2010, do Cerrado, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+    },
+    {
+      "id": "3915",
+      "nome": "Áreas total, remanescentes e desmatadas, até 2009, da Caatinga, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+    },
+    {
+      "id": "3916",
+      "nome": "Áreas total, remanescentes e desmatadas, até 2009, do Pantanal, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+    },
+    {
+      "id": "3917",
+      "nome": "Áreas total, remanescentes e desmatadas, até 2009, do Pampa, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+    },
+    {
+      "id": "3923",
+      "nome": "Número e área das Unidades de Conservação federais, das Unidades de Conservação de Uso Sustentável, das Áreas de Proteção Ambiental federais e das Reservas Particulares do Patrimônio Natural federais"
+    },
+    {
+      "id": "3924",
+      "nome": "Área das Unidades de Conservação de Proteção Integral terrestres federais e respectiva participação no total das áreas das Unidades de Conservação de Proteção Integral terrestres federais, por bioma"
+    },
+    {
+      "id": "3925",
+      "nome": "Área das Unidades de Conservação de Uso Sustentável terrestres federais e respectiva participação no total das áreas das Unidades de Conservação de Uso Sustentável terrestres federais, por bioma"
+    },
+    {
+      "id": "3926",
+      "nome": "Área dos biomas"
+    },
+    {
+      "id": "3927",
+      "nome": "Média anual da Demanda Bioquímica de Oxigênio - DBO, em corpos d'água selecionados"
+    },
+    {
+      "id": "3928",
+      "nome": "Média anual do Índice de Qualidade das Águas - IQA, em corpos d'água selecionados"
+    },
+    {
+      "id": "3929",
+      "nome": "Quantidade, Área e Participação relativa no bioma, das unidades de conservação federais, por tipo de uso"
+    },
+    {
+      "id": "3930",
+      "nome": "Número de focos de calor em Terras Indígenas e Unidades de Conservação federais e estaduais, segundo as Grandes Regiões e as Unidades da Federação"
+    },
+    {
+      "id": "5456",
+      "nome": "População residente estimada e pessoas de 10 anos ou mais de idade usuárias da Internet, total e por 1.000 habitantes"
+    },
+    {
+      "id": "5460",
+      "nome": "Percentual de vacinação em menores de 1 ano de idade, por tipo de vacina"
+    },
+    {
+      "id": "5607",
+      "nome": "Municípios, total e com Fundo Municipal de Meio Ambiente, e respectiva proporção"
+    },
+    {
+      "id": "5608",
+      "nome": "Municípios, total e com legislação ambiental, e respectiva proporção"
+    },
+    {
+      "id": "5609",
+      "nome": "Número de inscrições de bens do Patrimônio Cultural Material, por tipo de Livro do Tombo"
+    },
+    {
+      "id": "5610",
+      "nome": "Número de Atos Multilaterais relativos ao meio ambiente ratificados pelo Brasil"
+    },
+    {
+      "id": "5611",
+      "nome": "Número de Atos Multilaterais relativos ao meio ambiente vigentes no Brasil, por tema tratado nos Atos Multilaterais"
+    },
+    {
+      "id": "5612",
+      "nome": "População residente total e em municípios com Agenda 21 Local e Fórum da Agenda 21 Local, total e ativo (com pelo menos uma reunião nos 12 meses anteriores), e respectivos percentuais"
+    },
+    {
+      "id": "5613",
+      "nome": "Áreas total, remanescentes e desmatadas da Mata Atlântica, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+    },
+    {
+      "id": "5619",
+      "nome": "Número e área das unidades de conservação terrestres e proporção em relação à área territorial brasileira"
+    },
+    {
+      "id": "5621",
+      "nome": "Número e área das unidades de conservação marinhas e proporção em relação à área marinha brasileira"
+    },
+    {
+      "id": "5622",
+      "nome": "Número e área das unidades de conservação, por nível de governo responsável e tipo de uso e categoria de manejo"
+    },
+    {
+      "id": "5623",
+      "nome": "Número e área das unidades de conservação marinhas e proporção em relação à área marinha brasileira, por tipo de uso e categoria de manejo"
+    },
+    {
+      "id": "5624",
+      "nome": "Área das unidades de conservação marinhas, considerando sobreposições, e proporção em relação à área marinha brasileira, por tipo de sobreposição"
+    },
+    {
+      "id": "5625",
+      "nome": "Número e área das unidades de conservação e proporção em relação à área da Unidade da Federação, por tipo de uso"
+    },
+    {
+      "id": "5626",
+      "nome": "Área da unidade territorial (Brasil ou Unidade da Federação), número e área das unidades de conservação, e proporções em relação à área da Unidade da Federação e à área territorial brasileira"
+    },
+    {
+      "id": "5627",
+      "nome": "Número e área das unidades de conservação e proporção em relação à área do bioma, por tipo de uso e categoria de manejo"
+    },
+    {
+      "id": "5628",
+      "nome": "Área das unidades de conservação considerando sobreposições e proporção em relação à área do bioma, por tipo de sobreposição"
+    },
+    {
+      "id": "5629",
+      "nome": "Número de unidades de conservação, total, com Plano de Manejo e com Conselho Gestor, e respectivas proporções do total, para cada tipo de uso e categoria de manejo"
+    },
+    {
+      "id": "5642",
+      "nome": "Índice de Gini da distribuição do rendimento mensal das pessoas de 15 anos ou mais de idade, com rendimento"
+    },
+    {
+      "id": "5794",
+      "nome": "Rendimento médio mensal nominal das pessoas de 15 anos ou mais de idade, com rendimento, por sexo"
+    },
+    {
+      "id": "5795",
+      "nome": "Rendimento médio mensal nominal das pessoas de 15 anos ou mais de idade, com rendimento, por cor ou raça"
+    },
+    {
+      "id": "5797",
+      "nome": "Rendimento médio mensal real das pessoas de 15 anos ou mais de idade, com rendimento, por sexo"
+    },
+    {
+      "id": "5798",
+      "nome": "Rendimento médio mensal real das pessoas de 15 anos ou mais de idade, com rendimento, por cor ou raça"
+    },
+    {
+      "id": "5799",
+      "nome": "Rendimento médio mensal real das pessoas de 15 anos ou mais de idade, com rendimento, e respectivas razão de sexo e razão de cor ou raça"
+    },
+    {
+      "id": "5801",
+      "nome": "Índice de Gini da distribuição do rendimento mensal das pessoas de 15 anos ou mais de idade, com rendimento - Série Histórica"
+    },
+    {
+      "id": "5802",
+      "nome": "Comercialização de ingredientes ativos de agrotóxicos e afins, por classe de uso"
+    },
+    {
+      "id": "5803",
+      "nome": "Distribuição percentual dos agrotóxicos em linha de comercialização em relação ao total de produtos comercializados, por classes de periculosidade ambiental"
+    },
+    {
+      "id": "5804",
+      "nome": "Número de focos de calor na Amazônia Legal e respectiva proporção em relação ao total de focos do Brasil"
+    },
+    {
+      "id": "5805",
+      "nome": "Número de focos de calor, segundo os Biomas"
+    },
+    {
+      "id": "5841",
+      "nome": "Índice do consumo mineral per capita (Base 2000 = 100), segundo substâncias selecionadas"
+    },
+    {
+      "id": "5901",
+      "nome": "População residente, área e densidade demográfica dos municípios costeiros"
+    },
+    {
+      "id": "5911",
+      "nome": "Estimativas das emissões de Gases Efeito Estufa (GEE) de origem antrópica, por setores de emissão e tipo de gás"
+    },
+    {
+      "id": "5945",
+      "nome": "Valor das exportações, importações e saldo comercial - Grandes Regiões e Unidades da Federação"
+    },
+    {
+      "id": "5949",
+      "nome": "Formação bruta de capital"
+    },
+    {
+      "id": "602",
+      "nome": "Estimativas das emissões líquidas (emissões brutas menos remoções) de gases de efeito estufa de origem antrópica, segundo os setores de atividade (série encerrada)"
+    },
+    {
+      "id": "603",
+      "nome": "Áreas original total, remanescente e desmatada do Bioma Cerrado, segundo as Unidades da Federação (série encerrada)"
+    },
+    {
+      "id": "6377",
+      "nome": "Oferta interna de energia e distribuição percentual, segundo as fontes de energia renováveis e não-renováveis"
+    },
+    {
+      "id": "6394",
+      "nome": "Estimativas das emissões líquidas de gases de efeito estufa de origem antrópica, segundo os tipos de gás e os setores de emissão"
+    },
+    {
+      "id": "766",
+      "nome": "Estimativas das emissões de gases de efeito estufa de origem antrópica, por tipo de gás, segundo os setores de emissão (série encerrada)"
+    },
+    {
+      "id": "768",
+      "nome": "Quantidade comercializada de fertilizantes por área plantada, segundo o tipo de nutriente"
+    },
+    {
+      "id": "769",
+      "nome": "Área plantada das principais culturas e Quantidade de fertilizantes entregue ao consumidor final"
+    },
+    {
+      "id": "770",
+      "nome": "Quantidade de fertilizantes entregue ao consumidor final e Utilização de fertilizantes por unidade de área por tipo de nutriente"
+    },
+    {
+      "id": "771",
+      "nome": "Consumo nacional de ingredientes ativos de agrotóxicos e afins por área plantada"
+    },
+    {
+      "id": "772",
+      "nome": "Comercialização de agrotóxicos e afins, área plantada das principais culturas e comercialização por área plantada"
+    },
+    {
+      "id": "773",
+      "nome": "Comercialização de agrotóxicos e afins, total e por área plantada, segundo a classe de uso"
+    },
+    {
+      "id": "774",
+      "nome": "Consumo dos principais ingredientes ativos de agrotóxicos e respectiva participação percentual em relação ao total da classe de uso"
+    },
+    {
+      "id": "775",
+      "nome": "Agrotóxicos em linha de comercialização e respectiva distribuição percentual em relação ao número total de produtos por classes toxicológicas"
+    },
+    {
+      "id": "776",
+      "nome": "Proporção das terras em uso agrossilvipastoril dos estabelecimentos agropecuários em relação ao total da área territorial por tipo de utilização das terras"
+    },
+    {
+      "id": "778",
+      "nome": "Área da superfície territorial do Brasil, dos estabelecimentos agropecuários e das terras em uso e Participação das terras em uso na superfície territorial do Brasil"
+    },
+    {
+      "id": "779",
+      "nome": "Distribuição percentual do uso das terras em relação à área dos estabelecimentos agropecuários por tipo de uso"
+    },
+    {
+      "id": "780",
+      "nome": "Proporção das terras em uso com lavouras em relação à superfície territorial do Brasil por tipo de lavoura"
+    },
+    {
+      "id": "781",
+      "nome": "Área total e distribuição percentual das terras em uso com lavouras em relação ao total da superfície territorial por tipo de lavoura"
+    },
+    {
+      "id": "821",
+      "nome": "Valor das despesas públicas com a proteção ao meio ambiente por níveis de governo - Brasil"
+    },
+    {
+      "id": "891",
+      "nome": "Consumo de substâncias destruidoras da camada de ozônio, segundo o tipo de substância (série encerrada)"
+    },
+    {
+      "id": "892",
+      "nome": "Número de estações de monitoramento, Máxima concentração anual observada e Número de violações do padrão primário nacional de qualidade do ar, segundo o tipo de poluente"
+    },
+    {
+      "id": "893",
+      "nome": "Concentração média anual, segundo o tipo de poluente"
+    },
+    {
+      "id": "894",
+      "nome": "Número de focos de calor, segundo as Grandes Regiões e Unidades da Federação"
+    },
+    {
+      "id": "895",
+      "nome": "Número de focos de calor, total e em unidades de conservação, parques e terras indígenas e Proporção de focos de calor em relação ao total de focos, segundo o local do foco (série descontinuada)"
+    },
+    {
+      "id": "896",
+      "nome": "Desflorestamento bruto, anual e acumulado, na Amazônia Legal, em 01/08, e Taxa estimada, anual e acumulada, de desflorestamento bruto anual em relação à área total das Unidades da Federação que formam a Amazônia Legal, segundo as Unidades da Federação"
+    },
+    {
+      "id": "897",
+      "nome": "Percentual de vacinação em menores de 1 ano de idade, por tipo de vacina (série encerrada)"
+    },
+    {
+      "id": "898",
+      "nome": "Internações hospitalares por doenças relacionadas ao saneamento ambiental inadequado, total e segundo as categorias de doenças"
+    },
+    {
+      "id": "899",
+      "nome": "Coeficientes de mortalidade por homicídios ou por acidentes de transporte terrestre, segundo o sexo"
+    },
+    {
+      "id": "900",
+      "nome": "Valor das exportações, importações e saldo comercial - Brasil"
+    },
+    {
+      "id": "901",
+      "nome": "População e consumo final de energia, total e per capita"
+    },
+    {
+      "id": "902",
+      "nome": "Intensidade energética"
+    },
+    {
+      "id": "903",
+      "nome": "Oferta interna de energia e distribuição percentual, segundo as fontes de energia"
+    },
+    {
+      "id": "904",
+      "nome": "Produção de rejeitos radioativos de baixo e médio níveis de atividade e Produção e Armazenamento de combustível nuclear já utilizado, em 31/12 nas usinas de Angra I e Angra II"
+    },
+    {
+      "id": "905",
+      "nome": "Investimentos nacionais, Valor e Percentual em relação ao PIB, em Pesquisa e Desenvolvimento - P&D, segundo os setores de aplicação"
+    },
+    {
+      "id": "906",
+      "nome": "Média anual da Demanda Bioquímica de Oxigênio - DBO, em corpos d'água selecionados, nas Unidades da Federação de Pernambuco, Minas Gerais, Rio de Janeiro, São Paulo, Paraná e Rio Grande do Sul (série encerrada)"
+    },
+    {
+      "id": "907",
+      "nome": "Média anual do Índice de Qualidade das Águas - IQA, em corpos d'água selecionados, nas Unidades da Federação de Pernambuco, Minas Gerais, Rio de Janeiro, São Paulo, Paraná e Rio Grande do Sul (série encerrada)"
+    },
+    {
+      "id": "909",
+      "nome": "Quantidade, Área e Participação relativa no bioma, das unidades de conservação federais, por tipo de uso (série encerrada)"
+    }
+  ]
+}

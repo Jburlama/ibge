@@ -1,0 +1,102 @@
+{
+  "id": "IA",
+  "nome": "Índice Nacional de Preços ao Consumidor Amplo",
+  "agregados": [
+    {
+      "id": "118",
+      "nome": "IPCA dessazonalizado - Série histórica com a variação mensal (a partir de janeiro/1998)"
+    },
+    {
+      "id": "1419",
+      "nome": "IPCA - Variação mensal, acumulada no ano, acumulada em 12 meses e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/2012 até dezembro/2019)"
+    },
+    {
+      "id": "1420",
+      "nome": "IPCA dessazonalizado - Variação mensal, acumulada no ano e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/2012 até dezembro/2019)"
+    },
+    {
+      "id": "1692",
+      "nome": "IPCA - Variação mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de julho/1989 até dezembro/1990)"
+    },
+    {
+      "id": "1693",
+      "nome": "IPCA - Peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de julho/1989 até dezembro/1990)"
+    },
+    {
+      "id": "1694",
+      "nome": "IPCA - Variação acumulada no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1990 até dezembro/1990)"
+    },
+    {
+      "id": "1737",
+      "nome": "IPCA - Série histórica com número-índice, variação mensal e variações acumuladas em 3 meses, em 6 meses, no ano e em 12 meses (a partir de dezembro/1979)"
+    },
+    {
+      "id": "2938",
+      "nome": "IPCA - Variação mensal, acumulada no ano e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de julho/2006 até dezembro/2011)"
+    },
+    {
+      "id": "2942",
+      "nome": "IPCA dessazonalizado - Variação mensal, acumulada no ano e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de julho/2006 até dezembro/2011)"
+    },
+    {
+      "id": "58",
+      "nome": "IPCA - Variação mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1991 até julho/1999)"
+    },
+    {
+      "id": "61",
+      "nome": "IPCA - Peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1991 até julho/1999)"
+    },
+    {
+      "id": "636",
+      "nome": "IPCA - Variação acumulada no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1991 até julho/1999)"
+    },
+    {
+      "id": "643",
+      "nome": "IPCA dessazonalizado - Variação acumulada no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1998 até julho/1999)"
+    },
+    {
+      "id": "645",
+      "nome": "IPCA dessazonalizado - Variação mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1998 até julho/1999)"
+    },
+    {
+      "id": "646",
+      "nome": "IPCA dessazonalizado - Peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1998 até julho/1999)"
+    },
+    {
+      "id": "655",
+      "nome": "IPCA - Variação mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até junho/2006)"
+    },
+    {
+      "id": "656",
+      "nome": "IPCA - Peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até junho/2006)"
+    },
+    {
+      "id": "657",
+      "nome": "IPCA - Variação acumulada no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até junho/2006)"
+    },
+    {
+      "id": "659",
+      "nome": "IPCA dessazonalizado - Variação acumulada no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até junho/2006)"
+    },
+    {
+      "id": "661",
+      "nome": "IPCA dessazonalizado - Variação mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até junho/2006)"
+    },
+    {
+      "id": "662",
+      "nome": "IPCA dessazonalizado - Peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até junho/2006)"
+    },
+    {
+      "id": "6691",
+      "nome": "IPCA - Série histórica com número-índice, variação mensal e variações acumuladas a partir de 12 meses (a partir de novembro/2014)"
+    },
+    {
+      "id": "7060",
+      "nome": "IPCA - Variação mensal, acumulada no ano, acumulada em 12 meses e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (a partir de janeiro/2020)"
+    },
+    {
+      "id": "7061",
+      "nome": "IPCA dessazonalizado - Variação mensal, acumulada no ano e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (a partir de janeiro/2020)"
+    }
+  ]
+}

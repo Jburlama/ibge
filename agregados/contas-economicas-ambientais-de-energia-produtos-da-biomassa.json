@@ -1,0 +1,54 @@
+{
+  "id": "DZ",
+  "nome": "Contas Econômicas Ambientais de Energia: produtos da biomassa",
+  "agregados": [
+    {
+      "id": "8419",
+      "nome": "Valor bruto da produção dos produtos energéticos da biomassa"
+    },
+    {
+      "id": "8420",
+      "nome": "Produção dos produtos energéticos da biomassa"
+    },
+    {
+      "id": "8421",
+      "nome": "Intensidade do uso dos produtos energéticos da biomassa das atividades econômicas"
+    },
+    {
+      "id": "8422",
+      "nome": "Uso para transformação dos produtos energéticos da biomassa das atividades econômicas"
+    },
+    {
+      "id": "8423",
+      "nome": "Uso terminativo dos produtos energéticos da biomassa das atividades econômicas e famílias"
+    },
+    {
+      "id": "8424",
+      "nome": "Usos físicos para transformação e terminativo dos produtos energéticos da biomassa nas atividades econômicas e famílias"
+    },
+    {
+      "id": "8425",
+      "nome": "Uso dos produtos energéticos da biomassa pelas famílias per capita"
+    },
+    {
+      "id": "8426",
+      "nome": "Energia residual dos produtos energéticos da biomassa"
+    },
+    {
+      "id": "8427",
+      "nome": "Consumo final pelas famílias e Consumo final per capita dos produtos energéticos da biomassa"
+    },
+    {
+      "id": "8428",
+      "nome": "Exportação física, Importação física, Participação da exportação física e Participação da importação física, por produtos energéticos da biomassa"
+    },
+    {
+      "id": "8429",
+      "nome": "Exportação monetária, Importação monetária, Participação da exportação monetária e Participação da importação monetária, por produtos energéticos da biomassa"
+    },
+    {
+      "id": "8430",
+      "nome": "Consumo intermediário dos produtos energéticos da biomassa das atividades econômicas"
+    }
+  ]
+}

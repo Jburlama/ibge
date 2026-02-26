@@ -1,0 +1,94 @@
+{
+  "id": "FP",
+  "nome": "Fundações Privadas e Associações Sem Fins Lucrativos",
+  "agregados": [
+    {
+      "id": "10415",
+      "nome": "Número de unidades locais, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações e salário médio mensal das fundações privadas e associações sem fins lucrativos, por sexo e nível de escolaridade, segundo classificação das entidades sem fins lucrativos, faixas de ano de fundação e faixas de pessoal ocupado assalariado"
+    },
+    {
+      "id": "10417",
+      "nome": "Número de unidades locais, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações e salário médio mensal das entidades sem fins lucrativos, por sexo e nível de escolaridade, segundo classificação das entidades sem fins lucrativos, faixas de ano de fundação e faixas de pessoal ocupado assalariado"
+    },
+    {
+      "id": "3500",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das fundações privadas e associações sem fins lucrativos, por tipo de entidade, classificação das fundações privadas e associações sem fins lucrativos, faixas de ano de fundação e faixas de pessoal ocupado assalariado (metodologia de 2006)"
+    },
+    {
+      "id": "3501",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das entidades sem fins lucrativos, por classificação das entidades sem fins lucrativos, faixas de ano de fundação e faixas de pessoal ocupado assalariado (metodologia de 2006)"
+    },
+    {
+      "id": "3509",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, total, do sexo masculino, do sexo feminino e do nível superior, salários e outras remunerações, total, do sexo masculino, do sexo feminino e do nível superior, e salário médio mensal, total, do sexo masculino, do sexo feminino e do nível superior, das entidades sem fins lucrativos, por classificação das entidades sem fins lucrativos, faixas de ano de fundação e faixas de pessoal ocupado assalariado (metodologia de 2010)"
+    },
+    {
+      "id": "3510",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, total, do sexo masculino, do sexo feminino e do nível superior, salários e outras remunerações, total, do sexo masculino, do sexo feminino e do nível superior, e salário médio mensal, total, do sexo masculino, do sexo feminino e do nível superior, das fundações privadas e associações sem fins lucrativos, por grupos da classificação das fundações privadas e associações sem fins lucrativos, para os municípios com pelo menos 50.000 habitantes no ano de 2010 (metodologia de 2010)"
+    },
+    {
+      "id": "3512",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, total, do sexo masculino, do sexo feminino e do nível superior, salários e outras remunerações, total, do sexo masculino, do sexo feminino e do nível superior, e salário médio mensal, total, do sexo masculino, do sexo feminino e do nível superior, das fundações privadas e associações sem fins lucrativos, por tipo de entidade, classificação, faixas de ano de fundação e faixas de pessoal ocupado assalariado (metodologia de 2010)"
+    },
+    {
+      "id": "3606",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, total, do sexo masculino, do sexo feminino e do nível superior, salários e outras remunerações, total, do sexo masculino, do sexo feminino e do nível superior, e salário médio mensal, total, do sexo masculino, do sexo feminino e do nível superior, das entidades sem fins lucrativos (metodologia de 2010)"
+    },
+    {
+      "id": "3607",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, total, do sexo masculino, do sexo feminino e do nível superior, salários e outras remunerações, total, do sexo masculino, do sexo feminino e do nível superior, e salário médio mensal, total, do sexo masculino, do sexo feminino e do nível superior, das entidades sem fins lucrativos, por grupos da classificação das entidades sem fins lucrativos, para os municípios com pelo menos 50.000 habitantes no ano de 2010 (metodologia de 2010)"
+    },
+    {
+      "id": "3608",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, total, do sexo masculino, do sexo feminino e do nível superior, salários e outras remunerações, total, do sexo masculino, do sexo feminino e do nível superior, e salário médio mensal, total, do sexo masculino, do sexo feminino e do nível superior, das fundações privadas e associações sem fins lucrativos (metodologia de 2010)"
+    },
+    {
+      "id": "3609",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das fundações privadas e associações sem fins lucrativos, por grupos da classificação das fundações privadas e associações sem fins lucrativos, para os municípios com pelo menos 50.000 habitantes no ano de 2010 (metodologia de 2006)"
+    },
+    {
+      "id": "3610",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das fundações privadas e associações sem fins lucrativos (metodologia de 2006)"
+    },
+    {
+      "id": "3611",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das entidades sem fins lucrativos, por grupos da classificação das entidades sem fins lucrativos, para os municípios com pelo menos 50.000 habitantes no ano de 2010 (metodologia de 2006)"
+    },
+    {
+      "id": "3612",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das entidades sem fins lucrativos (metodologia de 2006)"
+    },
+    {
+      "id": "6914",
+      "nome": "Número de unidades locais, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações e salário médio mensal das fundações privadas e associações sem fins lucrativos, por sexo e nível de escolaridade, segundo classificação das entidades sem fins lucrativos, faixas de ano de fundação e faixas de pessoal ocupado assalariado (metodologia 2016)"
+    },
+    {
+      "id": "6915",
+      "nome": "Número de unidades locais, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações e salário médio mensal das entidades sem fins lucrativos, por sexo e nível de escolaridade, segundo classificação das entidades sem fins lucrativos, faixas de ano de fundação e faixas de pessoal ocupado assalariado (metodologia 2016)"
+    },
+    {
+      "id": "6916",
+      "nome": "Número de unidades locais, pessoal ocupado assalariado e salários e outras remunerações das fundações privadas e associações sem fins lucrativos, por sexo e nível de escolaridade, segundo classificação das entidades sem fins lucrativos (metodologia 2016)"
+    },
+    {
+      "id": "6917",
+      "nome": "Número de unidades locais, pessoal ocupado assalariado e salários e outras remunerações das entidades sem fins lucrativos, por sexo e nível de escolaridade, segundo classificação das entidades sem fins lucrativos (metodologia 2016)"
+    },
+    {
+      "id": "874",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das entidades sem fins lucrativos, por tipo de entidade, classificação das entidades sem fins lucrativos, faixas de ano de fundação e faixas de pessoal ocupado assalariado"
+    },
+    {
+      "id": "875",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das fundações privadas e associações sem fins lucrativos, por tipo de entidade, classificação das entidades sem fins lucrativos, faixas de ano de fundação e faixas de pessoal ocupado assalariado"
+    },
+    {
+      "id": "876",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das entidades sem fins lucrativos"
+    },
+    {
+      "id": "877",
+      "nome": "Unidades locais, pessoal ocupado assalariado em 31.12, salários e outras remunerações e salário médio mensal das fundações privadas e associações sem fins lucrativos"
+    }
+  ]
+}

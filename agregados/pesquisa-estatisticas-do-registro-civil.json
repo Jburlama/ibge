@@ -1,0 +1,514 @@
+{
+  "id": "RC",
+  "nome": "Pesquisa Estatísticas do Registro Civil",
+  "agregados": [
+    {
+      "id": "1003",
+      "nome": "Escrituras de separação, por tempo transcorrido entre as datas do casamento e da escritura, e regime de bens do casamento (série suspensa)"
+    },
+    {
+      "id": "1004",
+      "nome": "Escrituras de divórcio, por tempo transcorrido entre as datas do casamento e da escritura, tipo de divórcio e regime de bens do casamento (série encerrada)"
+    },
+    {
+      "id": "10318",
+      "nome": "Nascidos vivos, ocorridos no ano, filhos de mães estrangeiras que residiam no Brasil, por país de nacionalidade da mãe"
+    },
+    {
+      "id": "10325",
+      "nome": "Nascidos vivos, ocorridos no ano, filhos de mães que residiam no Brasil, por nacionalidade da mãe e grupos de idade da mãe na ocasião do parto"
+    },
+    {
+      "id": "10328",
+      "nome": "Nascidos vivos, ocorridos no ano, filhos de mães estrangeiras que residiam no Brasil, por sexo e grupos de idade da mãe na ocasião do parto"
+    },
+    {
+      "id": "10350",
+      "nome": "Nascidos vivos, ocorridos no ano, filhos de mães estrangeiras que residiam no Brasil, por sexo e lugar de residência da mãe"
+    },
+    {
+      "id": "10351",
+      "nome": "Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo e país de nacionalidade da pessoa falecida"
+    },
+    {
+      "id": "10352",
+      "nome": "Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo e grupos de idade 1 da pessoa falecida"
+    },
+    {
+      "id": "10353",
+      "nome": "Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo e grupos de idade 2 da pessoa falecida"
+    },
+    {
+      "id": "10354",
+      "nome": "Óbitos, ocorridos no ano, de pessoas que residiam no Brasil, por nacionalidade e grupos de idade 1 da pessoa falecida"
+    },
+    {
+      "id": "10355",
+      "nome": "Casamentos entre cônjuges que residiam no Brasil, e pelo menos um dos cônjuges estrangeiro, por sexo e nacionalidade dos cônjuges"
+    },
+    {
+      "id": "10356",
+      "nome": "Casamentos entre cônjuges masculino e feminino que residiam no Brasil, e pelo menos um dos cônjuges estrangeiro, por nacionalidade dos cônjuges e lugar de registro do casamento"
+    },
+    {
+      "id": "10357",
+      "nome": "Óbitos, ocorridos no ano, de pessoas que residiam no Brasil, por nacionalidade e grupos de idade 2 da pessoa falecida"
+    },
+    {
+      "id": "10358",
+      "nome": "Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo e lugar de residência da pessoa falecida"
+    },
+    {
+      "id": "1687",
+      "nome": "Separações concedidas em 1ª instância ou por escritura, por tempo transcorrido entre a data do casamento e a data da sentença ou da escritura, grupos de idade do marido e da mulher na data da sentença ou da escritura, regime de bens do casamento e lugar da ação do processo (série suspensa)"
+    },
+    {
+      "id": "1695",
+      "nome": "Divórcios concedidos em 1ª instância ou por escritura, por tempo transcorrido entre a data do casamento e a data da sentença ou da escritura, grupos de idade do marido e da mulher na data da sentença ou da escritura, regime de bens do casamento e lugar da ação do processo"
+    },
+    {
+      "id": "1838",
+      "nome": "Separações judiciais concedidas em primeira instância, por grupos de idade dos cônjuges na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e tipo de cônjuge"
+    },
+    {
+      "id": "192",
+      "nome": "Nascidos vivos registrados no ano por ano de nascimento e sexo"
+    },
+    {
+      "id": "194",
+      "nome": "Nascidos vivos registrados no ano por lugar de residência da mãe, ano de nascimento, grupos de idade da mãe na ocasião do parto e sexo"
+    },
+    {
+      "id": "197",
+      "nome": "Nascidos vivos ocorridos no ano por grupos de idade da mãe na ocasião do parto e sexo"
+    },
+    {
+      "id": "198",
+      "nome": "Nascidos vivos ocorridos no ano por lugar de residência da mãe e mês do nascimento"
+    },
+    {
+      "id": "199",
+      "nome": "Nascidos vivos ocorridos no ano por lugar de residência da mãe e mês do registro"
+    },
+    {
+      "id": "213",
+      "nome": "Nascidos vivos ocorridos no ano por lugar de residência da mãe e local do nascimento"
+    },
+    {
+      "id": "214",
+      "nome": "Nascidos vivos ocorridos no ano por lugar de residência da mãe e número de nascidos por parto"
+    },
+    {
+      "id": "218",
+      "nome": "Número de processos de divórcio encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, tipo do processo e tipo de cônjuge"
+    },
+    {
+      "id": "219",
+      "nome": "Número de processos de divórcio encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza do processo e tipo de cônjuge"
+    },
+    {
+      "id": "225",
+      "nome": "Número de divórcios concedidos em primeira instância por grupos de idade dos cônjuges na data da sentença, natureza do processo, tipo do processo e tipo de cônjuge"
+    },
+    {
+      "id": "226",
+      "nome": "Número de processos de divórcio encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, sentença proferida e tipo de cônjuge"
+    },
+    {
+      "id": "2609",
+      "nome": "Nascidos vivos, por ano de nascimento, grupos de idade da mãe na ocasião do parto, sexo e lugar de residência da mãe"
+    },
+    {
+      "id": "2612",
+      "nome": "Nascidos vivos, ocorridos no ano, por mês do nascimento, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto e lugar de residência da mãe"
+    },
+    {
+      "id": "2647",
+      "nome": "Nascidos vivos, ocorridos no ano, por mês do registro, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto e lugar de residência da mãe"
+    },
+    {
+      "id": "2651",
+      "nome": "Nascidos vivos, ocorridos no ano, por lugar de nascimento do pai, lugar de nascimento da mãe e lugar do registro"
+    },
+    {
+      "id": "2652",
+      "nome": "Nascidos vivos ocorridos no ano, filhos de mães que nasceram e residiam no mesmo lugar (Brasil, estrangeiro ou ignorado), por idade da mãe na ocasião do parto, lugar de nascimento e residência da mãe, e lugar do registro"
+    },
+    {
+      "id": "2654",
+      "nome": "Óbitos, ocorridos no ano, por mês de ocorrência, natureza do óbito, sexo, idade, local de ocorrência e lugar de residência do falecido"
+    },
+    {
+      "id": "2679",
+      "nome": "Nascidos vivos, por ano de nascimento, idade da mãe na ocasião do parto, sexo e lugar do registro"
+    },
+    {
+      "id": "2680",
+      "nome": "Nascidos vivos, ocorridos no ano, por mês do nascimento, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto e lugar do registro"
+    },
+    {
+      "id": "2681",
+      "nome": "Óbitos, ocorridos no ano, por mês de ocorrência, natureza do óbito, sexo, idade, local de ocorrência e lugar do registro"
+    },
+    {
+      "id": "2682",
+      "nome": "Óbitos, por ano de ocorrência, natureza do óbito, sexo, idade, local de ocorrência e lugar de residência do falecido"
+    },
+    {
+      "id": "2683",
+      "nome": "Óbitos, ocorridos no ano, por estado civil, natureza do óbito, sexo, idade, local de ocorrência e lugar de residência do falecido"
+    },
+    {
+      "id": "2684",
+      "nome": "Óbitos, por ano de ocorrência, natureza do óbito, sexo, idade, local de ocorrência e lugar do registro"
+    },
+    {
+      "id": "2685",
+      "nome": "Óbitos, ocorridos no ano, por estado civil, natureza do óbito, sexo, idade, local de ocorrência e lugar do registro"
+    },
+    {
+      "id": "2759",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por mês do registro, estado civil do homem e da mulher, grupos de idade do homem e da mulher e lugar do registro"
+    },
+    {
+      "id": "2866",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por mês de ocorrência, nacionalidade do homem e da mulher, grupos de idade do homem e da mulher e lugar do registro"
+    },
+    {
+      "id": "2867",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por lugar de nascimento do homem e da mulher e lugar do registro"
+    },
+    {
+      "id": "2935",
+      "nome": "Processos de separação judicial encerrados e Separações judiciais concedidas, em 1ª instância, por natureza, fundamento da ação não-consensual e requerentes, grupos de idade e tipo dos cônjuges e lugar da ação do processo (série suspensa)"
+    },
+    {
+      "id": "2936",
+      "nome": "Processos de separação judicial encerrados em 1ª instância, por sentença proferida, regime de bens do casamento, grupos de idade e tipo dos cônjuges e lugar da ação do processo (série suspensa)"
+    },
+    {
+      "id": "2944",
+      "nome": "Separações judiciais concedidas em 1ª instância sem recursos e Número de filhos dos casais envolvidos, por tipo da família, número de filhos do casal e lugar da ação do processo (série suspensa)"
+    },
+    {
+      "id": "2948",
+      "nome": "Separações judiciais concedidas em 1ª instância sem recursos, a casais com filhos menores de idade, e Número de filhos menores de idade dos casais envolvidos, por número de filhos do casal, responsáveis pela guarda dos filhos e lugar da ação do processo (série suspensa)"
+    },
+    {
+      "id": "2949",
+      "nome": "Separações judiciais concedidas em 1ª instância sem recursos, por grupos de idades do marido e da mulher na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e lugar da ação do processo (série suspensa)"
+    },
+    {
+      "id": "2990",
+      "nome": "Óbitos fetais, ocorridos no ano, por mês do registro, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto, duração da gestação e lugar de residência da mãe"
+    },
+    {
+      "id": "2991",
+      "nome": "Óbitos fetais, ocorridos no ano, por mês do registro, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto e lugar do registro"
+    },
+    {
+      "id": "2992",
+      "nome": "Óbitos fetais, ocorridos no ano, por mês do registro, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto, duração da gestação e lugar de nascimento e residência da mãe"
+    },
+    {
+      "id": "2993",
+      "nome": "Processos de divórcios encerrados e concedidos, em 1ª instância, por tipo de divórcio, natureza, grupos de idade dos cônjuges na data de abertura do processo, sentença proferida, regime de bens do casamento, tipo de cônjuge e lugar da ação do processo (série encerrada)"
+    },
+    {
+      "id": "2995",
+      "nome": "Divórcios concedidos em 1ª instância sem recursos e Número de filhos dos casais envolvidos, por tipo de família, número de filhos do casal e lugar da ação do processo (série encerrada)"
+    },
+    {
+      "id": "2996",
+      "nome": "Divórcios concedidos em 1ª instância sem recursos, a casais com filhos menores de idade, e Número de filhos menores de idade dos casais envolvidos, por número de filhos menores de idade, responsáveis pela guarda dos filhos e lugar da ação do processo (série encerrada)"
+    },
+    {
+      "id": "2997",
+      "nome": "Divórcios concedidos em 1ª instância sem recursos, por grupos de idade do marido e da mulher na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e lugar da ação do processo (série encerrada)"
+    },
+    {
+      "id": "3375",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por mês de ocorrência, estado civil do homem e da mulher, grupos de idade do homem e da mulher e lugar do registro"
+    },
+    {
+      "id": "3376",
+      "nome": "Separações concedidas em 1ª instância ou por escritura, por natureza da ação, requerente, tipo de família, número de filhos e lugar da ação do processo (série suspensa)"
+    },
+    {
+      "id": "340",
+      "nome": "Nascidos vivos ocorridos no ano por lugar de residência da mãe e sexo"
+    },
+    {
+      "id": "342",
+      "nome": "Nascidos vivos ocorridos no ano por lugar de residência da mãe, grupos de idade da mãe na ocasião do parto e sexo"
+    },
+    {
+      "id": "343",
+      "nome": "Nascidos vivos ocorridos no ano por idade da mãe na ocasião do parto, local do nascimento e sexo"
+    },
+    {
+      "id": "344",
+      "nome": "Nascidos vivos ocorridos no ano por lugar de nascimento da mãe e do pai"
+    },
+    {
+      "id": "347",
+      "nome": "Nascidos vivos ocorridos no ano com mesmo lugar de nascimento e residência da mãe por lugar de nascimento e residência da mãe e grupos de idade da mãe na ocasião do parto"
+    },
+    {
+      "id": "350",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por grupos de idade da mulher e do homem"
+    },
+    {
+      "id": "351",
+      "nome": "Casamentos entre cônjuges masculino e feminino solteiros, por grupos de idade da mulher e do homem"
+    },
+    {
+      "id": "358",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por idade do homem, estado civil da mulher e do homem"
+    },
+    {
+      "id": "359",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por idade do homem, nacionalidade da mulher e do homem"
+    },
+    {
+      "id": "360",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por idade da mulher, nacionalidade da mulher e do homem"
+    },
+    {
+      "id": "361",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por idade da mulher, estado civil da mulher e do homem"
+    },
+    {
+      "id": "362",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por lugar de nascimento da mulher e do homem"
+    },
+    {
+      "id": "363",
+      "nome": "Número de óbitos registrados no ano por lugar de residência do(a) falecido(a), ano de ocorrência e sexo"
+    },
+    {
+      "id": "364",
+      "nome": "Número de óbitos registrados no ano por grupos de idade do(a) falecido(a), ano de ocorrência e sexo"
+    },
+    {
+      "id": "367",
+      "nome": "Número de óbitos ocorridos e registrados no ano por lugar de residência do(a) falecido(a), local de ocorrência e sexo"
+    },
+    {
+      "id": "368",
+      "nome": "Número de óbitos ocorridos e registrados no ano por lugar de residência do(a) falecido(a), grupos de idade do(a) falecido(a) e sexo"
+    },
+    {
+      "id": "369",
+      "nome": "Número de óbitos fetais ocorridos e registrados no ano por lugar de residência da mãe e mês do registro"
+    },
+    {
+      "id": "370",
+      "nome": "Número de óbitos fetais ocorridos e registrados no ano por lugar de residência da mãe e grupos de idade da mãe na ocasião do parto"
+    },
+    {
+      "id": "371",
+      "nome": "Número de óbitos fetais ocorridos e registrados no ano por lugar de residência da mãe e duração da gestação"
+    },
+    {
+      "id": "372",
+      "nome": "Número de óbitos fetais com 28 semanas ou mais ocorridos e registrados no ano por lugar de residência da mãe e mês do registro"
+    },
+    {
+      "id": "373",
+      "nome": "Número de óbitos fetais com 28 semanas ou mais ocorridos e registrados no ano por lugar de residência da mãe e grupos de idade da mãe na ocasião do parto"
+    },
+    {
+      "id": "388",
+      "nome": "Número de processos de separação judicial encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza da ação e tipo de cônjuge"
+    },
+    {
+      "id": "389",
+      "nome": "Número de processos de separação judicial encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza da ação não consensual, tipo de cônjuge e fundamento da ação"
+    },
+    {
+      "id": "393",
+      "nome": "Número de processos de separação judicial encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, sentença proferida e tipo de cônjuge"
+    },
+    {
+      "id": "394",
+      "nome": "Número de processos de separação judicial encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, regime de bens do casamento e tipo de cônjuge"
+    },
+    {
+      "id": "397",
+      "nome": "Número de separações judiciais concedidas em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza da ação e tipo de cônjuge"
+    },
+    {
+      "id": "398",
+      "nome": "Número de separações judiciais concedidas em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza da ação não consensual, tipo de cônjuge e fundamento da ação"
+    },
+    {
+      "id": "406",
+      "nome": "Número de separações judiciais concedidas em primeira instância por grupos de idade da mulher e do marido na data da sentença"
+    },
+    {
+      "id": "4098",
+      "nome": "Processos de divórcios encerrados e concedidos, em 1ª instância, por tipo de divórcio, natureza, grupos de idade dos cônjuges na data da sentença, sentença proferida, regime de bens do casamento, tipo de cônjuge e lugar da ação do processo (série encerrada)"
+    },
+    {
+      "id": "410",
+      "nome": "Número de separações judiciais concedidas em primeira instância por grupos de idade dos cônjuges na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e tipo de cônjuge"
+    },
+    {
+      "id": "421",
+      "nome": "Número de processos de divórcio encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, regime de bens do casamento e tipo de cônjuge"
+    },
+    {
+      "id": "426",
+      "nome": "Número de divórcios concedidos em primeira instância por grupos de idade da mulher e do marido na data da sentença"
+    },
+    {
+      "id": "4406",
+      "nome": "Casamentos, por mês do registro, estado civil dos cônjuges, grupos de idade dos cônjuges e lugar do registro"
+    },
+    {
+      "id": "4412",
+      "nome": "Casamentos, por mês de ocorrência, estado civil dos cônjuges, grupos de idade dos cônjuges e lugar do registro"
+    },
+    {
+      "id": "4780",
+      "nome": "Casamentos, por mês de ocorrência, nacionalidade dos cônjuges, grupos de idade dos cônjuges e lugar do registro"
+    },
+    {
+      "id": "4781",
+      "nome": "Casamentos, por lugar de nascimento dos cônjuges e lugar do registro"
+    },
+    {
+      "id": "5929",
+      "nome": "Divórcios concedidos em 1ª instância e Número de filhos dos casais envolvidos, por tipo de família, número de filhos do casal e lugar da ação do processo"
+    },
+    {
+      "id": "5933",
+      "nome": "Escrituras de divórcio, por tempo transcorrido entre as datas do casamento e da escritura e regime de bens do casamento"
+    },
+    {
+      "id": "5934",
+      "nome": "Processos de divórcios encerrados e concedidos, em 1ª instância, por natureza do processo, grupos de idade dos cônjuges na data de abertura do processo, sentença proferida, regime de bens do casamento e lugar da ação do processo"
+    },
+    {
+      "id": "5935",
+      "nome": "Processos de divórcios encerrados e concedidos, em 1ª instância, por natureza do processo, grupos de idade dos cônjuges na data da sentença, sentença proferida, regime de bens do casamento e lugar da ação do processo"
+    },
+    {
+      "id": "5936",
+      "nome": "Divórcios concedidos em 1ª instância a casais com filhos menores de idade, e Número de filhos menores de idade dos casais envolvidos, por número de filhos menores de idade, responsáveis pela guarda dos filhos e lugar da ação do processo"
+    },
+    {
+      "id": "5937",
+      "nome": "Divórcios concedidos em 1ª instância, por grupos de idade do marido e da mulher na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e lugar da ação do processo"
+    },
+    {
+      "id": "703",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por mês do registro"
+    },
+    {
+      "id": "704",
+      "nome": "Nascidos vivos ocorridos no ano por local do nascimento"
+    },
+    {
+      "id": "705",
+      "nome": "Nascidos vivos ocorridos no ano por número de nascidos por parto"
+    },
+    {
+      "id": "706",
+      "nome": "Nascidos vivos ocorridos no ano por sexo"
+    },
+    {
+      "id": "707",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por mês de ocorrência"
+    },
+    {
+      "id": "712",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por estado civil da mulher e do homem"
+    },
+    {
+      "id": "713",
+      "nome": "Casamentos entre cônjuges masculino e feminino, por nacionalidade da mulher e do homem"
+    },
+    {
+      "id": "716",
+      "nome": "Número de processos de divórcio encerrados em primeira instância por natureza e tipo do processo"
+    },
+    {
+      "id": "717",
+      "nome": "Número de processos de divórcio encerrados em primeira instância por sentença proferida"
+    },
+    {
+      "id": "718",
+      "nome": "Número de processos de divórcio encerrados em primeira instância por regime de bens do casamento"
+    },
+    {
+      "id": "719",
+      "nome": "Número de filhos menores de idade de casais envolvidos em separações judiciais concedidas em primeira instância por responsável pela guarda dos filhos"
+    },
+    {
+      "id": "720",
+      "nome": "Número de filhos menores de idade de casais envolvidos em divórcios concedidos em primeira instância por responsável pela guarda"
+    },
+    {
+      "id": "721",
+      "nome": "Número de divórcios concedidos em primeira instância a casais com filhos menores de idade por responsável pela guarda"
+    },
+    {
+      "id": "723",
+      "nome": "Número de divórcios concedidos em primeira instância por número de filhos do casal"
+    },
+    {
+      "id": "724",
+      "nome": "Número de filhos de casais envolvidos em divórcios concedidos em primeira instância"
+    },
+    {
+      "id": "725",
+      "nome": "Número de processos de separação judicial encerrados em primeira instância por natureza da ação"
+    },
+    {
+      "id": "726",
+      "nome": "Número de processos de separação judicial encerrados em primeira instância por natureza da ação não consensual e fundamento da ação"
+    },
+    {
+      "id": "728",
+      "nome": "Número de processos de separação judicial encerrados em primeira instância por sentença proferida"
+    },
+    {
+      "id": "729",
+      "nome": "Número de processos de separação judicial encerrados em primeira instância por regime de bens do casamento"
+    },
+    {
+      "id": "730",
+      "nome": "Número de separações judiciais concedidas em primeira instância por natureza da ação"
+    },
+    {
+      "id": "731",
+      "nome": "Número de separações judiciais concedidas em primeira instância por natureza da ação não consensual e fundamento da ação"
+    },
+    {
+      "id": "733",
+      "nome": "Número de separações judiciais concedidas em primeira instância por número de filhos do casal"
+    },
+    {
+      "id": "734",
+      "nome": "Número de separações judiciais concedidas em primeira instância a casais com filhos menores de idade por número de filhos menores de idade"
+    },
+    {
+      "id": "735",
+      "nome": "Número de separações judiciais concedidas em primeira instância a casais com filhos menores de idade por responsável pela guarda dos filhos"
+    },
+    {
+      "id": "738",
+      "nome": "Número de separações judiciais concedidas em primeira instância por tempo transcorrido entre as datas do casamento e da sentença"
+    },
+    {
+      "id": "739",
+      "nome": "Número de filhos de casais envolvidos em separações judiciais concedidas em primeira instância"
+    },
+    {
+      "id": "740",
+      "nome": "Número de separações judiciais concedidas em primeira instância por tipo de família"
+    }
+  ]
+}

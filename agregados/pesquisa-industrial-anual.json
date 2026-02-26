@@ -1,0 +1,14 @@
+{
+  "id": "PI",
+  "nome": "Pesquisa Industrial Anual",
+  "agregados": [
+    {
+      "id": "2221",
+      "nome": "Dados gerais das indústrias extrativas e de transformação segundo classes e gêneros de indústria"
+    },
+    {
+      "id": "2386",
+      "nome": "Dados gerais das indústrias extrativas e de transformação, segundo os níveis 50 e 100"
+    }
+  ]
+}

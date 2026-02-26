@@ -1,0 +1,26 @@
+{
+  "id": "VS",
+  "nome": "Produção da Extração Vegetal e da Silvicultura",
+  "agregados": [
+    {
+      "id": "289",
+      "nome": "Quantidade produzida e valor da produção na extração vegetal, por tipo de produto extrativo"
+    },
+    {
+      "id": "290",
+      "nome": "Valor da produção na extração vegetal, por tipo de produto extrativo (série encerrada)"
+    },
+    {
+      "id": "291",
+      "nome": "Quantidade produzida e valor da produção na silvicultura, por tipo de produto da silvicultura"
+    },
+    {
+      "id": "292",
+      "nome": "Valor da produção na silvicultura, por tipo de produto da silvicultura (série encerrada)"
+    },
+    {
+      "id": "5930",
+      "nome": "Área total existente em 31/12 dos efetivos da silvicultura, por espécie florestal"
+    }
+  ]
+}

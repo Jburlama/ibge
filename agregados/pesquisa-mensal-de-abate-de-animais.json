@@ -1,0 +1,46 @@
+{
+  "id": "AB",
+  "nome": "Pesquisa Mensal de Abate de Animais",
+  "agregados": [
+    {
+      "id": "19",
+      "nome": "Quantidade de outros animais de criação abatidos"
+    },
+    {
+      "id": "20",
+      "nome": "Peso das carcaças de outros animais de criação abatidos"
+    },
+    {
+      "id": "41",
+      "nome": "Quantidade de bovinos abatidos"
+    },
+    {
+      "id": "42",
+      "nome": "Quantidade de suínos abatidos"
+    },
+    {
+      "id": "43",
+      "nome": "Quantidade de equídeos abatidos"
+    },
+    {
+      "id": "44",
+      "nome": "Quantidade de aves abatidas"
+    },
+    {
+      "id": "45",
+      "nome": "Peso das carcaças de bovinos abatidos"
+    },
+    {
+      "id": "46",
+      "nome": "Peso das carcaças de suínos abatidos"
+    },
+    {
+      "id": "47",
+      "nome": "Peso das carcaças de equídeos abatidos"
+    },
+    {
+      "id": "48",
+      "nome": "Peso das carcaças de aves abatidas"
+    }
+  ]
+}

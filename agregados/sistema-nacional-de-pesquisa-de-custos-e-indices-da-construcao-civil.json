@@ -1,0 +1,42 @@
+{
+  "id": "SI",
+  "nome": "Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil",
+  "agregados": [
+    {
+      "id": "2062",
+      "nome": "Preços medianos, por materiais e serviços (série encerrada em setembro de 2013)"
+    },
+    {
+      "id": "2296",
+      "nome": "Custo médio m² em moeda corrente e variações percentuais no mês, no ano e em doze meses"
+    },
+    {
+      "id": "30",
+      "nome": "Custo médio m² em moeda corrente (série encerrada em abril de 2004)"
+    },
+    {
+      "id": "32",
+      "nome": "Custo médio m² em variação percentual, por tipo de índice (série encerrada em abril de 2004)"
+    },
+    {
+      "id": "33",
+      "nome": "Custo de projeto m², por padrão de acabamento e tipo de projeto (série encerada em dezembro de 1998)"
+    },
+    {
+      "id": "34",
+      "nome": "Preços medianos, por materiais e serviços (série encerrada em dezembro de 2002)"
+    },
+    {
+      "id": "35",
+      "nome": "Salários medianos, por categorias profissionais (série encerrada em setembro de 2013)"
+    },
+    {
+      "id": "647",
+      "nome": "Custo de projeto m², por tipo de projeto e padrão de acabamento"
+    },
+    {
+      "id": "6586",
+      "nome": "Custo médio m² em moeda corrente e variações percentuais no mês, no ano e em doze meses, sem desoneração da folha de pagamento"
+    }
+  ]
+}

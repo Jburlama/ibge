@@ -1,0 +1,42 @@
+{
+  "id": "ES",
+  "nome": "Pesquisa de Estoques",
+  "agregados": [
+    {
+      "id": "254",
+      "nome": "Número de informantes e Quantidade estocada no último dia do semestre, por produtos, tipo de propriedade da empresa e tipo de atividade do estabelecimento"
+    },
+    {
+      "id": "255",
+      "nome": "Número de municípios, Número de informantes e Estoque declarado no último dia do semestre por produtos"
+    },
+    {
+      "id": "259",
+      "nome": "Número de informantes e Capacidade útil dos armazéns e silos para produtos a granel"
+    },
+    {
+      "id": "278",
+      "nome": "Número de estabelecimentos e Capacidade útil das unidades armazenadoras por tipo de unidade armazenadora, tipo de propriedade da empresa e tipo de atividade do estabelecimento"
+    },
+    {
+      "id": "279",
+      "nome": "Número e Capacidade útil dos estabelecimentos com armazéns convencionais, estruturais e infláveis, por grupos de capacidade útil (série encerrada)"
+    },
+    {
+      "id": "5459",
+      "nome": "Número de estabelecimentos e Capacidade útil das unidades armazenadoras, por tipo de unidade armazenadora e grupos de capacidade útil"
+    },
+    {
+      "id": "5470",
+      "nome": "Número e Capacidade útil dos estabelecimentos com armazéns convencionais, estruturais e infláveis por grupos de capacidade útil"
+    },
+    {
+      "id": "911",
+      "nome": "Capacidade útil dos estabelecimentos inativos por tipo de unidade armazenadora"
+    },
+    {
+      "id": "912",
+      "nome": "Total de estabelecimentos inativos, Total de estabelecimentos inativos com informações de capacidade útil e Total de estabelecimentos inativos sem informações de capacidade útil"
+    }
+  ]
+}

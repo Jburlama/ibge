@@ -1,0 +1,18 @@
+{
+  "id": "AM",
+  "nome": "Pesquisa de Assistência Médico-Sanitária",
+  "agregados": [
+    {
+      "id": "211",
+      "nome": "Estabelecimentos de saúde"
+    },
+    {
+      "id": "215",
+      "nome": "Estabelecimentos de saúde, por tipo de atendimento e esfera administrativa"
+    },
+    {
+      "id": "216",
+      "nome": "Número de leitos para internação em estabelecimentos de saúde, por esfera administrativa"
+    }
+  ]
+}

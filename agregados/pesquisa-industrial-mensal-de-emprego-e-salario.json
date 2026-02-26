@@ -1,0 +1,14 @@
+{
+  "id": "XY",
+  "nome": "Pesquisa Industrial Mensal de Emprego e Salário",
+  "agregados": [
+    {
+      "id": "1628",
+      "nome": "Pessoal ocupado, folha de pagamento e número de horas pagas, por seções e divisões"
+    },
+    {
+      "id": "2575",
+      "nome": "Taxas de admissão, desligamento, realocação e rotatividade, por seções e divisões"
+    }
+  ]
+}

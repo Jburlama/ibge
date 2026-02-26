@@ -1,0 +1,26 @@
+{
+  "id": "CQ",
+  "nome": "Pesquisa Trimestral do Couro",
+  "agregados": [
+    {
+      "id": "1088",
+      "nome": "Número de informantes e Quantidade de couro cru inteiro de bovino adquirido para curtimento, no mês e no trimestre, por procedência"
+    },
+    {
+      "id": "1089",
+      "nome": "Número de informantes e Quantidade de couro cru inteiro de bovino para curtimento (recebido de terceiros e total), no mês e no trimestre"
+    },
+    {
+      "id": "1090",
+      "nome": "Número de informantes e Quantidade de couro inteiro curtido de bovino, no mês e no trimestre, por método de curtimento"
+    },
+    {
+      "id": "6671",
+      "nome": "Quantidade total de couro cru inteiro de bovino para curtimento, e Quantidade de couro inteiro curtido de bovino - Primeiros Resultados (série encerrada)"
+    },
+    {
+      "id": "6831",
+      "nome": "Quantidade total de couro cru inteiro de bovino para curtimento, e Quantidade de couro inteiro curtido de bovino, no mês e no trimestre - Primeiros Resultados"
+    }
+  ]
+}

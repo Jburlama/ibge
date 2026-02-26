@@ -1,0 +1,30 @@
+{
+  "id": "PP",
+  "nome": "Pesquisa da Pecuária Municipal",
+  "agregados": [
+    {
+      "id": "3939",
+      "nome": "Efetivo dos rebanhos, por tipo de rebanho"
+    },
+    {
+      "id": "3940",
+      "nome": "Produção da aquicultura, por tipo de produto"
+    },
+    {
+      "id": "73",
+      "nome": "Efetivo dos rebanhos, por tipo de rebanho (série encerrada)"
+    },
+    {
+      "id": "74",
+      "nome": "Produção de origem animal, por tipo de produto"
+    },
+    {
+      "id": "94",
+      "nome": "Vacas ordenhadas"
+    },
+    {
+      "id": "95",
+      "nome": "Ovinos tosquiados"
+    }
+  ]
+}

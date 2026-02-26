@@ -1,0 +1,22 @@
+{
+  "id": "PO",
+  "nome": "Produção de Ovos de Galinha",
+  "agregados": [
+    {
+      "id": "6672",
+      "nome": "Quantidade de ovos produzidos - Primeiros Resultados (série encerrada)"
+    },
+    {
+      "id": "6832",
+      "nome": "Quantidade de ovos produzidos, no mês e no trimestre - Primeiros Resultados"
+    },
+    {
+      "id": "7524",
+      "nome": "Número de informantes, Número de galinhas poedeiras e Quantidade de ovos produzidos, no mês e no trimestre"
+    },
+    {
+      "id": "915",
+      "nome": "Número de informantes, Número de galinhas poedeiras e Quantidade de ovos produzidos, no mês e no trimestre (série encerrada)"
+    }
+  ]
+}

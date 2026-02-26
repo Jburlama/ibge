@@ -1,0 +1,294 @@
+{
+  "id": "PE",
+  "nome": "Pesquisa Mensal de Emprego",
+  "agregados": [
+    {
+      "id": "10",
+      "nome": "População ocupada de 15 anos e mais (série encerrada)"
+    },
+    {
+      "id": "11",
+      "nome": "População desocupada de 15 anos e mais (série encerrada)"
+    },
+    {
+      "id": "12",
+      "nome": "Taxa de atividade (série encerrada)"
+    },
+    {
+      "id": "13",
+      "nome": "Taxa de desemprego aberto - semana (série encerrada)"
+    },
+    {
+      "id": "14",
+      "nome": "Taxa de desemprego aberto - 30 dias (série encerrada)"
+    },
+    {
+      "id": "15",
+      "nome": "Tempo médio de procura de trabalho (série encerrada)"
+    },
+    {
+      "id": "16",
+      "nome": "Rendimento médio nominal, do trabalho principal, das pessoas ocupadas de 15 anos e mais (série encerrada)"
+    },
+    {
+      "id": "2",
+      "nome": "População ocupada de 15 anos e mais por setor de atividade (série encerrada)"
+    },
+    {
+      "id": "2040",
+      "nome": "Pessoas de 10 anos ou mais de idade, total, economicamente ativas e não economicamente ativas na semana de referência por sexo"
+    },
+    {
+      "id": "2041",
+      "nome": "Pessoas, total, economicamente ativas e não economicamente ativas na semana de referência por grupos de idade"
+    },
+    {
+      "id": "2042",
+      "nome": "Taxa de atividade na semana de referência das pessoas de 10 anos ou mais de idade por sexo"
+    },
+    {
+      "id": "2043",
+      "nome": "Taxa de atividade das pessoas na semana de referência por grupos de idade"
+    },
+    {
+      "id": "2044",
+      "nome": "Pessoas de 10 anos ou mais de idade, não economicamente ativas na semana de referência por anos de estudo"
+    },
+    {
+      "id": "2045",
+      "nome": "Pessoas de 10 anos ou mais de idade, não economicamente ativas na semana de referência, em relação ao total de pessoas em idade ativa"
+    },
+    {
+      "id": "2046",
+      "nome": "Pessoas de 10 anos ou mais de idade, não economicamente ativas na semana de referência, que não gostariam de trabalhar, total e em relação ao total de pessoas não economicamente ativas na semana de referência"
+    },
+    {
+      "id": "2047",
+      "nome": "Pessoas de 10 anos ou mais de idade, não economicamente ativas na semana de referência, que estavam disponíveis para trabalhar, total e em relação ao total de pessoas não economicamente ativas na semana de referência"
+    },
+    {
+      "id": "2048",
+      "nome": "Pessoas de 10 anos ou mais de idade, marginalmente ligadas às pessoas economicamente ativas na semana de referência, total e em relação ao total de pessoas não economicamente ativas na semana de referência"
+    },
+    {
+      "id": "2050",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência por sexo"
+    },
+    {
+      "id": "2051",
+      "nome": "Pessoas ocupadas na semana de referência por grupos de idade"
+    },
+    {
+      "id": "2052",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência por anos de estudo"
+    },
+    {
+      "id": "2053",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, em relação ao total de pessoas em idade ativa"
+    },
+    {
+      "id": "2054",
+      "nome": "Taxa de ocupação na semana de referência, das pessoas de 10 anos ou mais de idade"
+    },
+    {
+      "id": "2055",
+      "nome": "Pessoas de 10 anos ou mais de idade, empregadas no trabalho principal da semana de referência, total e em relação ao total de pessoas ocupadas na semana de referência"
+    },
+    {
+      "id": "2056",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e em relação ao total de pessoas ocupadas na semana de referência por posição na ocupação no trabalho principal na semana de referência"
+    },
+    {
+      "id": "2057",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, total e em relação ao total de pessoas ocupadas na semana de referência por setor de atividade no trabalho principal na semana de referência"
+    },
+    {
+      "id": "2058",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, que trabalhavam habitualmente e efetivamente por grupo de horas trabalhadas por semana em todos os trabalhos"
+    },
+    {
+      "id": "2156",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência (exclusive trabalhadores domésticos e empregados no setor público), por grupos de pessoas no empreendimento"
+    },
+    {
+      "id": "2157",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência por tempo de permanência no trabalho principal"
+    },
+    {
+      "id": "2158",
+      "nome": "Pessoas de 10 anos ou mais de idade, subocupadas por insuficiência de horas efetivamente trabalhadas na semana de referência, em todos os trabalhos, total e em relação ao total de pessoas ocupadas na semana de referência"
+    },
+    {
+      "id": "2159",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, com rendimento mensal por horas semanais habituais inferior ao salário mínimo por 40 horas semanais, total e em relação ao total de pessoas ocupadas na semana de referência"
+    },
+    {
+      "id": "2160",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, que procuraram outro trabalho no período de referência de 30 dias e estavam disponíveis para assumir outro trabalho, total e em relação ao total de pessoas ocupadas na semana de referência"
+    },
+    {
+      "id": "2161",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, contribuintes de instituto de previdência em qualquer trabalho"
+    },
+    {
+      "id": "2162",
+      "nome": "Pessoas de 10 anos ou mais de idade, empregadas do setor privado no trabalho principal na semana de referência, com indicativo de carteira de trabalho assinada, total e em relação ao total de pessoas empregadas no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2163",
+      "nome": "Pessoas de 10 anos ou mais de idade, empregadas do setor público no trabalho principal na semana de referência, com indicativo de carteira de trabalho assinada"
+    },
+    {
+      "id": "2165",
+      "nome": "Pessoas de 10 anos ou mais de idade, empregadas com contrato de trabalho, em relação ao total de empregados no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2166",
+      "nome": "Média e mediana das horas trabalhadas por semana, em todos os trabalhos, pelas pessoas de 10 anos ou mais de idade, ocupadas na semana de referência"
+    },
+    {
+      "id": "2167",
+      "nome": "Tempos médio e mediano de permanência no trabalho principal das pessoas de 10 anos ou mais de idade, ocupadas na semana de referência"
+    },
+    {
+      "id": "2168",
+      "nome": "Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência por sexo"
+    },
+    {
+      "id": "2169",
+      "nome": "Pessoas desocupadas na semana de referência por grupos de idade"
+    },
+    {
+      "id": "2170",
+      "nome": "Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência por anos de estudo"
+    },
+    {
+      "id": "2171",
+      "nome": "Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência"
+    },
+    {
+      "id": "2173",
+      "nome": "Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência, em relação ao total de pessoas em idade ativa"
+    },
+    {
+      "id": "2175",
+      "nome": "Pessoas de 10 anos ou mais de idade, desocupadas na semana de referência, em relação ao total de pessoas desocupadas na semana de referência por tempo de procura de trabalho"
+    },
+    {
+      "id": "2176",
+      "nome": "Taxa de desocupação na semana de referência, das pessoas de 10 anos ou mais de idade por sexo"
+    },
+    {
+      "id": "2177",
+      "nome": "Taxa de desocupação na semana de referência por grupos de idade"
+    },
+    {
+      "id": "2178",
+      "nome": "Taxa de desocupação na semana de referência, das pessoas de 10 anos ou mais de idade por anos de estudo"
+    },
+    {
+      "id": "2179",
+      "nome": "Taxa de desocupação na semana de referência, das pessoas de 10 anos ou mais de idade"
+    },
+    {
+      "id": "2180",
+      "nome": "Pessoas de 10 anos ou mais de idade, que saíram do último trabalho no período de referência de 365 dias"
+    },
+    {
+      "id": "2181",
+      "nome": "Rendimento médio e mediano real do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, ocupadas na semana de referência"
+    },
+    {
+      "id": "2182",
+      "nome": "Rendimento médio e mediano nominal do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, ocupadas na semana de referência"
+    },
+    {
+      "id": "2183",
+      "nome": "Rendimento médio e mediano real do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, empregadas do setor público, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2184",
+      "nome": "Rendimento médio e mediano nominal do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, empregadas do setor público, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2185",
+      "nome": "Rendimento médio e mediano real do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, empregadas do setor privado, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2186",
+      "nome": "Rendimento médio e mediano nominal do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, empregadas do setor privado, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2187",
+      "nome": "Rendimento médio e mediano real do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, ocupadas no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2189",
+      "nome": "Rendimento médio e mediano nominal do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, ocupadas no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2190",
+      "nome": "Rendimento médio e mediano real do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, empregadas do setor público, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2191",
+      "nome": "Rendimento médio e mediano nominal do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, empregadas do setor público, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2192",
+      "nome": "Rendimento médio e mediano real do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, empregadas do setor privado, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2193",
+      "nome": "Rendimento médio e mediano nominal do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, empregadas do setor privado, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2259",
+      "nome": "Rendimento médio e mediano nominal do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, conta própria, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2260",
+      "nome": "Rendimento médio e mediano nominal do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, conta própria, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2274",
+      "nome": "Rendimento médio e mediano real do trabalho principal, efetivamente recebido no mês de referência, pelas pessoas de 10 anos ou mais de idade, conta própria, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2275",
+      "nome": "Rendimento médio e mediano real do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, conta própria, no trabalho principal da semana de referência"
+    },
+    {
+      "id": "2276",
+      "nome": "Taxa de desocupação na semana de referência, das pessoas de 10 anos ou mais de idade por grupamento de atividade no trabalho principal"
+    },
+    {
+      "id": "3",
+      "nome": "População ocupada de 15 anos e mais por posição na ocupação (série encerrada)"
+    },
+    {
+      "id": "4",
+      "nome": "Taxa de desemprego aberto - semana por sexo (série encerrada)"
+    },
+    {
+      "id": "5",
+      "nome": "Taxa de desemprego aberto - semana por setor de atividade (série encerrada)"
+    },
+    {
+      "id": "6",
+      "nome": "Rendimento médio nominal, do trabalho principal, das pessoas ocupadas de 15 anos e mais por setor de atividade (série encerrada)"
+    },
+    {
+      "id": "7",
+      "nome": "Rendimento médio nominal, do trabalho principal, das pessoas ocupadas de 15 anos e mais por posição na ocupação (série encerrada)"
+    },
+    {
+      "id": "8",
+      "nome": "População residente de 15 anos e mais (série encerrada)"
+    },
+    {
+      "id": "9",
+      "nome": "População economicamente ativa de 15 anos e mais (série encerrada)"
+    }
+  ]
+}

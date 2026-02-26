@@ -1,0 +1,10 @@
+{
+  "id": "SU",
+  "nome": "Contas Nacionais Anuais",
+  "agregados": [
+    {
+      "id": "6784",
+      "nome": "Produto Interno Bruto, Produto Interno Bruto per capita, População residente e Deflator"
+    }
+  ]
+}

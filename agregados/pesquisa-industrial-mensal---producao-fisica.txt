@@ -1,0 +1,55 @@
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|    |   id | nome                                                                                                                        |
++====+======+=============================================================================================================================+
+|  0 |  109 | Produção física industrial, por nível-100 e tipo de índice (série encerrada em janeiro de 2004)                             |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|  1 |  209 | Produção física industrial, por insumos típicos da construção civil e tipo de índice (série encerrada em janeiro de 2004)   |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|  2 | 2291 | Produção física industrial, por subsetores industriais e tipo de índice (série encerrada em fevereiro de 2014)              |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|  3 | 2292 | Produção física industrial, por tipo de índice e categorias de uso (série encerrada em fevereiro de 2014)                   |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|  4 | 2294 | Produção física industrial, por insumos típicos da construção civil e tipo de índice (série encerrada em fevereiro de 2014) |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|  5 | 2295 | Produção física industrial, por tipo de índice e seções e atividades industriais (série encerrada em fevereiro de 2014)     |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|  6 |   27 | Produção física industrial, por classes de indústrias e tipo de índice (série encerrada em janeiro de 2004)                 |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|  7 |   28 | Produção física industrial, por tipo de índice e gêneros da indústria de transformação (série encerrada em janeiro de 2004) |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|  8 |   29 | Produção física industrial, por tipo de índice e categorias de uso (série encerrada em janeiro de 2004)                     |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+|  9 | 3650 | Produção Física Industrial, por grupos e classes industriais selecionados (série encerrada em janeiro de 2022)              |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 10 | 3651 | Produção Física Industrial, por grandes categorias econômicas (série encerrada em janeiro de 2022)                          |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 11 | 3652 | Produção Física Industrial dos insumos típicos da construção civil (série encerrada em janeiro de 2022)                     |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 12 | 3653 | Produção Física Industrial, por seções e atividades industriais (série encerrada em janeiro de 2022)                        |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 13 | 6607 | Produção Física Industrial, por indicadores especiais (série encerrada em janeiro de 2022)                                  |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 14 | 6662 | Produção Física Industrial, por grandes categorias econômicas - com ajuste sazonal (série encerrada em janeiro de 2018)     |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 15 | 6663 | Produção Física Industrial, por seções e atividades industriais - com ajuste sazonal (série encerrada em janeiro de 2018)   |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 16 | 7511 | Produção Física Industrial, por grupos e classes industriais selecionados (série encerrada em dezembro de 2022)             |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 17 | 7980 | Produção Física Industrial dos insumos típicos da construção civil (série encerrada em dezembro de 2022)                    |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 18 | 8158 | Produção Física Industrial, por grandes categorias econômicas (série encerrada em dezembro de 2022)                         |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 19 | 8159 | Produção Física Industrial, por seções e atividades industriais (série encerrada em dezembro de 2022)                       |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 20 | 8160 | Produção Física Industrial, por indicadores especiais (série encerrada em dezembro de 2022)                                 |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 21 | 8885 | Produção Física Industrial, por grupos e classes industriais selecionados                                                   |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 22 | 8886 | Produção Física Industrial dos insumos típicos da construção civil                                                          |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 23 | 8887 | Produção Física Industrial, por grandes categorias econômicas                                                               |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 24 | 8888 | Produção Física Industrial, por seções e atividades industriais                                                             |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+
+| 25 | 8889 | Produção Física Industrial, por indicadores especiais                                                                       |
++----+------+-----------------------------------------------------------------------------------------------------------------------------+

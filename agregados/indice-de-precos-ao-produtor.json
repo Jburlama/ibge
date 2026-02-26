@@ -1,0 +1,30 @@
+{
+  "id": "IR",
+  "nome": "Índice de Preços ao Produtor",
+  "agregados": [
+    {
+      "id": "3104",
+      "nome": "Índice de Preços ao Produtor, por tipo de índice e indústrias de transformação e atividades (série encerrada em julho de 2015)"
+    },
+    {
+      "id": "5796",
+      "nome": "Índice de Preços ao Produtor, por tipo de índice, indústria geral, indústrias extrativas e indústrias de transformação e atividades (série encerrada em janeiro de 2019)"
+    },
+    {
+      "id": "5800",
+      "nome": "Índice de Preços ao Produtor, por tipo de índice e grandes categorias econômicas (série encerrada em janeiro de 2019)"
+    },
+    {
+      "id": "6723",
+      "nome": "Índice de Preços ao Produtor, por tipo de índice e grupos industriais selecionados (dezembro de 2018 = 100)"
+    },
+    {
+      "id": "6903",
+      "nome": "Índice de Preços ao Produtor, por tipo de índice, indústria geral, indústrias extrativas e indústrias de transformação e atividades (dezembro de 2018 = 100)"
+    },
+    {
+      "id": "6904",
+      "nome": "Índice de Preços ao Produtor, por tipo de índice e grandes categorias econômicas (dezembro de 2018 = 100)"
+    }
+  ]
+}

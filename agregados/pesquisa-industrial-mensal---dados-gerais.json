@@ -1,0 +1,134 @@
+{
+  "id": "DG",
+  "nome": "Pesquisa Industrial Mensal - Dados Gerais",
+  "agregados": [
+    {
+      "id": "49",
+      "nome": "Folha de pagamento nominal por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "50",
+      "nome": "Folha de pagamento nominal por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "51",
+      "nome": "Folha de pagamento nominal por trabalhador por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "52",
+      "nome": "Folha de pagamento nominal por trabalhador por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "53",
+      "nome": "Folha de pagamento real por trabalhador por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "54",
+      "nome": "Folha de pagamento real por trabalhador por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "55",
+      "nome": "Folha de pagamento real por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "56",
+      "nome": "Folha de pagamento real por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "57",
+      "nome": "Número de horas pagas na produção por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "59",
+      "nome": "Número de horas pagas na produção por trabalhador por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "60",
+      "nome": "Número de horas pagas na produção por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "62",
+      "nome": "Número de horas pagas na produção por trabalhador por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "63",
+      "nome": "Pessoal ocupado na produção por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "64",
+      "nome": "Pessoal ocupado na produção por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "65",
+      "nome": "Salário contratual médio nominal por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "66",
+      "nome": "Salário contratual médio real por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "67",
+      "nome": "Salário contratual médio nominal por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "68",
+      "nome": "Salário contratual nominal por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "69",
+      "nome": "Salário contratual médio real por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "70",
+      "nome": "Salário contratual nominal por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "71",
+      "nome": "Salário contratual real por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "72",
+      "nome": "Salário contratual real por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "75",
+      "nome": "Valor da produção nominal por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "76",
+      "nome": "Valor da produção nominal por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "77",
+      "nome": "Valor da produção real por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "78",
+      "nome": "Valor da produção real por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "79",
+      "nome": "Valor das horas extras pagas nominal por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "80",
+      "nome": "Valor das horas extras pagas nominal por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "81",
+      "nome": "Valor das horas extras pagas real por tipo de índice e gêneros da indústria de transformação"
+    },
+    {
+      "id": "82",
+      "nome": "Valor das horas extras pagas real por classes de indústrias e tipo de índice"
+    },
+    {
+      "id": "92",
+      "nome": "Taxa de rotatividade por gêneros da indústria de transformação"
+    },
+    {
+      "id": "93",
+      "nome": "Taxa de rotatividade por classes de indústrias"
+    }
+  ]
+}

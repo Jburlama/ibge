@@ -1,0 +1,1214 @@
+{
+  "id": "PY",
+  "nome": "Pesquisa Anual de Serviços",
+  "agregados": [
+    {
+      "id": "1",
+      "nome": "Receita operacional líquida e subvenções das empresas de transporte rodoviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "1496",
+      "nome": "Resultados das atividades de alojamento e alimentação"
+    },
+    {
+      "id": "1498",
+      "nome": "Consumo intermediário das atividades de alojamento e alimentação"
+    },
+    {
+      "id": "1499",
+      "nome": "Gastos com pessoal das atividades de alojamento e alimentação"
+    },
+    {
+      "id": "1500",
+      "nome": "Demonstrativo da receita das empresas de alojamento"
+    },
+    {
+      "id": "1501",
+      "nome": "Demonstrativo da receita das empresas de alimentação"
+    },
+    {
+      "id": "1502",
+      "nome": "Demonstrativo da receita das empresas de alojamento com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1503",
+      "nome": "Demonstrativo da receita das empresas de alimentação com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1504",
+      "nome": "Custos e despesas das empresas de alojamento"
+    },
+    {
+      "id": "1506",
+      "nome": "Custos e despesas das empresas de alimentação"
+    },
+    {
+      "id": "1507",
+      "nome": "Custos e despesas das empresas de alojamento com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1508",
+      "nome": "Custos e despesas das empresas de alimentação com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1509",
+      "nome": "Gastos com pessoal das empresas de alojamento"
+    },
+    {
+      "id": "1510",
+      "nome": "Gastos com pessoal das empresas de alimentação"
+    },
+    {
+      "id": "1511",
+      "nome": "Gastos com pessoal das empresas de alojamento com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1512",
+      "nome": "Gastos com pessoal das empresas de alimentação com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1513",
+      "nome": "Número de empresas e pessoal ocupado da atividade de alojamento"
+    },
+    {
+      "id": "1514",
+      "nome": "Número de empresas e pessoal ocupado da atividade de alimentação"
+    },
+    {
+      "id": "1515",
+      "nome": "Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado da atividade de alojamento"
+    },
+    {
+      "id": "1516",
+      "nome": "Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado da atividade de alimentação"
+    },
+    {
+      "id": "1517",
+      "nome": "Dados gerais das empresas de alojamento e alimentação (1998 a 2000)"
+    },
+    {
+      "id": "1526",
+      "nome": "Resultados das atividades de transportes e serviços auxiliares dos transportes"
+    },
+    {
+      "id": "1527",
+      "nome": "Consumo intermediário das atividades de transportes e serviços auxiliares de transportes"
+    },
+    {
+      "id": "1528",
+      "nome": "Gastos com pessoal das atividades de transportes e serviços auxiliares de transportes"
+    },
+    {
+      "id": "1529",
+      "nome": "Demonstrativo da receita das empresas de transportes e serviços auxiliares de transportes"
+    },
+    {
+      "id": "1530",
+      "nome": "Demonstrativo da receita das empresas de transportes e serviços auxiliares de transportes com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1531",
+      "nome": "Custos e despesas das empresas de transportes e serviços auxiliares de transportes"
+    },
+    {
+      "id": "1532",
+      "nome": "Custos e despesas das empresas de transportes e serviços auxiliares de transportes com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1533",
+      "nome": "Gastos com pessoal das empresas de transportes e serviços auxiliares de transportes"
+    },
+    {
+      "id": "1534",
+      "nome": "Gastos com pessoal das empresas de transportes e serviços auxiliares de transportes com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1536",
+      "nome": "Número de empresas e pessoal ocupado das atividades de transportes e serviços auxiliares dos transportes"
+    },
+    {
+      "id": "1537",
+      "nome": "Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades de transportes e serviços auxiliares dos transportes"
+    },
+    {
+      "id": "1538",
+      "nome": "Dados gerais das empresas de transportes e serviços auxiliares dos transportes (1998 a 2000)"
+    },
+    {
+      "id": "1544",
+      "nome": "Demonstrativo da receita das empresas de correio e telecomunicações com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1546",
+      "nome": "Custos e despesas das empresas de correio e telecomunicações com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1548",
+      "nome": "Gastos com pessoal das empresas de correio e telecomunicações com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1550",
+      "nome": "Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades de correio e telecomunicações"
+    },
+    {
+      "id": "1556",
+      "nome": "Resultados das atividades de informática"
+    },
+    {
+      "id": "1557",
+      "nome": "Consumo intermediário das atividades de informática"
+    },
+    {
+      "id": "1558",
+      "nome": "Gastos com pessoal das atividades de informática"
+    },
+    {
+      "id": "1559",
+      "nome": "Demonstrativo da receita das empresas de informática"
+    },
+    {
+      "id": "1560",
+      "nome": "Demonstrativo da receita das empresas de informática com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1562",
+      "nome": "Custos e despesas das empresas de informática"
+    },
+    {
+      "id": "1563",
+      "nome": "Custos e despesas das empresas de informática com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1564",
+      "nome": "Gastos com pessoal das empresas de informática"
+    },
+    {
+      "id": "1565",
+      "nome": "Gastos com pessoal das empresas de informática com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1566",
+      "nome": "Número de empresas e pessoal ocupado das atividades de informática"
+    },
+    {
+      "id": "1567",
+      "nome": "Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades de informática"
+    },
+    {
+      "id": "1568",
+      "nome": "Dados gerais das empresas de informática"
+    },
+    {
+      "id": "1574",
+      "nome": "Demonstrativo da receita das empresas imobiliárias e de aluguel de bens móveis e imóveis com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1576",
+      "nome": "Custos e despesas das empresas imobiliárias e de aluguel de bens móveis e imóveis com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1578",
+      "nome": "Gastos com pessoal das empresas imobiliárias e de aluguel de bens móveis e imóveis com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1580",
+      "nome": "Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "1582",
+      "nome": "Resultados das atividades de serviços prestados às empresas"
+    },
+    {
+      "id": "1583",
+      "nome": "Consumo intermediário das atividades de serviços prestados às empresas"
+    },
+    {
+      "id": "1584",
+      "nome": "Gastos com pessoal das atividades de serviços prestados às empresas"
+    },
+    {
+      "id": "1585",
+      "nome": "Demonstrativo da receita das empresas de serviços prestados às empresas"
+    },
+    {
+      "id": "1586",
+      "nome": "Demonstrativo da receita das empresas de serviços prestados às empresas com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1587",
+      "nome": "Custos e despesas das empresas de serviços prestados às empresas"
+    },
+    {
+      "id": "1588",
+      "nome": "Custos e despesas das empresas de serviços prestados às empresas com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1590",
+      "nome": "Gastos com pessoal das empresas de serviços prestados às empresas"
+    },
+    {
+      "id": "1591",
+      "nome": "Gastos com pessoal das empresas de serviços prestados às empresas com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1592",
+      "nome": "Número de empresas e pessoal ocupado das empresas de serviços prestados às empresas"
+    },
+    {
+      "id": "1593",
+      "nome": "Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades de serviços prestados às empresas"
+    },
+    {
+      "id": "1596",
+      "nome": "Resultados das outras atividades"
+    },
+    {
+      "id": "1597",
+      "nome": "Consumo intermediário das outras atividades"
+    },
+    {
+      "id": "1598",
+      "nome": "Gastos com pessoal das outras atividades"
+    },
+    {
+      "id": "1600",
+      "nome": "Demonstrativo da receita das empresas de outras atividades"
+    },
+    {
+      "id": "1601",
+      "nome": "Demonstrativo da receita das empresas de outras atividades com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1602",
+      "nome": "Custos e despesas das empresas de outras atividades"
+    },
+    {
+      "id": "1603",
+      "nome": "Custos e despesas das empresas de outras atividades com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1604",
+      "nome": "Gastos com pessoal das empresas de outras atividades"
+    },
+    {
+      "id": "1605",
+      "nome": "Gastos com pessoal das empresas de outras atividades com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1606",
+      "nome": "Número de empresas e pessoal ocupado das outras atividades"
+    },
+    {
+      "id": "1607",
+      "nome": "Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das outras atividades"
+    },
+    {
+      "id": "1632",
+      "nome": "Resultados das atividades de correio e telecomunicações"
+    },
+    {
+      "id": "1633",
+      "nome": "Consumo intermediário das atividades de correio e telecomunicações"
+    },
+    {
+      "id": "1634",
+      "nome": "Gastos com pessoal das atividades de correio e telecomunicações"
+    },
+    {
+      "id": "1635",
+      "nome": "Resultados das atividades imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "1636",
+      "nome": "Consumo intermediário das atividades imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "1637",
+      "nome": "Gastos com pessoal das atividades imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "1638",
+      "nome": "Demonstrativo da receita das empresas de correio e telecomunicações"
+    },
+    {
+      "id": "1639",
+      "nome": "Custos e despesas das empresas de correio e telecomunicações"
+    },
+    {
+      "id": "1640",
+      "nome": "Gastos com pessoal das empresas de correio e telecomunicações"
+    },
+    {
+      "id": "1641",
+      "nome": "Número de empresas e pessoal ocupado das atividades de correio e telecomunicações"
+    },
+    {
+      "id": "1642",
+      "nome": "Demonstrativo da receita das empresas imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "1643",
+      "nome": "Custos e despesas das empresas imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "1644",
+      "nome": "Gastos com pessoal das empresas imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "1645",
+      "nome": "Número de empresas e pessoal ocupado das atividades imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "1660",
+      "nome": "Dados gerais das empresas de correio e telecomunicações (1998 a 2000)"
+    },
+    {
+      "id": "1661",
+      "nome": "Dados gerais das empresas imobiliárias e de aluguel de bens móveis e imóveis (1998 a 2000)"
+    },
+    {
+      "id": "1662",
+      "nome": "Dados gerais das empresas de serviços prestados às empresas (1998 a 2000)"
+    },
+    {
+      "id": "1663",
+      "nome": "Dados gerais das empresas de outras atividades (1998 a 2000)"
+    },
+    {
+      "id": "17",
+      "nome": "Receita operacional líquida e subvenções das empresas de transporte rodoviário predominantemente de passageiros com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "18",
+      "nome": "Receita operacional líquida e subvenções das empresas de transporte rodoviário predominantemente de cargas com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2207",
+      "nome": "Receita operacional líquida das empresas de transporte rodoviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2208",
+      "nome": "Receita operacional líquida das empresas de transporte rodoviário predominantemente de passageiros com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2209",
+      "nome": "Receita operacional líquida das empresas de transporte rodoviário predominantemente de cargas com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2210",
+      "nome": "Receita operacional líquida das empresas de transporte ferroviário/metroviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2211",
+      "nome": "Receita operacional líquida das empresas de transporte aquaviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2212",
+      "nome": "Receita operacional líquida das empresas de transporte aéreo com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2213",
+      "nome": "Receita operacional líquida das empresas de transporte rodoviário e aéreo de cargas com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2214",
+      "nome": "Receita operacional líquida nas empresas de informática com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2215",
+      "nome": "Receita operacional líquida nas empresas de telecomunicações com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2216",
+      "nome": "Receita operacional líquida nas empresas de serviços audiovisuais com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2325",
+      "nome": "Dados gerais das empresas de alojamento e alimentação"
+    },
+    {
+      "id": "2326",
+      "nome": "Dados gerais das empresas de transportes e serviços auxiliares dos transportes"
+    },
+    {
+      "id": "2327",
+      "nome": "Dados gerais das empresas de correio e telecomunicações"
+    },
+    {
+      "id": "2328",
+      "nome": "Dados gerais das empresas imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "2329",
+      "nome": "Dados gerais das empresas de serviços prestados às empresas"
+    },
+    {
+      "id": "2330",
+      "nome": "Dados gerais das empresas de outras atividades"
+    },
+    {
+      "id": "2341",
+      "nome": "Receita operacional líquida das empresas de informática com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2342",
+      "nome": "Receita operacional líquida das empresas de telecomunicações com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2343",
+      "nome": "Receita operacional líquida das empresas de serviços audiovisuais com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "2344",
+      "nome": "Receita operacional líquida por origem da receita, segundo as atividades"
+    },
+    {
+      "id": "2577",
+      "nome": "Receita operacional líquida, Valor adicionado, Salários, Retiradas e outras remunerações, Pessoal ocupado e Número de empresas dos serviços empresariais não-financeiros, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2580",
+      "nome": "Origem da receita operacional líquida das empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2581",
+      "nome": "Resultados dos serviços empresariais não-financeiros - CNAE 2.0"
+    },
+    {
+      "id": "2610",
+      "nome": "Resultados das atividades dos serviços prestados às famílias - CNAE 2.0"
+    },
+    {
+      "id": "2611",
+      "nome": "Receita das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2613",
+      "nome": "Custos das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2614",
+      "nome": "Despesas operacionais das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2616",
+      "nome": "Despesas financeiras, de Arrendamento mercantil (leasing) e de Participações acionárias das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2617",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2618",
+      "nome": "Gastos com pessoal das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2619",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2620",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2621",
+      "nome": "Aquisições do ativo tangível no ano das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2622",
+      "nome": "Baixas do ativo tangível no ano das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2623",
+      "nome": "Resultados dos serviços de informação e comunicação - CNAE 2.0"
+    },
+    {
+      "id": "2624",
+      "nome": "Receita das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2625",
+      "nome": "Custos das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2626",
+      "nome": "Despesas operacionais das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2627",
+      "nome": "Despesas financeiras, de Arrendamento mercantil (leasing) e de Participações acionárias das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2628",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2629",
+      "nome": "Gastos com pessoal das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2630",
+      "nome": "Número de empresas e pessoal ocupado em 31/12 das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2631",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2632",
+      "nome": "Aquisições do ativo tangível no ano das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2633",
+      "nome": "Baixas do ativo tangível no ano das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2634",
+      "nome": "Resultados dos serviços profissionais, administrativos e complementares - CNAE 2.0"
+    },
+    {
+      "id": "2635",
+      "nome": "Receita das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2636",
+      "nome": "Custos das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2637",
+      "nome": "Despesas operacionais das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2638",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2639",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2641",
+      "nome": "Gastos com pessoal das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2642",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2643",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2644",
+      "nome": "Aquisições do ativo tangível no ano das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2648",
+      "nome": "Baixas do ativo tangível no ano das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2649",
+      "nome": "Resultados das atividades de transportes, serviços auxiliares aos transportes e correios - CNAE 2.0"
+    },
+    {
+      "id": "2650",
+      "nome": "Receita das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2653",
+      "nome": "Custos das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2655",
+      "nome": "Despesas operacionais das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2656",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2658",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2659",
+      "nome": "Gastos com pessoal das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2660",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2661",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2662",
+      "nome": "Aquisições do ativo tangível no ano das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2663",
+      "nome": "Baixas do ativo tangível no ano das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2664",
+      "nome": "Resultado das atividades imobiliárias - CNAE 2.0"
+    },
+    {
+      "id": "2665",
+      "nome": "Receita das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2666",
+      "nome": "Custos das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2667",
+      "nome": "Despesas operacionais das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2668",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2669",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2670",
+      "nome": "Gastos com pessoal das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2671",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2672",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2673",
+      "nome": "Aquisições do ativo tangível no ano das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2674",
+      "nome": "Baixas do ativo tangível no ano das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2675",
+      "nome": "Resultados dos serviços de manutenção e reparação - CNAE 2.0"
+    },
+    {
+      "id": "2676",
+      "nome": "Receita das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2677",
+      "nome": "Custos das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2678",
+      "nome": "Despesas operacionais das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2686",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2687",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2688",
+      "nome": "Gastos com pessoal das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2689",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2690",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2691",
+      "nome": "Aquisições do ativo tangível no ano das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2692",
+      "nome": "Baixas do ativo tangível no ano das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2693",
+      "nome": "Resultados das outras atividades de serviços - CNAE 2.0"
+    },
+    {
+      "id": "2695",
+      "nome": "Receita das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2696",
+      "nome": "Custos das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2697",
+      "nome": "Despesas operacionais das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2700",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2703",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de outras atividades de serviços total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2706",
+      "nome": "Gastos com pessoal das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2707",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2708",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2709",
+      "nome": "Aquisições do ativo tangível no ano das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2714",
+      "nome": "Baixas do ativo tangível no ano das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2715",
+      "nome": "Dados regionalizados do segmento empresarial não-financeiro, segundo as grandes regiões, as unidades da federação e as atividades - CNAE 2.0"
+    },
+    {
+      "id": "2735",
+      "nome": "Receita operacional líquida, Valor adicionado, Salários, Retiradas e outras remunerações, Pessoal ocupado e Número de empresas dos serviços empresariais não-financeiros, segundo as atividades"
+    },
+    {
+      "id": "2736",
+      "nome": "Origem da receita operacional líquida, segundo as atividades"
+    },
+    {
+      "id": "2737",
+      "nome": "Resultados das atividades dos serviços prestados às famílias"
+    },
+    {
+      "id": "2738",
+      "nome": "Receita das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2739",
+      "nome": "Custos das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2740",
+      "nome": "Despesas operacionais das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2741",
+      "nome": "Despesas financeiras, de Arrendamento mercantil (leasing) e de Participações acionárias das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2742",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2743",
+      "nome": "Gastos com pessoal das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2744",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2745",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2746",
+      "nome": "Aquisições do ativo tangível no ano das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2747",
+      "nome": "Baixas do ativo tangível no ano das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2748",
+      "nome": "Resultados dos serviços de informação"
+    },
+    {
+      "id": "2749",
+      "nome": "Receita das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2750",
+      "nome": "Custos das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2751",
+      "nome": "Despesas operacionais das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2752",
+      "nome": "Despesas financeiras, de Arrendamento mercantil (leasing) e de Participações acionárias das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2753",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2754",
+      "nome": "Gastos com pessoal das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2755",
+      "nome": "Número de empresas e pessoal ocupado em 31/12 das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2756",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2757",
+      "nome": "Aquisições do ativo tangível no ano das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2758",
+      "nome": "Baixas do ativo tangível no ano das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2767",
+      "nome": "Resultados dos serviços prestados às empresas"
+    },
+    {
+      "id": "2768",
+      "nome": "Receita das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2769",
+      "nome": "Custos das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2770",
+      "nome": "Despesas operacionais das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2771",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2772",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2773",
+      "nome": "Gastos com pessoal das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2777",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2778",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2779",
+      "nome": "Aquisições do ativo tangível no ano das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2780",
+      "nome": "Baixas do ativo tangível no ano das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2787",
+      "nome": "Resultados das atividades de transportes, serviços auxiliares aos transportes e correios"
+    },
+    {
+      "id": "2788",
+      "nome": "Receita das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2789",
+      "nome": "Custos das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2790",
+      "nome": "Despesas operacionais das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2791",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2792",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2793",
+      "nome": "Gastos com pessoal das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2794",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2795",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2796",
+      "nome": "Aquisições do ativo tangível no ano das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2797",
+      "nome": "Baixas do ativo tangível no ano das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2798",
+      "nome": "Resultado das atividades imobiliárias"
+    },
+    {
+      "id": "2799",
+      "nome": "Receita das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2800",
+      "nome": "Custos das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2801",
+      "nome": "Despesas operacionais das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2802",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2803",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2804",
+      "nome": "Gastos com pessoal das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2805",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2806",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2807",
+      "nome": "Aquisições do ativo tangível no ano das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2808",
+      "nome": "Baixas do ativo tangível no ano das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2809",
+      "nome": "Resultados dos serviços de manutenção e reparação"
+    },
+    {
+      "id": "2810",
+      "nome": "Receita das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2811",
+      "nome": "Custos das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2812",
+      "nome": "Despesas operacionais das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2813",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2814",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2815",
+      "nome": "Gastos com pessoal das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2816",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2817",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2818",
+      "nome": "Aquisições do ativo tangível no ano das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2819",
+      "nome": "Baixas do ativo tangível no ano das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2820",
+      "nome": "Resultados das outras atividades de serviços"
+    },
+    {
+      "id": "2821",
+      "nome": "Receita das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2822",
+      "nome": "Custos das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2823",
+      "nome": "Despesas operacionais das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2824",
+      "nome": "Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2825",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de outras atividades de serviços total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2826",
+      "nome": "Gastos com pessoal das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2827",
+      "nome": "Número de empresas e Pessoal ocupado em 31/12 das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2828",
+      "nome": "Variação trimestral do pessoal ocupado das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2829",
+      "nome": "Aquisições do ativo tangível no ano das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2830",
+      "nome": "Baixas do ativo tangível no ano das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+    },
+    {
+      "id": "2831",
+      "nome": "Dados regionalizados do segmento empresarial não-financeiro, segundo as grandes regiões, as unidades da federação e as atividades"
+    },
+    {
+      "id": "2832",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de alojamento"
+    },
+    {
+      "id": "2833",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de alimentação"
+    },
+    {
+      "id": "2834",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de alojamento com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "2835",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de alimentação com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "2836",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de transportes e serviços auxiliares de transportes"
+    },
+    {
+      "id": "2837",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de transportes e serviços auxiliares de transportes com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "2838",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de correio e telecomunicações"
+    },
+    {
+      "id": "2839",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de correio e telecomunicações com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "2840",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de informática"
+    },
+    {
+      "id": "2841",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de informática com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "2842",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas imobiliárias e de aluguel de bens móveis e imóveis"
+    },
+    {
+      "id": "2843",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas imobiliárias e de aluguel de bens móveis e imóveis com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "2844",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de serviços prestados às empresas"
+    },
+    {
+      "id": "2845",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de serviços prestados às empresas com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "2846",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de outras atividades"
+    },
+    {
+      "id": "2847",
+      "nome": "Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de outras atividades com 20 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "36",
+      "nome": "Receita operacional líquida e subvenções das empresas de transporte ferroviário/metroviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "37",
+      "nome": "Receita operacional líquida e subvenções das empresas de transporte aquaviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "38",
+      "nome": "Receita operacional líquida e subvenções das empresas de transporte aéreo com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "39",
+      "nome": "Receita operacional líquida e subvenções das empresas de informática com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "40",
+      "nome": "Receita operacional líquida e subvenções das empresas de telecomunicações com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "574",
+      "nome": "Receita operacional líquida e subvenções das empresas de serviços de publicidade com 15 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "575",
+      "nome": "Receita operacional líquida e subvenções das agências de publicidade com 15 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "576",
+      "nome": "Receita operacional líquida e subvenções das agências de publicidade com 15 ou mais pessoas ocupadas, segundo os tipos de campanha publicitária/de comunicação"
+    },
+    {
+      "id": "83",
+      "nome": "Receita operacional líquida e subvenções das empresas de serviços audiovisuais com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    },
+    {
+      "id": "87",
+      "nome": "Receita operacional líquida e subvenções das empresas de serviços de engenharia e arquitetura com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+    }
+  ]
+}

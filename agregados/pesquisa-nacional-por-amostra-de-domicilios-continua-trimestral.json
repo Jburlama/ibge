@@ -1,0 +1,270 @@
+{
+  "id": "DD",
+  "nome": "Pesquisa Nacional por Amostra de Domicílios Contínua trimestral",
+  "agregados": [
+    {
+      "id": "1616",
+      "nome": "Pessoas de 14 anos ou mais de idade, desocupadas na semana de referência, por tempo de procura de trabalho"
+    },
+    {
+      "id": "4092",
+      "nome": "Pessoas de 14 anos ou mais de idade, por condição em relação à força de trabalho e condição de ocupação"
+    },
+    {
+      "id": "4093",
+      "nome": "Pessoas de 14 anos ou mais de idade, total, na força de trabalho, ocupadas, desocupadas, fora da força de trabalho, em situação de informalidade e respectivas taxas e níveis, por sexo"
+    },
+    {
+      "id": "4094",
+      "nome": "Pessoas de 14 anos ou mais de idade, total, na força de trabalho, ocupadas, desocupadas, fora da força de trabalho, em situação de informalidade e respectivas taxas e níveis, por grupo de idade"
+    },
+    {
+      "id": "4095",
+      "nome": "Pessoas de 14 anos ou mais de idade, total, na força de trabalho, ocupadas, desocupadas, fora da força de trabalho, em situação de informalidade e respectivas taxas e níveis, por nível de instrução"
+    },
+    {
+      "id": "4096",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência, por posição na ocupação no trabalho principal"
+    },
+    {
+      "id": "4097",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência, por posição na ocupação e categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "4099",
+      "nome": "Taxas de desocupação e de subutilização da força de trabalho, na semana de referência, das pessoas de 14 anos ou mais de idade"
+    },
+    {
+      "id": "4100",
+      "nome": "Pessoas de 14 anos ou mais de idade, por tipo de medida de subutilização da força de trabalho na semana de referência"
+    },
+    {
+      "id": "5434",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência, por grupamento de atividade no trabalho principal"
+    },
+    {
+      "id": "5435",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência, por grupamento ocupacional no trabalho principal"
+    },
+    {
+      "id": "5436",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal e em todos os trabalhos, por sexo"
+    },
+    {
+      "id": "5437",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal e em todos os trabalhos, por grupo de idade"
+    },
+    {
+      "id": "5438",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal e em todos os trabalhos, por nível de instrução"
+    },
+    {
+      "id": "5439",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal, por posição na ocupação no trabalho principal"
+    },
+    {
+      "id": "5440",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal, por posição na ocupação e categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "5442",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal, por grupamento de atividade no trabalho principal"
+    },
+    {
+      "id": "5444",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal, por grupamento ocupacional no trabalho principal"
+    },
+    {
+      "id": "5606",
+      "nome": "Massa de rendimento mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos em todos os trabalhos"
+    },
+    {
+      "id": "5917",
+      "nome": "População, por sexo"
+    },
+    {
+      "id": "5918",
+      "nome": "População, por grupo de idade"
+    },
+    {
+      "id": "5919",
+      "nome": "População, por nível de instrução"
+    },
+    {
+      "id": "5947",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência, por contribuição para instituto de previdência em qualquer trabalho"
+    },
+    {
+      "id": "6371",
+      "nome": "Média de horas habitualmente trabalhadas por semana e efetivamente trabalhadas na semana de referência, no trabalho principal e em todos os trabalhos, das pessoas de 14 anos ou mais de idade, por sexo"
+    },
+    {
+      "id": "6372",
+      "nome": "Média de horas habitualmente trabalhadas por semana e efetivamente trabalhadas na semana de referência, no trabalho principal e em todos os trabalhos, das pessoas de 14 anos ou mais de idade, por grupo de idade"
+    },
+    {
+      "id": "6373",
+      "nome": "Média de horas habitualmente trabalhadas por semana e efetivamente trabalhadas na semana de referência, no trabalho principal e em todos os trabalhos, das pessoas de 14 anos ou mais de idade, por nível de instrução"
+    },
+    {
+      "id": "6374",
+      "nome": "Média de horas habitualmente trabalhadas por semana e efetivamente trabalhadas na semana de referência, no trabalho principal, das pessoas de 14 anos ou mais de idade, por posição na ocupação"
+    },
+    {
+      "id": "6382",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência como militares ou empregados do setor público no trabalho principal, por área do emprego"
+    },
+    {
+      "id": "6383",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência como trabalhadores domésticos no trabalho principal, por número de domicílios em que trabalhavam"
+    },
+    {
+      "id": "6384",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência como empregados (exclusive trabalhadores domésticos) no trabalho principal, por tipo de contratação"
+    },
+    {
+      "id": "6385",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência, por tempo de permanência no trabalho principal"
+    },
+    {
+      "id": "6386",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência, por número de trabalhos"
+    },
+    {
+      "id": "6396",
+      "nome": "Taxas de desocupação e de subutilização da força de trabalho, na semana de referência, das pessoas de 14 anos ou mais de idade, por sexo"
+    },
+    {
+      "id": "6397",
+      "nome": "Taxas de desocupação e de subutilização da força de trabalho, na semana de referência, das pessoas de 14 anos ou mais de idade, por grupo de idade"
+    },
+    {
+      "id": "6398",
+      "nome": "Pessoas de 14 anos ou mais de idade, por tipo de medida de subutilização da força de trabalho na semana de referência e sexo"
+    },
+    {
+      "id": "6399",
+      "nome": "Pessoas de 14 anos ou mais de idade, por tipo de medida de subutilização da força de trabalho na semana de referência e grupo de idade"
+    },
+    {
+      "id": "6402",
+      "nome": "Pessoas de 14 anos ou mais de idade, total, na força de trabalho, ocupadas, desocupadas, fora da força de trabalho, em situação de informalidade e respectivas taxas e níveis, por cor ou raça"
+    },
+    {
+      "id": "6403",
+      "nome": "População, por cor ou raça"
+    },
+    {
+      "id": "6405",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal e em todos os trabalhos, por cor ou raça"
+    },
+    {
+      "id": "6406",
+      "nome": "Média de horas habitualmente trabalhadas por semana e efetivamente trabalhadas na semana de referência, no trabalho principal e em todos os trabalhos, das pessoas de 14 anos ou mais de idade, por cor ou raça"
+    },
+    {
+      "id": "6421",
+      "nome": "Massa de rendimento mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente e efetivamente recebidos no trabalho principal, por posição na ocupação no trabalho principal"
+    },
+    {
+      "id": "6459",
+      "nome": "Pessoas de 14 anos ou mais de idade ocupadas na semana de referência - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior - por contribuição para instituto de previdência em qualquer trabalho"
+    },
+    {
+      "id": "6460",
+      "nome": "Percentual de pessoas contribuintes de instituto de previdência em qualquer trabalho, na população de 14 anos ou mais de idade, ocupada na semana de referência - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6461",
+      "nome": "Taxa de participação na força de trabalho, na semana de referência, das pessoas de 14 anos ou mais de idade - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6462",
+      "nome": "População - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6463",
+      "nome": "Pessoas de 14 anos ou mais de idade - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior, por condição em relação à força de trabalho e condição de ocupação"
+    },
+    {
+      "id": "6464",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior - por posição na ocupação e categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "6465",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior - por grupamento de atividade no trabalho principal"
+    },
+    {
+      "id": "6466",
+      "nome": "Nível da ocupação, na semana de referência, das pessoas de 14 anos ou mais de idade - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6467",
+      "nome": "Nível da desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6468",
+      "nome": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6469",
+      "nome": "Rendimento médio mensal real e nominal das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, efetivamente recebido em todos os trabalhos - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6470",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, efetivamente recebido no trabalho principal - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6471",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido no trabalho principal - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior - por posição na ocupação e categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "6472",
+      "nome": "Rendimento médio mensal real e nominal das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido em todos os trabalhos - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6473",
+      "nome": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido no trabalho principal - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior - por grupamento de atividade no trabalho principal"
+    },
+    {
+      "id": "6474",
+      "nome": "Massa de rendimento mensal real e nominal das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido em todos os trabalhos - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6475",
+      "nome": "Massa de rendimento mensal real e nominal das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, efetivamente recebido em todos os trabalhos - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6482",
+      "nome": "Pessoas de 14 anos ou mais de idade - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior - por tipo de medida de subutilização da força de trabalho na semana de referência"
+    },
+    {
+      "id": "6483",
+      "nome": "Taxa combinada de desocupação e de subocupação por insuficiência de horas trabalhadas - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6484",
+      "nome": "Taxa combinada da desocupação e da força de trabalho potencial - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6485",
+      "nome": "Taxa composta da subutilização da força de trabalho - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6808",
+      "nome": "Taxa de subocupação por insuficiência de horas trabalhadas - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "6813",
+      "nome": "Percentual de pessoas desalentadas na população na força de trabalho ou desalentada - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    },
+    {
+      "id": "8517",
+      "nome": "Pessoas de 14 anos ou mais de idade, ocupadas na semana de referência - Total, coeficiente de variação, variações percentuais e absolutas em relação ao trimestre anterior e ao mesmo trimestre do ano anterior - por situação de informalidade no trabalho principal"
+    },
+    {
+      "id": "8529",
+      "nome": "Taxa de informalidade das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência - Total, coeficiente de variação, variações em relação ao trimestre anterior e ao mesmo trimestre do ano anterior"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "C4",
+  "nome": "Contas Econômicas Ambientais da Água",
+  "agregados": [
+    {
+      "id": "6834",
+      "nome": "Total de Recursos Hídricos Renováveis (TRHR), Total de Recursos Hídricos Renováveis (TRHR) per capita, Índice de Retirada (IR) - Volume captado como proporção do TRHR e Razão de dependência (RD) - Volume de entradas de outros países a montante como proporção do TRHR - 2013-2017"
+    },
+    {
+      "id": "6905",
+      "nome": "Retirada total de água, Uso total de água, Retorno total de água para o meio ambiente e Consumo total de água, por atividades econômicas e famílias - 2013-2017"
+    },
+    {
+      "id": "7275",
+      "nome": "Valor bruto de produção de água de distribuição e de serviços de esgoto - 2013-2017"
+    },
+    {
+      "id": "7276",
+      "nome": "Consumo intermediário de água de distribuição e de serviços de esgoto, por atividades econômicas - 2013-2017"
+    },
+    {
+      "id": "7278",
+      "nome": "Uso final das famílias de água de distribuição e de serviços de esgoto - 2013-2017"
+    },
+    {
+      "id": "7293",
+      "nome": "Eficiência do consumo de água, Intensidade do consumo de água, Eficiência do uso de água e Intensidade do uso de água, por atividades econômicas - 2013-2017"
+    },
+    {
+      "id": "7294",
+      "nome": "Custo com água de distribuição e serviços de esgoto, por atividades econômicas e famílias - 2013-2017"
+    },
+    {
+      "id": "9687",
+      "nome": "Total de Recursos Hídricos Renováveis (TRHR), Total de Recursos Hídricos Renováveis (TRHR) per capita, Índice de Retirada (IR) - Volume captado como proporção do TRHR e Razão de dependência (RD) - Volume de entradas de outros países a montante como proporção do TRHR"
+    },
+    {
+      "id": "9688",
+      "nome": "Retirada total de água, Uso total de água, Retorno total de água para o meio ambiente e Consumo total de água, por atividades econômicas e famílias"
+    },
+    {
+      "id": "9689",
+      "nome": "Valor bruto de produção de água de distribuição e de serviços de esgoto"
+    },
+    {
+      "id": "9690",
+      "nome": "Consumo intermediário de água de distribuição e de serviços de esgoto, por atividades econômicas"
+    },
+    {
+      "id": "9691",
+      "nome": "Uso final das famílias de água de distribuição e de serviços de esgoto"
+    },
+    {
+      "id": "9692",
+      "nome": "Eficiência do consumo de água, Intensidade do consumo de água, Eficiência do uso de água e Intensidade do uso de água, por atividades econômicas"
+    },
+    {
+      "id": "9693",
+      "nome": "Custo com água de distribuição e serviços de esgoto, por atividades econômicas e famílias"
+    }
+  ]
+}

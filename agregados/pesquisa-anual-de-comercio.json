@@ -1,0 +1,334 @@
+{
+  "id": "PB",
+  "nome": "Pesquisa Anual de Comércio",
+  "agregados": [
+    {
+      "id": "1399",
+      "nome": "Número de empresas comerciais, Unidades locais com receita de revenda, Pessoal ocupado, Receita operacional líquida, Gastos com salários, retiradas e outras remunerações e Valor adicionado bruto a preços básicos segundo a divisão de comércio e faixas de pessoal ocupado"
+    },
+    {
+      "id": "1400",
+      "nome": "Demonstrativo de receita das empresas comerciais por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1401",
+      "nome": "Despesas no ano das empresas comerciais por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1402",
+      "nome": "Gastos com pessoal das empresas comerciais por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1403",
+      "nome": "Número de empresas e Pessoal ocupado nas empresas comerciais em 31/12 por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1404",
+      "nome": "Pessoal ocupado nas empresas comerciais (por trimestre) por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1405",
+      "nome": "Número de empresas e Receita bruta de revenda das empresas comerciais varejistas por formas de comercialização e grupos e classes de atividade (série encerrada em 2020)"
+    },
+    {
+      "id": "1406",
+      "nome": "Número de empresas e Receita bruta de revenda das empresas comerciais varejistas com 100 % da receita em uma única forma de comercialização por formas de comercialização e grupos e classes de atividade (série encerrada em 2020)"
+    },
+    {
+      "id": "1407",
+      "nome": "Dados gerais das empresas comerciais por grandes regiões e unidades da federação de atuação das empresas e divisão de comércio e grupo de atividade"
+    },
+    {
+      "id": "1408",
+      "nome": "Resultados das empresas comerciais com 20 ou mais pessoas ocupadas segundo a divisão de comércio"
+    },
+    {
+      "id": "1409",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões no ano das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1410",
+      "nome": "Demonstrativo de receita das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1411",
+      "nome": "Compras e estoques das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1412",
+      "nome": "Despesas no ano das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1413",
+      "nome": "Despesas financeiras e de participações no ano das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1414",
+      "nome": "Gastos com pessoal das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1415",
+      "nome": "Aquisições e Baixas de ativos tangíveis das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1416",
+      "nome": "Número de empresas e Pessoal ocupado nas empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade (CNAE 2.0)"
+    },
+    {
+      "id": "1417",
+      "nome": "Número de empresas comerciais, Pessoal ocupado, Gastos com pessoal, Receitas, Margem e Taxa de margem de comercailização, Compras e estoques das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "1418",
+      "nome": "Número de empresas comerciais, Unidades locais com receita de revenda, Pessoal ocupado, Gastos com pessoal, Receitas, Valor adicionado, Margem e Taxa de margem de comercialização e compras e estoques segundo divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "1589",
+      "nome": "Resultados das empresas comerciais segundo a divisão de comércio"
+    },
+    {
+      "id": "2698",
+      "nome": "Número de empresas e Receita líquida de revenda das empresas comerciais varejistas por formas de comercialização, participação na receita líquida de revenda e divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2699",
+      "nome": "Número de empresas, Receita líquida de revenda e Percentual de receita líquida em relação ao total de receita das empresas comerciais varejistas por formas de comercialização e divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2701",
+      "nome": "Número de empresas comerciais, Estabelecimentos com receita de revenda, Pessoal ocupado, Receita operacional líquida, Gastos com salários, retiradas e outras remunerações segundo a divisão de comércio e faixas de pessoal ocupado"
+    },
+    {
+      "id": "2702",
+      "nome": "Demonstrativo de receita das empresas comerciais por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2704",
+      "nome": "Despesas no ano das empresas comerciais por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2705",
+      "nome": "Gastos com pessoal das empresas comerciais por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2710",
+      "nome": "Número de empresas e Pessoal ocupado nas empresas comerciais em 31/12 por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2711",
+      "nome": "Pessoal ocupado nas empresas comerciais (por trimestre) por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2712",
+      "nome": "Número de empresas e Receita bruta de revenda das empresas comerciais varejistas por formas de comercialização e divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2713",
+      "nome": "Número de empresas, Receita líquida de revenda e Receita bruta de revenda das empresas comerciais varejistas com 100 % da receita em uma única forma de comercialização por formas de comercialização e divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2716",
+      "nome": "Número de estabelecimentos e Dados gerais das empresas comerciais por unidade da federação de atuação das empresas e divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2717",
+      "nome": "Número de estabelecimentos e Dados gerais das empresas comerciais por grandes regiões e unidades da federação de atuação das empresas e divisão de comércio e grupo de atividade"
+    },
+    {
+      "id": "2721",
+      "nome": "Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões no ano das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2988",
+      "nome": "Salários, retiradas e outras remunerações das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "2989",
+      "nome": "Número de empresas comerciais, Estabelecimentos com receita de revenda, Pessoal ocupado, Gastos com pessoal, Receitas, Margem de comercialização e Compras e Estoques por divisão de comércio e faixas de pessoal ocupado"
+    },
+    {
+      "id": "2994",
+      "nome": "Número de empresas comerciais, Estabelecimentos com receita de revenda, Pessoal ocupado, Gastos com pessoal, Receitas, Margem de comercialização e Compras e Estoques por divisão de comércio e faixas de receita total (1996 até 2000)"
+    },
+    {
+      "id": "3004",
+      "nome": "Número de empresas comerciais, Estabelecimentos com receita de revenda, Pessoal ocupado, Gastos com pessoal, Receitas, Margem de comercialização e Compras e Estoques por divisão de comércio e faixas de receita total (2001 até 2002)"
+    },
+    {
+      "id": "3005",
+      "nome": "Número de empresas comerciais, Estabelecimentos com receita de revenda, Pessoal ocupado, Gastos com pessoal, Receitas, Margem de comercialização e Compras e Estoques por divisão de comércio, segundo grandes regiões e unidades da federação da sede das empresas"
+    },
+    {
+      "id": "3006",
+      "nome": "Demonstrativo de receita das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "3007",
+      "nome": "Compras e estoques das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "3008",
+      "nome": "Despesas no ano das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "3009",
+      "nome": "Despesas financeiras e de participações no ano das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "3010",
+      "nome": "Gastos com pessoal das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "3011",
+      "nome": "Aquisições e Baixas de ativos tangíveis das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "3012",
+      "nome": "Número de empresas e Pessoal ocupado nas empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "3013",
+      "nome": "Número de empresas comerciais, Estabelecimentos com receita de revenda, Pessoal ocupado, Gastos com pessoal, Receitas, Margem e Taxa de margem de comercailização, Compras e estoques das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "3014",
+      "nome": "Número de empresas comerciais, Estabelecimentos com receita de revenda, Pessoal ocupado, Gastos com pessoal, Receitas, Margem e Taxa de margem de comercialização e compras e estoques segundo divisão de comércio, grupo e classe de atividade"
+    },
+    {
+      "id": "680",
+      "nome": "Número de estabelecimentos comerciais com receita de revenda por classes e gêneros de comércio"
+    },
+    {
+      "id": "681",
+      "nome": "Número de outros tipos de unidades locais, das empresas com 20 ou mais pessoas ocupadas por grandes regiões e faixas de pessoal ocupado"
+    },
+    {
+      "id": "682",
+      "nome": "Número de empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "683",
+      "nome": "Pessoal ocupado em 31/12 em empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "684",
+      "nome": "Total de gastos com pessoal em empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "685",
+      "nome": "Gastos com salários, retiradas e outras remunerações em empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "686",
+      "nome": "Número de empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "687",
+      "nome": "Número de estabelecimentos comerciais de médio e grande porte com receita de revenda por classes e gêneros de comércio"
+    },
+    {
+      "id": "688",
+      "nome": "Pessoal ocupado em 31/12 em empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "689",
+      "nome": "Total de gastos com pessoal em empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "690",
+      "nome": "Gastos com salários, retiradas e outras remunerações em empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "691",
+      "nome": "Receita total em empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "692",
+      "nome": "Receita líquida de revenda em empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "693",
+      "nome": "Margem de comercialização em empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "694",
+      "nome": "Compra de mercadoria para revenda em empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "695",
+      "nome": "Estoque em 31/12 do ano anterior em empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "696",
+      "nome": "Estoque em 31/12 do ano corrente em empresas comerciais por classes e gêneros de comércio"
+    },
+    {
+      "id": "697",
+      "nome": "Receita total em empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "698",
+      "nome": "Receita líquida de revenda em empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "699",
+      "nome": "Margem de comercialização em empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "700",
+      "nome": "Compra de mercadoria para revenda em empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "701",
+      "nome": "Estoque em 31/12 do ano anterior em empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "702",
+      "nome": "Estoque em 31/12 do ano corrente em empresas comerciais de médio e grande porte por classes e gêneros de comércio"
+    },
+    {
+      "id": "744",
+      "nome": "Número de unidades industriais, das empresas com 20 ou mais pessoas ocupadas por grandes regiões e faixas de pessoal ocupado"
+    },
+    {
+      "id": "753",
+      "nome": "Número de unidades produtivas comerciais, das empresas com 20 ou mais pessoas ocupadas por grandes regiões e faixas de pessoal ocupado"
+    },
+    {
+      "id": "754",
+      "nome": "Número de sedes isoladas e unidades administrativas das empresas comerciais com 20 ou mais pessoas ocupadas por grandes regiões e faixas de pessoal ocupado"
+    },
+    {
+      "id": "795",
+      "nome": "Número de empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio e grupo de atividade"
+    },
+    {
+      "id": "796",
+      "nome": "Número de unidades locais das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio e grupo de atividade"
+    },
+    {
+      "id": "799",
+      "nome": "Número de sedes isoladas e unidades administrativas das empresas comerciais com 20 ou mais pessoas ocupadas por divisão de comércio e grupo de atividade"
+    },
+    {
+      "id": "800",
+      "nome": "Número de unidades produtivas comerciais, das empresas com 20 ou mais pessoas ocupadas por divisão de comércio e grupo de atividade"
+    },
+    {
+      "id": "803",
+      "nome": "Número de unidades industriais, das empresas com 20 ou mais pessoas ocupadas por divisão de comércio e grupo de atividade"
+    },
+    {
+      "id": "804",
+      "nome": "Número de outros tipos de unidades locais, das empresas com 20 ou mais pessoas ocupadas por divisão de comércio e grupo de atividade"
+    },
+    {
+      "id": "810",
+      "nome": "Pessoal ocupado em 31/12, nas unidades produtivas comerciais, das empresas com 20 ou mais pessoas ocupadas por divisão de comércio e grupo de atividade"
+    },
+    {
+      "id": "9349",
+      "nome": "Número de empresas e Receita bruta de revenda das empresas comerciais varejistas com 20 ou mais pessoas ocupadas por formas de comercialização e grupos e classes de atividade"
+    }
+  ]
+}

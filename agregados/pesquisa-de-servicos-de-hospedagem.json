@@ -1,0 +1,70 @@
+{
+  "id": "SH",
+  "nome": "Pesquisa de Serviços de Hospedagem",
+  "agregados": [
+    {
+      "id": "3435",
+      "nome": "Número de estabelecimentos de hospedagem, por tipos e categorias de estabelecimentos"
+    },
+    {
+      "id": "3436",
+      "nome": "Número de estabelecimentos de hospedagem, por tipos e grupos de unidades habitacionais"
+    },
+    {
+      "id": "3440",
+      "nome": "Número de hotéis, por características dos hotéis"
+    },
+    {
+      "id": "3441",
+      "nome": "Número de estabelecimentos de hospedagem, Número de unidades habitacionais e Capacidade total de hóspedes"
+    },
+    {
+      "id": "3450",
+      "nome": "Número de estabelecimentos de hospedagem, por tipos de estabelecimentos"
+    },
+    {
+      "id": "3526",
+      "nome": "Número de estabelecimentos de hospedagem, total e com 5 ou mais pessoas ocupadas, por tipos de estabelecimentos"
+    },
+    {
+      "id": "3529",
+      "nome": "Número de estabelecimentos de hospedagem, por grupos de unidades habitacionais"
+    },
+    {
+      "id": "3656",
+      "nome": "Número de estabelecimentos de hospedagem, número de unidades habitacionais e número de leitos"
+    },
+    {
+      "id": "3660",
+      "nome": "Número de estabelecimentos de hospedagem com 5 ou mais pessoas ocupadas, exceto campings, por categorias de estabelecimentos"
+    },
+    {
+      "id": "3668",
+      "nome": "Número de estabelecimentos de hospedagem com 5 ou mais pessoas ocupadas, exceto campings, por caracteristicas dos estabelecimentos"
+    },
+    {
+      "id": "6517",
+      "nome": "Número de leitos, total, simples e duplos, dos estabelecimentos de hospedagem com 5 ou mais pessoas ocupadas, por tipos de unidades habitacionais"
+    },
+    {
+      "id": "6518",
+      "nome": "Número de unidades habitacionais, total e adaptadas, dos estabelecimentos de hospedagem com 5 ou mais pessoas ocupadas, por tipos de unidades habitacionais"
+    },
+    {
+      "id": "6519",
+      "nome": "Número de estabelecimentos de hospedagem com 5 ou mais pessoas ocupadas, por localização"
+    },
+    {
+      "id": "6589",
+      "nome": "Número de estabelecimentos de hospedagem, número de unidades habitacionais e número de leitos, por tipos de estabelecimentos - Resultados Municipais"
+    },
+    {
+      "id": "6598",
+      "nome": "Número de estabelecimentos de hospedagem com 5 ou mais pessoas ocupadas, exceto campings, e número de unidades habitacionais, por características dos estabelecimentos - Resultados Municipais"
+    },
+    {
+      "id": "6599",
+      "nome": "Número de estabelecimentos de hospedagem com 5 ou mais pessoas ocupadas, exceto campings, e número de unidades habitacionais, por categorias dos estabelecimentos - Resultados Municipais"
+    }
+  ]
+}

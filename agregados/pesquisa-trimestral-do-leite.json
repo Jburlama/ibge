@@ -1,0 +1,18 @@
+{
+  "id": "LT",
+  "nome": "Pesquisa Trimestral do Leite",
+  "agregados": [
+    {
+      "id": "1086",
+      "nome": "Número de informantes e Quantidade de leite cru, resfriado ou não, adquirido e industrializado, no mês e no trimestre, por tipo de inspeção"
+    },
+    {
+      "id": "6670",
+      "nome": "Quantidade de leite cru, resfriado ou não, adquirido e industrializado - Primeiros Resultados (série encerrada)"
+    },
+    {
+      "id": "6830",
+      "nome": "Quantidade de leite cru, resfriado ou não, adquirido e industrializado, no mês e no trimestre - Primeiros Resultados"
+    }
+  ]
+}

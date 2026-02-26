@@ -1,0 +1,206 @@
+{
+  "id": "AC",
+  "nome": "Pesquisa Anual da Indústria da Construção",
+  "agregados": [
+    {
+      "id": "1448",
+      "nome": "Gastos de pessoal das empresas de construção, segundo as divisões, os grupos e as classes de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1739",
+      "nome": "Dados gerais das empresas de construção com 5 ou mais pessoas ocupadas, segundo as divisões e os grupos de atividades (CNAE 2.0) e as faixas de pessoal ocupado"
+    },
+    {
+      "id": "1740",
+      "nome": "Valor das incorporações, obras e/ou serviços da construção das empresas de construção com 30 ou mais pessoas ocupadas, segundo as classes de atividades e descrição de produtos da construção (CNAE 2.0)"
+    },
+    {
+      "id": "1741",
+      "nome": "Dados gerais das empresas de construção, segundo as divisões, os grupos e as classes de atividades (CNAE.2.0)"
+    },
+    {
+      "id": "1742",
+      "nome": "Emprego e salário das empresas de construção, segundo as divisões, os grupos e as classes de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1743",
+      "nome": "Estrutura das receitas das empresas de construção, segundo as divisões, os grupos e as classes de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1744",
+      "nome": "Estrutura dos custos e despesas das empresas de construção, segundo as divisões, os grupos e as classes de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1745",
+      "nome": "Estrutura do valor bruto da produção das empresas de construção, segundo as divisões, os grupos e as classes de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1746",
+      "nome": "Estrutura dos investimentos das empresas de construção, segundo as divisões, os grupos e as classes de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1747",
+      "nome": "Consumo total e dos principais tipos de materiais de construção, segundo as divisões, os grupos e as classes de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1757",
+      "nome": "Dados gerais das empresas de construção, segundo as faixas de pessoal ocupado"
+    },
+    {
+      "id": "1761",
+      "nome": "Pessoal Ocupado, salários, retiradas e outras remunerações, custos e valor das incorporações, obras e/ou serviços da construção, das empresas de construção com 5 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "1762",
+      "nome": "Dados gerais das empresas de construção (série encerrada)"
+    },
+    {
+      "id": "220",
+      "nome": "Dados gerais das empresas de construção por grupos e classes de atividades"
+    },
+    {
+      "id": "227",
+      "nome": "Dados gerais das ermpresas de construção segundo as grandes regiões e unidades da federação"
+    },
+    {
+      "id": "234",
+      "nome": "Dados gerais das ermpresas de construção por grupos de atividades e faixas de pessoal ocupado"
+    },
+    {
+      "id": "235",
+      "nome": "Balanço patrimonial das empresas de construção por grupos e classes de atividades"
+    },
+    {
+      "id": "237",
+      "nome": "Resultado líquido do exercício das empresas de construção por grupos e classes de atividades"
+    },
+    {
+      "id": "2371",
+      "nome": "Dados gerais das empresas de construção com 5 ou mais pessoas ocupadas, segundo grupos de atividades e faixas de pessoal ocupado"
+    },
+    {
+      "id": "2372",
+      "nome": "Dados gerais das empresas de construção, segundo Grandes Regiões e Unidades da Federação da sede da empresa"
+    },
+    {
+      "id": "2373",
+      "nome": "Pessoal Ocupado, Salários, Retiradas e outras remunerações, Custos e Valor das obras e/ou serviços da construção, segundo as Grandes Regiões e Unidades da Federação de atuação da empresa"
+    },
+    {
+      "id": "2374",
+      "nome": "Valor das obras e/ou serviços da construção das empresas de construção, segundo tipos de obras e/ou serviços da construção"
+    },
+    {
+      "id": "239",
+      "nome": "Pessoal ocupado, salários, retiradas e outras remunerações e encargos sociais e trabalhistas das empresas de construção por grupos e classes de atividades"
+    },
+    {
+      "id": "245",
+      "nome": "Variação mensal do pessoal ocupado das empresas de construção por grupos e classes de atividades"
+    },
+    {
+      "id": "246",
+      "nome": "Aquisições e baixas do ativo imobilizado das empres de construção civil por grupos e classes de atividades"
+    },
+    {
+      "id": "250",
+      "nome": "Custos e despesas operacionais das empresas de construção por grupos e classes de atividades"
+    },
+    {
+      "id": "253",
+      "nome": "Receitas operacionais suplementares das empresas de construção por grupos e classes de atividades"
+    },
+    {
+      "id": "257",
+      "nome": "Estrutura dos investimentos das empresas de construção por grupos e classes de atividades"
+    },
+    {
+      "id": "258",
+      "nome": "Pessoal ocupado, salários, custos e despesas e construções executadas segundo grandes regiões e unidades da federação"
+    },
+    {
+      "id": "2586",
+      "nome": "Dados gerais das empresas de construção, segundo Grandes Regiões e Unidades da Federação das sedes das empresas com 5 ou mais pessoas ocupadas"
+    },
+    {
+      "id": "2587",
+      "nome": "Dados gerais das empresas de construção, segundo pessoal ocupado, grupos e classes de atividades"
+    },
+    {
+      "id": "2588",
+      "nome": "Emprego e salário das empresas de construção, segundo pessoal ocupado, grupos e classes de atividades"
+    },
+    {
+      "id": "2589",
+      "nome": "Gastos de pessoal das empresas de construção, segundo pessoal ocupado, grupos e classes de atividades"
+    },
+    {
+      "id": "2590",
+      "nome": "Estrutura das receitas das empresas de construção, segundo pessoal ocupado, grupos e classes de atividades"
+    },
+    {
+      "id": "2591",
+      "nome": "Estrutura dos custos e despesas das empresas de construção, segundo pessoal ocupado, grupos e classes de atividades"
+    },
+    {
+      "id": "2592",
+      "nome": "Estrutura do valor bruto da produção das empresas de construção, segundo pessoal ocupado, grupos e classes de atividades"
+    },
+    {
+      "id": "2593",
+      "nome": "Estrutura dos investimentos das empresas de construção, segundo pessoal ocupado, grupos e classes de atividades"
+    },
+    {
+      "id": "2594",
+      "nome": "Consumo total e dos principais tipos de materiais de construção, segundo pessoal ocupado, grupos e classes de atividades"
+    },
+    {
+      "id": "581",
+      "nome": "Dados gerais das empresas por grandes grupos e grupos da construção"
+    },
+    {
+      "id": "582",
+      "nome": "Dados gerais das empresas segundo as grandes regiões e unidades da federação"
+    },
+    {
+      "id": "583",
+      "nome": "Dados gerais das empresas por faixas de pessoal ocupado e grandes grupos e grupos da construção"
+    },
+    {
+      "id": "584",
+      "nome": "Contas patrimoniais por grandes grupos e grupos da construção"
+    },
+    {
+      "id": "585",
+      "nome": "Contas de resultados por grandes grupos e grupos da construção"
+    },
+    {
+      "id": "586",
+      "nome": "Pessoal ocupado, salários, retiradas e outras remunerações e encargos sociais e trabalhistas por grandes grupos e grupos da construção"
+    },
+    {
+      "id": "587",
+      "nome": "Pessoal ocupado - variação mensal - por grandes grupos e grupos da construção"
+    },
+    {
+      "id": "588",
+      "nome": "Valor das aquisições e baixas do ativo imobilizado por grandes grupos e grupos da construção"
+    },
+    {
+      "id": "589",
+      "nome": "Custos e despesas operacionais por grandes grupos e grupos da construção"
+    },
+    {
+      "id": "590",
+      "nome": "Valor das receitas operacionais suplementares por grandes grupos e grupos da construção"
+    },
+    {
+      "id": "591",
+      "nome": "Valor das obras e/ou serviços executados por grandes grupos e grupos da construção"
+    },
+    {
+      "id": "592",
+      "nome": "Pessoal ocupado, salários, custos e despesas e obras e serviços segundo grandes regiões e unidades da federação"
+    }
+  ]
+}

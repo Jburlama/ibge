@@ -1,0 +1,37 @@
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|    |   id | nome                                                                                                                                                                      |
++====+======+===========================================================================================================================================================================+
+|  0 | 3323 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlist Indústria 2007 (série encerrada)                      |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  1 | 3337 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 0500 até 1722 - Prodlist Indústria 2007 (série encerrada) |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  2 | 3338 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 1731 até 2221 - Prodlist Indústria 2007 (série encerrada) |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  3 | 3339 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2222 até 2822 - Prodlist Indústria 2007 (série encerrada) |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  4 | 3340 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2823 até 3329 - Prodlist Indústria 2007 (série encerrada) |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  5 | 3463 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlist Indústria 2010 (série encerrada)                      |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  6 | 3464 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 0500 até 1722 - Prodlist Indústria 2010 (série encerrada) |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  7 | 3465 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 1731 até 2221 - Prodlist Indústria 2010 (série encerrada) |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  8 | 3466 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2222 até 2822 - Prodlist Indústria 2010 (série encerrada) |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  9 | 3467 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2823 até 3329 - Prodlist Indústria 2010 (série encerrada) |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 10 | 5806 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlist Indústria 2013                                        |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 11 | 5807 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 0500 até 1722 - Prodlist Indústria 2013                   |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 12 | 5808 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 1731 até 2221 - Prodlist Indústria 2013                   |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 13 | 5809 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2222 até 2822 - Prodlist Indústria 2013                   |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 14 | 5810 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2823 até 3329 - Prodlist Indústria 2013                   |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 15 | 6705 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlist Indústria 2016                                        |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 16 | 7752 | Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlists Indústria 2016, 2019 e 2022                          |
++----+------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

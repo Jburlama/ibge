@@ -1,0 +1,46 @@
+{
+  "id": "D9",
+  "nome": "Estatísticas dos Cadastros de Microempreendedores Individuais",
+  "agregados": [
+    {
+      "id": "9589",
+      "nome": "Número de microempreendedores individuais (MEIs) filiados no ano de referência com vínculo prévio no ano anterior ao de referência e salário médio mensal, por sexo, indicativo/causa de desligamento e nível de instrução"
+    },
+    {
+      "id": "9590",
+      "nome": "Número de microempreendedores individuais (MEIs) e seus empregados, por grande grupamento e seções da classificação de atividade econômica (CNAE 2.0), ano de filiação, tempo de abertura, com indicativo ou não de empregado e atuação ou não na residência."
+    },
+    {
+      "id": "9591",
+      "nome": "Número de microempreendedores individuais (MEIs) e média de idade, por sexo, faixas de idade, nacionalidade/país de origem, cor ou raça, nível de instrução e presença no CADÚnico"
+    },
+    {
+      "id": "9592",
+      "nome": "Número de microempreendedores individuais (MEIs) filiados no ano de referência com vínculo prévio, por grande grupamento e seções da classificação de atividade econômica (CNAE 2.0) e classificação Brasileira de Ocupações (CBO)"
+    },
+    {
+      "id": "9593",
+      "nome": "Número de microempreendedores individuais (MEIs) filiados no ano de referência com vínculo prévio, por classes de atividades (CNAE 2.0) e indicativo de vínculo na mesma classe CNAE"
+    },
+    {
+      "id": "9594",
+      "nome": "Número de microempreendedores individuais (MEIs) e seus empregados, por classes de atividades (CNAE 2.0), ano de filiação, tempo de abertura, com indicativo ou não de empregado e atuação ou não na residência."
+    },
+    {
+      "id": "9595",
+      "nome": "Número de microempreendedores individuais (MEIs) filiados no ano de referência, por indicativo de vínculo prévio e interstício até a filiação, faixas de anos de experiência prévia no mercado formal de trabalho, tipo de vínculo prévio no mercado formal de trabalho e indicativo/causa de desligamento"
+    },
+    {
+      "id": "9597",
+      "nome": "Número de microempreendedores individuais (MEIs), número de MEIs entrando, saindo e saldo, por grande grupamento e seções da classificação de atividade econômica (CNAE 2.0)"
+    },
+    {
+      "id": "9600",
+      "nome": "Número de microempreendedores individuais (MEIs) filiados no ano de referência com vínculo prévio, por natureza jurídica e faixas de pessoal ocupado assalariado do empregador prévio"
+    },
+    {
+      "id": "9876",
+      "nome": "Número de microempreendedores individuais (MEIs) nascidos em 2019, sobreviventes em 3 anos e taxa de sobrevivência, por sexo, grande grupamento e seções da classificação de atividade econômica (CNAE 2.0), faixas de idade e nacionalidade/país de origem"
+    }
+  ]
+}

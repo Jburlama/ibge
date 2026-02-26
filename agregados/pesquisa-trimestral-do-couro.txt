@@ -1,0 +1,13 @@
++----+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|    |   id | nome                                                                                                                                                           |
++====+======+================================================================================================================================================================+
+|  0 | 1088 | Número de informantes e Quantidade de couro cru inteiro de bovino adquirido para curtimento, no mês e no trimestre, por procedência                            |
++----+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  1 | 1089 | Número de informantes e Quantidade de couro cru inteiro de bovino para curtimento (recebido de terceiros e total), no mês e no trimestre                       |
++----+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  2 | 1090 | Número de informantes e Quantidade de couro inteiro curtido de bovino, no mês e no trimestre, por método de curtimento                                         |
++----+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  3 | 6671 | Quantidade total de couro cru inteiro de bovino para curtimento, e Quantidade de couro inteiro curtido de bovino - Primeiros Resultados (série encerrada)      |
++----+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  4 | 6831 | Quantidade total de couro cru inteiro de bovino para curtimento, e Quantidade de couro inteiro curtido de bovino, no mês e no trimestre - Primeiros Resultados |
++----+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+

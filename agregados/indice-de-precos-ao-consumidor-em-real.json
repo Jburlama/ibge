@@ -1,0 +1,14 @@
+{
+  "id": "IL",
+  "nome": "Índice de Preços ao Consumidor em Real",
+  "agregados": [
+    {
+      "id": "86",
+      "nome": "IPCR - Percentual no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (série encerrada)"
+    },
+    {
+      "id": "89",
+      "nome": "IPCR - Peso no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (série encerrada)"
+    }
+  ]
+}

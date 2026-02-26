@@ -1,0 +1,22 @@
+{
+  "id": "IO",
+  "nome": "Produto Interno Bruto dos Municípios",
+  "agregados": [
+    {
+      "id": "21",
+      "nome": "Produto interno bruto a preços correntes, impostos, líquidos de subsídios, sobre produtos a preços correntes e valor adicionado bruto a preços correntes total e por atividade econômica, e respectivas participações - Referência 2002 (Série encerrada)"
+    },
+    {
+      "id": "5938",
+      "nome": "Produto interno bruto a preços correntes, impostos, líquidos de subsídios, sobre produtos a preços correntes e valor adicionado bruto a preços correntes total e por atividade econômica, e respectivas participações - Referência 2010"
+    },
+    {
+      "id": "5939",
+      "nome": "Índice de Gini do produto interno bruto a preços correntes e do valor adicionado bruto a preços correntes por atividade econômica - Referência 2010"
+    },
+    {
+      "id": "599",
+      "nome": "Índice de Gini do produto interno bruto a preços correntes e do valor adicionado bruto a preços correntes por atividade econômica - Referência 2002 (Série encerrada)"
+    }
+  ]
+}

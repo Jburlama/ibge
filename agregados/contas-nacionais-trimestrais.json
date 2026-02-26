@@ -1,0 +1,46 @@
+{
+  "id": "ST",
+  "nome": "Contas Nacionais Trimestrais",
+  "agregados": [
+    {
+      "id": "1620",
+      "nome": "Série encadeada do índice de volume trimestral (Base: média 1995 = 100)"
+    },
+    {
+      "id": "1621",
+      "nome": "Série encadeada do índice de volume trimestral com ajuste sazonal (Base: média 1995 = 100)"
+    },
+    {
+      "id": "1846",
+      "nome": "Valores a preços correntes"
+    },
+    {
+      "id": "2072",
+      "nome": "Contas econômicas trimestrais"
+    },
+    {
+      "id": "2205",
+      "nome": "Conta financeira trimestral consolidada"
+    },
+    {
+      "id": "5932",
+      "nome": "Taxa de variação do índice de volume trimestral"
+    },
+    {
+      "id": "6612",
+      "nome": "Valores encadeados a preços de 1995"
+    },
+    {
+      "id": "6613",
+      "nome": "Valores encadeados a preços de 1995 com ajuste sazonal"
+    },
+    {
+      "id": "6726",
+      "nome": "Taxa de poupança"
+    },
+    {
+      "id": "6727",
+      "nome": "Taxa de investimento"
+    }
+  ]
+}

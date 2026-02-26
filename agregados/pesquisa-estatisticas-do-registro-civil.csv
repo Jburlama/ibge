@@ -1,0 +1,128 @@
+﻿id,nome
+1003,"Escrituras de separação, por tempo transcorrido entre as datas do casamento e da escritura, e regime de bens do casamento (série suspensa)"
+1004,"Escrituras de divórcio, por tempo transcorrido entre as datas do casamento e da escritura, tipo de divórcio e regime de bens do casamento (série encerrada)"
+10318,"Nascidos vivos, ocorridos no ano, filhos de mães estrangeiras que residiam no Brasil, por país de nacionalidade da mãe"
+10325,"Nascidos vivos, ocorridos no ano, filhos de mães que residiam no Brasil, por nacionalidade da mãe e grupos de idade da mãe na ocasião do parto"
+10328,"Nascidos vivos, ocorridos no ano, filhos de mães estrangeiras que residiam no Brasil, por sexo e grupos de idade da mãe na ocasião do parto"
+10350,"Nascidos vivos, ocorridos no ano, filhos de mães estrangeiras que residiam no Brasil, por sexo e lugar de residência da mãe"
+10351,"Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo e país de nacionalidade da pessoa falecida"
+10352,"Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo e grupos de idade 1 da pessoa falecida"
+10353,"Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo e grupos de idade 2 da pessoa falecida"
+10354,"Óbitos, ocorridos no ano, de pessoas que residiam no Brasil, por nacionalidade e grupos de idade 1 da pessoa falecida"
+10355,"Casamentos entre cônjuges que residiam no Brasil, e pelo menos um dos cônjuges estrangeiro, por sexo e nacionalidade dos cônjuges"
+10356,"Casamentos entre cônjuges masculino e feminino que residiam no Brasil, e pelo menos um dos cônjuges estrangeiro, por nacionalidade dos cônjuges e lugar de registro do casamento"
+10357,"Óbitos, ocorridos no ano, de pessoas que residiam no Brasil, por nacionalidade e grupos de idade 2 da pessoa falecida"
+10358,"Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo e lugar de residência da pessoa falecida"
+1687,"Separações concedidas em 1ª instância ou por escritura, por tempo transcorrido entre a data do casamento e a data da sentença ou da escritura, grupos de idade do marido e da mulher na data da sentença ou da escritura, regime de bens do casamento e lugar da ação do processo (série suspensa)"
+1695,"Divórcios concedidos em 1ª instância ou por escritura, por tempo transcorrido entre a data do casamento e a data da sentença ou da escritura, grupos de idade do marido e da mulher na data da sentença ou da escritura, regime de bens do casamento e lugar da ação do processo"
+1838,"Separações judiciais concedidas em primeira instância, por grupos de idade dos cônjuges na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e tipo de cônjuge"
+192,Nascidos vivos registrados no ano por ano de nascimento e sexo
+194,"Nascidos vivos registrados no ano por lugar de residência da mãe, ano de nascimento, grupos de idade da mãe na ocasião do parto e sexo"
+197,Nascidos vivos ocorridos no ano por grupos de idade da mãe na ocasião do parto e sexo
+198,Nascidos vivos ocorridos no ano por lugar de residência da mãe e mês do nascimento
+199,Nascidos vivos ocorridos no ano por lugar de residência da mãe e mês do registro
+213,Nascidos vivos ocorridos no ano por lugar de residência da mãe e local do nascimento
+214,Nascidos vivos ocorridos no ano por lugar de residência da mãe e número de nascidos por parto
+218,"Número de processos de divórcio encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, tipo do processo e tipo de cônjuge"
+219,"Número de processos de divórcio encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza do processo e tipo de cônjuge"
+225,"Número de divórcios concedidos em primeira instância por grupos de idade dos cônjuges na data da sentença, natureza do processo, tipo do processo e tipo de cônjuge"
+226,"Número de processos de divórcio encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, sentença proferida e tipo de cônjuge"
+2609,"Nascidos vivos, por ano de nascimento, grupos de idade da mãe na ocasião do parto, sexo e lugar de residência da mãe"
+2612,"Nascidos vivos, ocorridos no ano, por mês do nascimento, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto e lugar de residência da mãe"
+2647,"Nascidos vivos, ocorridos no ano, por mês do registro, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto e lugar de residência da mãe"
+2651,"Nascidos vivos, ocorridos no ano, por lugar de nascimento do pai, lugar de nascimento da mãe e lugar do registro"
+2652,"Nascidos vivos ocorridos no ano, filhos de mães que nasceram e residiam no mesmo lugar (Brasil, estrangeiro ou ignorado), por idade da mãe na ocasião do parto, lugar de nascimento e residência da mãe, e lugar do registro"
+2654,"Óbitos, ocorridos no ano, por mês de ocorrência, natureza do óbito, sexo, idade, local de ocorrência e lugar de residência do falecido"
+2679,"Nascidos vivos, por ano de nascimento, idade da mãe na ocasião do parto, sexo e lugar do registro"
+2680,"Nascidos vivos, ocorridos no ano, por mês do nascimento, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto e lugar do registro"
+2681,"Óbitos, ocorridos no ano, por mês de ocorrência, natureza do óbito, sexo, idade, local de ocorrência e lugar do registro"
+2682,"Óbitos, por ano de ocorrência, natureza do óbito, sexo, idade, local de ocorrência e lugar de residência do falecido"
+2683,"Óbitos, ocorridos no ano, por estado civil, natureza do óbito, sexo, idade, local de ocorrência e lugar de residência do falecido"
+2684,"Óbitos, por ano de ocorrência, natureza do óbito, sexo, idade, local de ocorrência e lugar do registro"
+2685,"Óbitos, ocorridos no ano, por estado civil, natureza do óbito, sexo, idade, local de ocorrência e lugar do registro"
+2759,"Casamentos entre cônjuges masculino e feminino, por mês do registro, estado civil do homem e da mulher, grupos de idade do homem e da mulher e lugar do registro"
+2866,"Casamentos entre cônjuges masculino e feminino, por mês de ocorrência, nacionalidade do homem e da mulher, grupos de idade do homem e da mulher e lugar do registro"
+2867,"Casamentos entre cônjuges masculino e feminino, por lugar de nascimento do homem e da mulher e lugar do registro"
+2935,"Processos de separação judicial encerrados e Separações judiciais concedidas, em 1ª instância, por natureza, fundamento da ação não-consensual e requerentes, grupos de idade e tipo dos cônjuges e lugar da ação do processo (série suspensa)"
+2936,"Processos de separação judicial encerrados em 1ª instância, por sentença proferida, regime de bens do casamento, grupos de idade e tipo dos cônjuges e lugar da ação do processo (série suspensa)"
+2944,"Separações judiciais concedidas em 1ª instância sem recursos e Número de filhos dos casais envolvidos, por tipo da família, número de filhos do casal e lugar da ação do processo (série suspensa)"
+2948,"Separações judiciais concedidas em 1ª instância sem recursos, a casais com filhos menores de idade, e Número de filhos menores de idade dos casais envolvidos, por número de filhos do casal, responsáveis pela guarda dos filhos e lugar da ação do processo (série suspensa)"
+2949,"Separações judiciais concedidas em 1ª instância sem recursos, por grupos de idades do marido e da mulher na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e lugar da ação do processo (série suspensa)"
+2990,"Óbitos fetais, ocorridos no ano, por mês do registro, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto, duração da gestação e lugar de residência da mãe"
+2991,"Óbitos fetais, ocorridos no ano, por mês do registro, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto e lugar do registro"
+2992,"Óbitos fetais, ocorridos no ano, por mês do registro, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto, duração da gestação e lugar de nascimento e residência da mãe"
+2993,"Processos de divórcios encerrados e concedidos, em 1ª instância, por tipo de divórcio, natureza, grupos de idade dos cônjuges na data de abertura do processo, sentença proferida, regime de bens do casamento, tipo de cônjuge e lugar da ação do processo (série encerrada)"
+2995,"Divórcios concedidos em 1ª instância sem recursos e Número de filhos dos casais envolvidos, por tipo de família, número de filhos do casal e lugar da ação do processo (série encerrada)"
+2996,"Divórcios concedidos em 1ª instância sem recursos, a casais com filhos menores de idade, e Número de filhos menores de idade dos casais envolvidos, por número de filhos menores de idade, responsáveis pela guarda dos filhos e lugar da ação do processo (série encerrada)"
+2997,"Divórcios concedidos em 1ª instância sem recursos, por grupos de idade do marido e da mulher na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e lugar da ação do processo (série encerrada)"
+3375,"Casamentos entre cônjuges masculino e feminino, por mês de ocorrência, estado civil do homem e da mulher, grupos de idade do homem e da mulher e lugar do registro"
+3376,"Separações concedidas em 1ª instância ou por escritura, por natureza da ação, requerente, tipo de família, número de filhos e lugar da ação do processo (série suspensa)"
+340,Nascidos vivos ocorridos no ano por lugar de residência da mãe e sexo
+342,"Nascidos vivos ocorridos no ano por lugar de residência da mãe, grupos de idade da mãe na ocasião do parto e sexo"
+343,"Nascidos vivos ocorridos no ano por idade da mãe na ocasião do parto, local do nascimento e sexo"
+344,Nascidos vivos ocorridos no ano por lugar de nascimento da mãe e do pai
+347,Nascidos vivos ocorridos no ano com mesmo lugar de nascimento e residência da mãe por lugar de nascimento e residência da mãe e grupos de idade da mãe na ocasião do parto
+350,"Casamentos entre cônjuges masculino e feminino, por grupos de idade da mulher e do homem"
+351,"Casamentos entre cônjuges masculino e feminino solteiros, por grupos de idade da mulher e do homem"
+358,"Casamentos entre cônjuges masculino e feminino, por idade do homem, estado civil da mulher e do homem"
+359,"Casamentos entre cônjuges masculino e feminino, por idade do homem, nacionalidade da mulher e do homem"
+360,"Casamentos entre cônjuges masculino e feminino, por idade da mulher, nacionalidade da mulher e do homem"
+361,"Casamentos entre cônjuges masculino e feminino, por idade da mulher, estado civil da mulher e do homem"
+362,"Casamentos entre cônjuges masculino e feminino, por lugar de nascimento da mulher e do homem"
+363,"Número de óbitos registrados no ano por lugar de residência do(a) falecido(a), ano de ocorrência e sexo"
+364,"Número de óbitos registrados no ano por grupos de idade do(a) falecido(a), ano de ocorrência e sexo"
+367,"Número de óbitos ocorridos e registrados no ano por lugar de residência do(a) falecido(a), local de ocorrência e sexo"
+368,"Número de óbitos ocorridos e registrados no ano por lugar de residência do(a) falecido(a), grupos de idade do(a) falecido(a) e sexo"
+369,Número de óbitos fetais ocorridos e registrados no ano por lugar de residência da mãe e mês do registro
+370,Número de óbitos fetais ocorridos e registrados no ano por lugar de residência da mãe e grupos de idade da mãe na ocasião do parto
+371,Número de óbitos fetais ocorridos e registrados no ano por lugar de residência da mãe e duração da gestação
+372,Número de óbitos fetais com 28 semanas ou mais ocorridos e registrados no ano por lugar de residência da mãe e mês do registro
+373,Número de óbitos fetais com 28 semanas ou mais ocorridos e registrados no ano por lugar de residência da mãe e grupos de idade da mãe na ocasião do parto
+388,"Número de processos de separação judicial encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza da ação e tipo de cônjuge"
+389,"Número de processos de separação judicial encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza da ação não consensual, tipo de cônjuge e fundamento da ação"
+393,"Número de processos de separação judicial encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, sentença proferida e tipo de cônjuge"
+394,"Número de processos de separação judicial encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, regime de bens do casamento e tipo de cônjuge"
+397,"Número de separações judiciais concedidas em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza da ação e tipo de cônjuge"
+398,"Número de separações judiciais concedidas em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, natureza da ação não consensual, tipo de cônjuge e fundamento da ação"
+406,Número de separações judiciais concedidas em primeira instância por grupos de idade da mulher e do marido na data da sentença
+4098,"Processos de divórcios encerrados e concedidos, em 1ª instância, por tipo de divórcio, natureza, grupos de idade dos cônjuges na data da sentença, sentença proferida, regime de bens do casamento, tipo de cônjuge e lugar da ação do processo (série encerrada)"
+410,"Número de separações judiciais concedidas em primeira instância por grupos de idade dos cônjuges na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e tipo de cônjuge"
+421,"Número de processos de divórcio encerrados em primeira instância por grupos de idade dos cônjuges na data da abertura do processo, regime de bens do casamento e tipo de cônjuge"
+426,Número de divórcios concedidos em primeira instância por grupos de idade da mulher e do marido na data da sentença
+4406,"Casamentos, por mês do registro, estado civil dos cônjuges, grupos de idade dos cônjuges e lugar do registro"
+4412,"Casamentos, por mês de ocorrência, estado civil dos cônjuges, grupos de idade dos cônjuges e lugar do registro"
+4780,"Casamentos, por mês de ocorrência, nacionalidade dos cônjuges, grupos de idade dos cônjuges e lugar do registro"
+4781,"Casamentos, por lugar de nascimento dos cônjuges e lugar do registro"
+5929,"Divórcios concedidos em 1ª instância e Número de filhos dos casais envolvidos, por tipo de família, número de filhos do casal e lugar da ação do processo"
+5933,"Escrituras de divórcio, por tempo transcorrido entre as datas do casamento e da escritura e regime de bens do casamento"
+5934,"Processos de divórcios encerrados e concedidos, em 1ª instância, por natureza do processo, grupos de idade dos cônjuges na data de abertura do processo, sentença proferida, regime de bens do casamento e lugar da ação do processo"
+5935,"Processos de divórcios encerrados e concedidos, em 1ª instância, por natureza do processo, grupos de idade dos cônjuges na data da sentença, sentença proferida, regime de bens do casamento e lugar da ação do processo"
+5936,"Divórcios concedidos em 1ª instância a casais com filhos menores de idade, e Número de filhos menores de idade dos casais envolvidos, por número de filhos menores de idade, responsáveis pela guarda dos filhos e lugar da ação do processo"
+5937,"Divórcios concedidos em 1ª instância, por grupos de idade do marido e da mulher na data da sentença, tempo transcorrido entre as datas do casamento e da sentença e lugar da ação do processo"
+703,"Casamentos entre cônjuges masculino e feminino, por mês do registro"
+704,Nascidos vivos ocorridos no ano por local do nascimento
+705,Nascidos vivos ocorridos no ano por número de nascidos por parto
+706,Nascidos vivos ocorridos no ano por sexo
+707,"Casamentos entre cônjuges masculino e feminino, por mês de ocorrência"
+712,"Casamentos entre cônjuges masculino e feminino, por estado civil da mulher e do homem"
+713,"Casamentos entre cônjuges masculino e feminino, por nacionalidade da mulher e do homem"
+716,Número de processos de divórcio encerrados em primeira instância por natureza e tipo do processo
+717,Número de processos de divórcio encerrados em primeira instância por sentença proferida
+718,Número de processos de divórcio encerrados em primeira instância por regime de bens do casamento
+719,Número de filhos menores de idade de casais envolvidos em separações judiciais concedidas em primeira instância por responsável pela guarda dos filhos
+720,Número de filhos menores de idade de casais envolvidos em divórcios concedidos em primeira instância por responsável pela guarda
+721,Número de divórcios concedidos em primeira instância a casais com filhos menores de idade por responsável pela guarda
+723,Número de divórcios concedidos em primeira instância por número de filhos do casal
+724,Número de filhos de casais envolvidos em divórcios concedidos em primeira instância
+725,Número de processos de separação judicial encerrados em primeira instância por natureza da ação
+726,Número de processos de separação judicial encerrados em primeira instância por natureza da ação não consensual e fundamento da ação
+728,Número de processos de separação judicial encerrados em primeira instância por sentença proferida
+729,Número de processos de separação judicial encerrados em primeira instância por regime de bens do casamento
+730,Número de separações judiciais concedidas em primeira instância por natureza da ação
+731,Número de separações judiciais concedidas em primeira instância por natureza da ação não consensual e fundamento da ação
+733,Número de separações judiciais concedidas em primeira instância por número de filhos do casal
+734,Número de separações judiciais concedidas em primeira instância a casais com filhos menores de idade por número de filhos menores de idade
+735,Número de separações judiciais concedidas em primeira instância a casais com filhos menores de idade por responsável pela guarda dos filhos
+738,Número de separações judiciais concedidas em primeira instância por tempo transcorrido entre as datas do casamento e da sentença
+739,Número de filhos de casais envolvidos em separações judiciais concedidas em primeira instância
+740,Número de separações judiciais concedidas em primeira instância por tipo de família

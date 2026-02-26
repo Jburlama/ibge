@@ -1,0 +1,110 @@
+{
+  "id": "PZ",
+  "nome": "Pesquisa Industrial Mensal - Produção Física",
+  "agregados": [
+    {
+      "id": "109",
+      "nome": "Produção física industrial, por nível-100 e tipo de índice (série encerrada em janeiro de 2004)"
+    },
+    {
+      "id": "209",
+      "nome": "Produção física industrial, por insumos típicos da construção civil e tipo de índice (série encerrada em janeiro de 2004)"
+    },
+    {
+      "id": "2291",
+      "nome": "Produção física industrial, por subsetores industriais e tipo de índice (série encerrada em fevereiro de 2014)"
+    },
+    {
+      "id": "2292",
+      "nome": "Produção física industrial, por tipo de índice e categorias de uso (série encerrada em fevereiro de 2014)"
+    },
+    {
+      "id": "2294",
+      "nome": "Produção física industrial, por insumos típicos da construção civil e tipo de índice (série encerrada em fevereiro de 2014)"
+    },
+    {
+      "id": "2295",
+      "nome": "Produção física industrial, por tipo de índice e seções e atividades industriais (série encerrada em fevereiro de 2014)"
+    },
+    {
+      "id": "27",
+      "nome": "Produção física industrial, por classes de indústrias e tipo de índice (série encerrada em janeiro de 2004)"
+    },
+    {
+      "id": "28",
+      "nome": "Produção física industrial, por tipo de índice e gêneros da indústria de transformação (série encerrada em janeiro de 2004)"
+    },
+    {
+      "id": "29",
+      "nome": "Produção física industrial, por tipo de índice e categorias de uso (série encerrada em janeiro de 2004)"
+    },
+    {
+      "id": "3650",
+      "nome": "Produção Física Industrial, por grupos e classes industriais selecionados (série encerrada em janeiro de 2022)"
+    },
+    {
+      "id": "3651",
+      "nome": "Produção Física Industrial, por grandes categorias econômicas (série encerrada em janeiro de 2022)"
+    },
+    {
+      "id": "3652",
+      "nome": "Produção Física Industrial dos insumos típicos da construção civil (série encerrada em janeiro de 2022)"
+    },
+    {
+      "id": "3653",
+      "nome": "Produção Física Industrial, por seções e atividades industriais (série encerrada em janeiro de 2022)"
+    },
+    {
+      "id": "6607",
+      "nome": "Produção Física Industrial, por indicadores especiais (série encerrada em janeiro de 2022)"
+    },
+    {
+      "id": "6662",
+      "nome": "Produção Física Industrial, por grandes categorias econômicas - com ajuste sazonal (série encerrada em janeiro de 2018)"
+    },
+    {
+      "id": "6663",
+      "nome": "Produção Física Industrial, por seções e atividades industriais - com ajuste sazonal (série encerrada em janeiro de 2018)"
+    },
+    {
+      "id": "7511",
+      "nome": "Produção Física Industrial, por grupos e classes industriais selecionados (série encerrada em dezembro de 2022)"
+    },
+    {
+      "id": "7980",
+      "nome": "Produção Física Industrial dos insumos típicos da construção civil (série encerrada em dezembro de 2022)"
+    },
+    {
+      "id": "8158",
+      "nome": "Produção Física Industrial, por grandes categorias econômicas (série encerrada em dezembro de 2022)"
+    },
+    {
+      "id": "8159",
+      "nome": "Produção Física Industrial, por seções e atividades industriais (série encerrada em dezembro de 2022)"
+    },
+    {
+      "id": "8160",
+      "nome": "Produção Física Industrial, por indicadores especiais (série encerrada em dezembro de 2022)"
+    },
+    {
+      "id": "8885",
+      "nome": "Produção Física Industrial, por grupos e classes industriais selecionados"
+    },
+    {
+      "id": "8886",
+      "nome": "Produção Física Industrial dos insumos típicos da construção civil"
+    },
+    {
+      "id": "8887",
+      "nome": "Produção Física Industrial, por grandes categorias econômicas"
+    },
+    {
+      "id": "8888",
+      "nome": "Produção Física Industrial, por seções e atividades industriais"
+    },
+    {
+      "id": "8889",
+      "nome": "Produção Física Industrial, por indicadores especiais"
+    }
+  ]
+}

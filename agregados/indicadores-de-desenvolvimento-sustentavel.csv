@@ -1,0 +1,214 @@
+﻿id,nome
+1096,"Participação relativa das despesas públicas com a proteção ao meio ambiente em relação ao total das depesas públicas por níveis de governo, segundo as Grandes Regiões e Unidades da Federação"
+1103,"Áreas remanescentes e desflorestadas da Mata Atlântica, de Restinga e de Manguezal, segundo as Unidades da Federação abrangidas no inventário (série encerrada)"
+1104,"Vulnerabilidade climática à desertificação na Região Nordeste, segundo as classes de vulnerabilidade (série encerrada)"
+1105,"Número e Área dos municípios que declararam ter problemas, na agricultura e/ou pecuária, causados por desertificação e/ou que declararam ter programas e/ou ações de recuperação e controle de áreas em processo de desertificação, segundo as Grandes Regiões e Unidades da Federação que fazem parte do semiárido (série encerrada)"
+1106,"Arenização no sudoeste do Rio Grande do Sul, segundo os municípios de ocorrência (série encerrada)"
+1107,Produção estimada de pescado por modalidade de pesca (série encerrada)
+1108,"Produção estimada de pescado por modalidade, segundo as Grandes Regiões e Unidades da Federação (série encerrada)"
+1121,População residente total e em área costeira e Proporção da população residente em área costeira
+1122,"Número de espécies viventes e ameaçadas de extinção, no Brasil e no mundo, segundo grupos taxonômicos selecionados (série encerrada)"
+1123,Número de espécies animais terrestres e aquáticas ameaçadas de extinção por grupos taxonômicos e categorias de risco (série encerrada)
+1124,"Número de espécies da flora ameaçadas de extinção, por grupos taxonômicos e categorias de risco (série extinta)"
+1125,Número de espécies de plantas medicinais ameaçadas de extinção por categorias de risco (série encerrada)
+1126,"Número de espécies, viventes e endêmicas, da flora e da fauna brasileiras por grupos taxonômicos segundo os biomas (série encerrada)"
+1127,"Número de espécies da flora e da fauna terrestre brasileira ameaçadas de extinção, por grupos taxonômicos (série encerrada)"
+1128,"Número de espécies de peixes e de invertebrados aquáticos da fauna brasileira sobreexplotadas ou ameaçadas de sobreexplotação, segundo os habitats (série encerrada)"
+1129,"Número de espécies da flora e da fauna brasileiras ameaçadas de extinção por categorias de risco, segundo as Unidades da Federação que possuem lista de espécies ameaçadas (série encerrada)"
+1130,"Número de espécies da flora brasileira ameaçadas de extinção por grupos taxonômicos, segundo as Unidades da Federação que possuem lista de espécies ameaçadas (série encerrada)"
+1131,"Número de espécies da fauna brasileira ameaçadas de extinção por grupos taxonômicos, segundo as Unidades da Federação que possuem lista de espécies ameaçadas (série encerrada)"
+1132,Número de espécies arbóreas nativas (série encerrada)
+1133,Número de espécies arbóreas nativas ameaçadas de extinção por categorias de risco e grupos taxonômicos (série encerrada)
+1135,Número e Área das unidades de conservação estaduais por tipo de uso e categoria de manejo (série encerrada)
+1136,Número e Área das unidades de conservação estaduais por tipo de uso (série encerrada)
+1137,Número e Área das unidades de conservação municipais por tipo de uso e categoria de manejo (série encerrada)
+1138,Número de animais silvestres apreendidos (série encerrada)
+1139,"Fauna silvestre, total e percentual, apreendida por classes da fauna (série encerrada)"
+1140,"Número de animais silvestres apreendidos, segundo as Grandes Regiões (série encerrada)"
+1141,"Número de espécies animais apreendidas por alguns grupos taxonômicos, segundo as Grandes Regiões (série encerrada)"
+1142,Número de criadouros da fauna nativa (série encerrada)
+1143,"Valor, Quantidade e Peso da exportação de peixes ornamentais vivos (série encerrada)"
+1144,"Núcleos de desertificação na Região Nordeste, com indicação da área total dos municípios e da população residente nos municípios atingidos (série encerrada)"
+1145,"Percentual de amostras com valores até 1.000 coliformes fecais /100 ml ou até 800 Escheríchia coli/100 ml ou até 100 Enteroccocos/100 ml, nas águas de praias selecionadas"
+1146,"Média anual de coliformes fecais ou de Escheríchia coli ou de Enteroccocos, nas águas de praias selecionadas"
+1147,"Percentil 80 anual da qualidade de água para recreação de contato primário, por vários métodos com base na resolução 274/2000 do CONAMA, nas águas de praias selecionadas"
+1148,Espécies mais apreendidas/recolhidas aos centros de triagem de animais silvestres por grupos taxonômicos (série encerrada)
+1149,Número de espécimes mais recebidos nos núcleos de fauna e nos centros de triagem de animais silvestres por grupos taxonômicos (série encerrada)
+1150,Número de espécies da fauna brasileira incluídas na lista da Convenção sobre o Comércio Internacional de Espécies da Flora e da Fauna Selvagens em Perigo de Extinção - CITES (série encerrada)
+1151,Número de espécies da flora brasileira incluídas na lista da Convenção sobre o Comércio Internacional de Espécies da Flora e da Fauna Selvagens em Perigo de Extinção - CITES (série encerrada)
+1152,"Número de espécies invasoras, terrestres e aquáticas, segundo alguns grupos taxonômicos, hábito ou forma de vida"
+1153,"Número de espécies invasoras de Moneras, Protistas e animais, terrestres e aquáticas, por danos causados ao meio ambiente e/ou ao homem, segundo alguns grupos taxonômicos"
+1154,"Número de espécies vegetais invasoras, terrestres e aquáticas, por danos causados ao meio ambiente e/ou ao homem, segundo o hábito ou forma de vida"
+1155,"Espécies invasoras, total e percentual, segundo o local de origem"
+1156,"Número de municípios, total e com alguma ocorrência registrada de espécies invasoras e proporção em relação ao total de municípios"
+1157,Distribuição percentual de moradores em domicílios particulares permanentes por tipo de destino do lixo e situação do domicílio
+1158,Quantidade de lixo coletado por tipo de destinação final do lixo
+1159,Distribuição percentual de moradores em domicílios particulares permanentes por tipo de abastecimento de água e situação do domicílio
+1160,"Distribuição percentual de moradores em domicílios particulares permanentes pelo tipo de esgotamento sanitário, segundo a situação do domicílio"
+1162,População residente e Taxa média geométrica de crescimento anual da população residente
+1163,Taxa de fecundidade total por situação do domicílio (série encerrada)
+1164,População indígena residente (série encerrada)
+1165,Número e área de parques e terras indígenas homologados e registrados (série encerrada)
+1166,Participação dos parques e terras indígenas homologados e registrados no total das áreas das unidades territoriais (série encerrada)
+1167,"Índice de Gini da distribuição do rendimento mensal das pessoas de 10 anos ou mais de idade, com rendimento"
+1168,"Taxa média anual de desocupação das pessoas de 10 anos ou mais de idade, das Regiões Metropolitanas de Recife, Salvador, Belo Horizonte, Rio de Janeiro, São Paulo e Porto Alegre"
+1169,"Taxa de desocupação na semana de referência das pessoas de 10 anos ou mais de idade, segundo os meses do ano"
+1170,Distribuição das famílias residentes em domicílios particulares por classes de rendimento mensal familiar per capita (série encerrada)
+1171,Número de famílias residentes em domicílios particulares
+1172,"Rendimento médio mensal real das pessoas de 10 anos ou mais de idade, com rendimento, por sexo"
+1173,"Rendimento médio mensal real das pessoas de 10 anos ou mais de idade, com rendimento, por cor ou raça"
+1174,Esperança de vida ao nascer
+1175,"Taxa de mortalidade infantil, por 1.000 nascidos vivos (série encerrada)"
+1176,Prevalência de desnutrição total em crianças menores de 5 anos de idade
+1180,Número de linhas telefônicas fixas e móveis celulares por 1.000 habitantes
+1182,"População residente estimada e número de linhas telefônicas fixas e móveis celulares, total e por 1.000 habitantes"
+1183,Oferta de serviços básicos de saúde por tipo de serviço
+1184,Taxa de escolarização das pessoas de 5 a 24 anos de idade por grupos de idade (série encerrada)
+1185,Taxa de escolarização das pessoas de 7 a 14 anos de idade por sexo (série encerrada)
+1186,Taxa de escolarização das pessoas de 7 a 14 anos de idade por cor ou raça (série encerrada)
+1187,Taxa de alfabetização das pessoas de 15 anos ou mais de idade por sexo
+1188,"Taxa de alfabetização das pessoas de 15 anos ou mais de idade, por cor ou raça"
+1189,Média de anos de estudo das pessoas de 25 anos ou mais de idade por sexo (série encerrada)
+1190,Média de anos de estudo das pessoas de 25 anos ou mais de idade por cor ou raça (série encerrada)
+1191,"Domicílios particulares permanentes, total e adequados para moradia, e Proporção de domicílios particulares permanentes adequados para moradia em relação ao total"
+1192,"Percentual de domicílios particulares permanentes adequados para moradia, por critérios de adequação"
+1193,"Produto Interno Bruto per capita, a preços de 1995"
+1194,Produto Interno Bruto per capita
+1195,Taxa de investimento
+1196,"Formação bruta de capital, por setor institucional"
+1197,"Dívida externa líquida, total e como percentual do PIB"
+1198,"Índice do consumo mineral per capita, segundo substâncias selecionadas"
+1199,"Consumo mineral per capita, segundo substâncias selecionadas (classe, sub-classe e substância)"
+1201,"Reservas, Produção e Vida útil das reservas de petróleo e gás natural"
+1202,Proporção de material recliclado em atividades industriais selecionadas
+1203,Serviço de coleta seletiva de lixo por número de municípios e residências atendidos e quantidade de lixo coletado (série encerrada)
+1204,Número e Atividade total dos rejeitos radioativos de fontes diversas armazenados nos depósitos intermediários dos Institutos da Comissão Nacional de Energia Nuclear - CNEN
+1205,"Número de pára-raios, fitas e detetores radioativos armazenados nos depósitos intermediários dos Institutos da Comissão Nacional de Energia Nuclear - CNEN"
+1207,"Volume e Atividade de subprodutos industriais e rejeitos radioativos, de origens diversas, armazenados em depósitos temporários e definitivos, segundo o tipo de depósito"
+1208,"Quantidade de combustível nuclear dentro do reator, em 31/12 nas usinas de Angra I e Angra II"
+1210,Número de instalações radioativas por área de atividade
+1212,"Total de municípios e proporção de municípios que possuem conselho de meio ambiente, por condição de atividade do conselho"
+1219,Estabelecimentos de ensino fundamental e médio com acesso à Internet
+1220,Domicílios particulares permanentes com acesso à Internet
+1377,"Quantidade e Área das reservas particulares do patrimônio natural federais, com indicação de participação em relação à área total (série encerrada)"
+352,Produção de rejeitos radioativos de baixo e médio níveis de atividade nas usinas de Angra I e Angra II
+3727,Taxa de fecundidade total
+3733,"Razão de dependência da população, por condição da população em relação a idade"
+3734,"Domicílios particulares permanentes urbanos e distribuição percentual, por classes de rendimento mensal domiciliar per capita em salários mínimos"
+3735,"Razão de sexo (homens / mulheres) e razão de cor ou raça (branca / preta ou parda) do rendimento médio mensal da população, exclusive as informações das pessoas sem declaração de rendimento"
+3736,"Percentual de domicílios com rendimento mensal domiciliar per capita de até 1/2 salário mínimo, exclusive o rendimento das pessoas cuja condição no domicílio era pensionista, empregado doméstico ou parente do empregado doméstico"
+3762,Percentual da população residente em municípios com Agenda 21 Local e com Fórum da Agenda 21 Local
+3824,Proporção de mulheres em trabalhos formais
+3825,"Esperança de vida ao nascer, por sexo"
+3826,"Rendimento médio mensal nominal das pessoas de 10 anos ou mais de idade, com rendimento, por sexo"
+3828,"Rendimento médio mensal nominal das pessoas de 10 anos ou mais de idade, com rendimento, por cor ou raça"
+3834,Taxa de mortalidade infantil
+3835,"Taxa de incidência de AIDS, por ano de diagnóstico"
+3836,Taxa de frequência escolar bruta e Taxa de frequência escolar líquida
+3837,"Taxa de frequência escolar bruta e Taxa de frequência escolar líquida, por sexo"
+3838,"Taxa de frequência escolar bruta e Taxa de frequência escolar líquida, por cor ou raça"
+3843,"Consumo de substâncias destruidoras da camada de ozônio, por tipo de substância"
+3844,"Número de municípios, total e que fazem parte de Comitê de Bacia Hidrográfica, e respectivo percentual"
+3845,"População residente e número, total e por 100.000 habitantes, de Fundações Privadas e Associações sem Fins Lucrativos"
+3846,"Número de Fundações Privadas e Associações sem Fins Lucrativos por 100.000 habitantes, por tipo de fundação"
+3847,População residente
+3848,"População residente em municípios com Agenda 21 Local, total e percentual distribuído pela etapa de implantação da Agenda 21 Local"
+3849,"População residente em municípios com Fórum da Agenda 21 Local, por frequência das reuniões"
+3850,"Número de municípios, total, com Agenda 21 Local e com Fórum da Agenda 21 Local, e respectivos percentuais"
+3855,"Estimativas das emissões líquidas de gases de efeito estufa de origem antrópica, por tipo de gás e setor de emissão"
+3856,"Volume de esgoto coletado e tratado por ano, e percentual de esgoto tratado"
+3875,"Número de municípios, total, com serviço de coleta seletiva de lixo e com serviço de coleta seletiva de lixo em toda a área municipal, e respectivos percentuais"
+3877,"Número de espécies da flora ameaçadas de extinção, por grupos taxonômicos e categorias de risco"
+3884,"Número de espécies da flora brasileira ameaçadas de extinção, por biomas"
+3886,"Número de espécies da fauna terrestre brasileira ameaçadas de extinção, por grupos taxonômicos e biomas"
+3887,Número de espécies animais terrestres e aquáticas ameaçadas de extinção por grupos taxonômicos e categorias de risco
+3897,"Pessoas de 25 a 64 anos de idade e distribuição percentual, por grupos de anos de estudo"
+3898,"Pessoas de 25 a 64 anos de idade, total e com 11 anos de estudo, e respectiva proporção, por sexo"
+3899,"Pessoas de 25 a 64 anos de idade, total e com 11 anos de estudo, e respectiva proporção, por cor ou raça"
+3900,"Número de municípios e articulações interinstitucionais entre o município e os entes federativos, total, possíveis, existentes e respectiva proporção"
+3903,"Articulações interinstitucionais existentes entre o município e os entes federativos, total e distribuição percentual, por tipo de articulação interinstitucional"
+3913,"Áreas total, remanescentes e desmatadas, até 2010, da Mata Atlântica, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+3914,"Áreas total, remanescentes e desmatadas, até 2010, do Cerrado, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+3915,"Áreas total, remanescentes e desmatadas, até 2009, da Caatinga, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+3916,"Áreas total, remanescentes e desmatadas, até 2009, do Pantanal, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+3917,"Áreas total, remanescentes e desmatadas, até 2009, do Pampa, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+3923,"Número e área das Unidades de Conservação federais, das Unidades de Conservação de Uso Sustentável, das Áreas de Proteção Ambiental federais e das Reservas Particulares do Patrimônio Natural federais"
+3924,"Área das Unidades de Conservação de Proteção Integral terrestres federais e respectiva participação no total das áreas das Unidades de Conservação de Proteção Integral terrestres federais, por bioma"
+3925,"Área das Unidades de Conservação de Uso Sustentável terrestres federais e respectiva participação no total das áreas das Unidades de Conservação de Uso Sustentável terrestres federais, por bioma"
+3926,Área dos biomas
+3927,"Média anual da Demanda Bioquímica de Oxigênio - DBO, em corpos d'água selecionados"
+3928,"Média anual do Índice de Qualidade das Águas - IQA, em corpos d'água selecionados"
+3929,"Quantidade, Área e Participação relativa no bioma, das unidades de conservação federais, por tipo de uso"
+3930,"Número de focos de calor em Terras Indígenas e Unidades de Conservação federais e estaduais, segundo as Grandes Regiões e as Unidades da Federação"
+5456,"População residente estimada e pessoas de 10 anos ou mais de idade usuárias da Internet, total e por 1.000 habitantes"
+5460,"Percentual de vacinação em menores de 1 ano de idade, por tipo de vacina"
+5607,"Municípios, total e com Fundo Municipal de Meio Ambiente, e respectiva proporção"
+5608,"Municípios, total e com legislação ambiental, e respectiva proporção"
+5609,"Número de inscrições de bens do Patrimônio Cultural Material, por tipo de Livro do Tombo"
+5610,Número de Atos Multilaterais relativos ao meio ambiente ratificados pelo Brasil
+5611,"Número de Atos Multilaterais relativos ao meio ambiente vigentes no Brasil, por tema tratado nos Atos Multilaterais"
+5612,"População residente total e em municípios com Agenda 21 Local e Fórum da Agenda 21 Local, total e ativo (com pelo menos uma reunião nos 12 meses anteriores), e respectivos percentuais"
+5613,"Áreas total, remanescentes e desmatadas da Mata Atlântica, e respectivos percentuais, para as Unidades da Federação abrangidas pelo inventário"
+5619,Número e área das unidades de conservação terrestres e proporção em relação à área territorial brasileira
+5621,Número e área das unidades de conservação marinhas e proporção em relação à área marinha brasileira
+5622,"Número e área das unidades de conservação, por nível de governo responsável e tipo de uso e categoria de manejo"
+5623,"Número e área das unidades de conservação marinhas e proporção em relação à área marinha brasileira, por tipo de uso e categoria de manejo"
+5624,"Área das unidades de conservação marinhas, considerando sobreposições, e proporção em relação à área marinha brasileira, por tipo de sobreposição"
+5625,"Número e área das unidades de conservação e proporção em relação à área da Unidade da Federação, por tipo de uso"
+5626,"Área da unidade territorial (Brasil ou Unidade da Federação), número e área das unidades de conservação, e proporções em relação à área da Unidade da Federação e à área territorial brasileira"
+5627,"Número e área das unidades de conservação e proporção em relação à área do bioma, por tipo de uso e categoria de manejo"
+5628,"Área das unidades de conservação considerando sobreposições e proporção em relação à área do bioma, por tipo de sobreposição"
+5629,"Número de unidades de conservação, total, com Plano de Manejo e com Conselho Gestor, e respectivas proporções do total, para cada tipo de uso e categoria de manejo"
+5642,"Índice de Gini da distribuição do rendimento mensal das pessoas de 15 anos ou mais de idade, com rendimento"
+5794,"Rendimento médio mensal nominal das pessoas de 15 anos ou mais de idade, com rendimento, por sexo"
+5795,"Rendimento médio mensal nominal das pessoas de 15 anos ou mais de idade, com rendimento, por cor ou raça"
+5797,"Rendimento médio mensal real das pessoas de 15 anos ou mais de idade, com rendimento, por sexo"
+5798,"Rendimento médio mensal real das pessoas de 15 anos ou mais de idade, com rendimento, por cor ou raça"
+5799,"Rendimento médio mensal real das pessoas de 15 anos ou mais de idade, com rendimento, e respectivas razão de sexo e razão de cor ou raça"
+5801,"Índice de Gini da distribuição do rendimento mensal das pessoas de 15 anos ou mais de idade, com rendimento - Série Histórica"
+5802,"Comercialização de ingredientes ativos de agrotóxicos e afins, por classe de uso"
+5803,"Distribuição percentual dos agrotóxicos em linha de comercialização em relação ao total de produtos comercializados, por classes de periculosidade ambiental"
+5804,Número de focos de calor na Amazônia Legal e respectiva proporção em relação ao total de focos do Brasil
+5805,"Número de focos de calor, segundo os Biomas"
+5841,"Índice do consumo mineral per capita (Base 2000 = 100), segundo substâncias selecionadas"
+5901,"População residente, área e densidade demográfica dos municípios costeiros"
+5911,"Estimativas das emissões de Gases Efeito Estufa (GEE) de origem antrópica, por setores de emissão e tipo de gás"
+5945,"Valor das exportações, importações e saldo comercial - Grandes Regiões e Unidades da Federação"
+5949,Formação bruta de capital
+602,"Estimativas das emissões líquidas (emissões brutas menos remoções) de gases de efeito estufa de origem antrópica, segundo os setores de atividade (série encerrada)"
+603,"Áreas original total, remanescente e desmatada do Bioma Cerrado, segundo as Unidades da Federação (série encerrada)"
+6377,"Oferta interna de energia e distribuição percentual, segundo as fontes de energia renováveis e não-renováveis"
+6394,"Estimativas das emissões líquidas de gases de efeito estufa de origem antrópica, segundo os tipos de gás e os setores de emissão"
+766,"Estimativas das emissões de gases de efeito estufa de origem antrópica, por tipo de gás, segundo os setores de emissão (série encerrada)"
+768,"Quantidade comercializada de fertilizantes por área plantada, segundo o tipo de nutriente"
+769,Área plantada das principais culturas e Quantidade de fertilizantes entregue ao consumidor final
+770,Quantidade de fertilizantes entregue ao consumidor final e Utilização de fertilizantes por unidade de área por tipo de nutriente
+771,Consumo nacional de ingredientes ativos de agrotóxicos e afins por área plantada
+772,"Comercialização de agrotóxicos e afins, área plantada das principais culturas e comercialização por área plantada"
+773,"Comercialização de agrotóxicos e afins, total e por área plantada, segundo a classe de uso"
+774,Consumo dos principais ingredientes ativos de agrotóxicos e respectiva participação percentual em relação ao total da classe de uso
+775,Agrotóxicos em linha de comercialização e respectiva distribuição percentual em relação ao número total de produtos por classes toxicológicas
+776,Proporção das terras em uso agrossilvipastoril dos estabelecimentos agropecuários em relação ao total da área territorial por tipo de utilização das terras
+778,"Área da superfície territorial do Brasil, dos estabelecimentos agropecuários e das terras em uso e Participação das terras em uso na superfície territorial do Brasil"
+779,Distribuição percentual do uso das terras em relação à área dos estabelecimentos agropecuários por tipo de uso
+780,Proporção das terras em uso com lavouras em relação à superfície territorial do Brasil por tipo de lavoura
+781,Área total e distribuição percentual das terras em uso com lavouras em relação ao total da superfície territorial por tipo de lavoura
+821,Valor das despesas públicas com a proteção ao meio ambiente por níveis de governo - Brasil
+891,"Consumo de substâncias destruidoras da camada de ozônio, segundo o tipo de substância (série encerrada)"
+892,"Número de estações de monitoramento, Máxima concentração anual observada e Número de violações do padrão primário nacional de qualidade do ar, segundo o tipo de poluente"
+893,"Concentração média anual, segundo o tipo de poluente"
+894,"Número de focos de calor, segundo as Grandes Regiões e Unidades da Federação"
+895,"Número de focos de calor, total e em unidades de conservação, parques e terras indígenas e Proporção de focos de calor em relação ao total de focos, segundo o local do foco (série descontinuada)"
+896,"Desflorestamento bruto, anual e acumulado, na Amazônia Legal, em 01/08, e Taxa estimada, anual e acumulada, de desflorestamento bruto anual em relação à área total das Unidades da Federação que formam a Amazônia Legal, segundo as Unidades da Federação"
+897,"Percentual de vacinação em menores de 1 ano de idade, por tipo de vacina (série encerrada)"
+898,"Internações hospitalares por doenças relacionadas ao saneamento ambiental inadequado, total e segundo as categorias de doenças"
+899,"Coeficientes de mortalidade por homicídios ou por acidentes de transporte terrestre, segundo o sexo"
+900,"Valor das exportações, importações e saldo comercial - Brasil"
+901,"População e consumo final de energia, total e per capita"
+902,Intensidade energética
+903,"Oferta interna de energia e distribuição percentual, segundo as fontes de energia"
+904,"Produção de rejeitos radioativos de baixo e médio níveis de atividade e Produção e Armazenamento de combustível nuclear já utilizado, em 31/12 nas usinas de Angra I e Angra II"
+905,"Investimentos nacionais, Valor e Percentual em relação ao PIB, em Pesquisa e Desenvolvimento - P&D, segundo os setores de aplicação"
+906,"Média anual da Demanda Bioquímica de Oxigênio - DBO, em corpos d'água selecionados, nas Unidades da Federação de Pernambuco, Minas Gerais, Rio de Janeiro, São Paulo, Paraná e Rio Grande do Sul (série encerrada)"
+907,"Média anual do Índice de Qualidade das Águas - IQA, em corpos d'água selecionados, nas Unidades da Federação de Pernambuco, Minas Gerais, Rio de Janeiro, São Paulo, Paraná e Rio Grande do Sul (série encerrada)"
+909,"Quantidade, Área e Participação relativa no bioma, das unidades de conservação federais, por tipo de uso (série encerrada)"

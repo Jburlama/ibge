@@ -1,0 +1,26 @@
+{
+  "id": "IQ",
+  "nome": "Índice Nacional de Preços ao Consumidor Amplo 15",
+  "agregados": [
+    {
+      "id": "1387",
+      "nome": "IPCA15 - Variação mensal, acumulada no ano e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/2006 até janeiro/2012)"
+    },
+    {
+      "id": "1646",
+      "nome": "IPCA15 - Variação mensal, acumulada no ano e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de maio/2000 até julho/2006)"
+    },
+    {
+      "id": "1705",
+      "nome": "IPCA15 - Variação mensal, acumulada no ano, acumulada em 12 meses e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de fevereiro/2012 até janeiro/2020)"
+    },
+    {
+      "id": "3065",
+      "nome": "IPCA15 - Série histórica com número-índice, variação mensal e variações acumuladas em 3 meses, em 6 meses, no ano e em 12 meses (a partir de maio/2000)"
+    },
+    {
+      "id": "7062",
+      "nome": "IPCA15 - Variação mensal, acumulada no ano, acumulada em 12 meses e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (a partir de fevereiro/2020)"
+    }
+  ]
+}

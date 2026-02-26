@@ -1,0 +1,110 @@
+{
+  "id": "ME",
+  "nome": "Censo Comum do Mercosul, Bolívia e Chile",
+  "agregados": [
+    {
+      "id": "1221",
+      "nome": "População residente, por sexo e grupos quinquenais de idade"
+    },
+    {
+      "id": "2059",
+      "nome": "Domicílios e População residente por espécie do domicílio"
+    },
+    {
+      "id": "2060",
+      "nome": "Domicílios particulares permanentes ocupados somente por uma família por indicador de situação habitacional (CALSAV-M), segundo o sexo da pessoa responsável pela família"
+    },
+    {
+      "id": "2061",
+      "nome": "Domicílios particulares permanentes ocupados somente por uma família por indicador de situação habitacional (CALCOV-M), segundo o sexo da pessoa responsável pela família"
+    },
+    {
+      "id": "2074",
+      "nome": "Domicílios particulares permanentes ocupados somente por uma família por existência de banheiro ou sanitário e tipo de esgotamento sanitário, segundo a forma de abastecimento de água e tipo de canalização"
+    },
+    {
+      "id": "2075",
+      "nome": "Pessoas responsáveis pelos domicílios particulares permanentes por indicador de situação habitacional (CALSAV-M), segundo o sexo e grupos de anos de estudo"
+    },
+    {
+      "id": "2076",
+      "nome": "Pessoas responsáveis pelos domicílios particulares permanentes por indicador de situação habitacional (CALCOV-M), segundo o sexo e grupos de anos de estudo"
+    },
+    {
+      "id": "2077",
+      "nome": "Pessoas responsáveis pelos domicílios particulares permanentes por indicador de situação habitacional (CALSAV-M), segundo o sexo e anos de estudo"
+    },
+    {
+      "id": "2078",
+      "nome": "Pessoas responsáveis pelos domicílios particulares por indicador de situação habitacional (CALCOV-M), segundo o sexo e anos de estudo"
+    },
+    {
+      "id": "2079",
+      "nome": "População residente por sexo segundo os grupos de idade"
+    },
+    {
+      "id": "2080",
+      "nome": "População residente por lugar de nascimento, segundo o sexo e grupos de idade"
+    },
+    {
+      "id": "2081",
+      "nome": "Pessoas de 5 anos ou mais de idade por lugar de residência em 31 de julho de 1995, segundo o lugar de nascimento"
+    },
+    {
+      "id": "2082",
+      "nome": "População de 5 anos ou mais de idade por grupos de anos de estudo, segundo o sexo e grupos de idade"
+    },
+    {
+      "id": "2083",
+      "nome": "Pessoas de 5 anos ou mais de idade, que frequentavam escola por grupos de anos de estudo, segundo o sexo e grupos de idade"
+    },
+    {
+      "id": "2084",
+      "nome": "Pessoas de 19 anos ou mais de idade por anos de estudo, segundo o sexo e idade"
+    },
+    {
+      "id": "2085",
+      "nome": "Pessoas de 19 anos ou mais de idade por anos de estudo, segundo o sexo e grupos de idade"
+    },
+    {
+      "id": "2086",
+      "nome": "Pessoas de 15 anos ou mais de idade por condição de atividade na semana de referência, segundo o sexo e grupos de idade"
+    },
+    {
+      "id": "2087",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência por posição na ocupação, segundo o sexo e grupos de idade"
+    },
+    {
+      "id": "2088",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência por seção de atividade do trabalho principal, segundo o sexo e grupos de idade"
+    },
+    {
+      "id": "2089",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência por grandes grupos de ocupação no trabalho principal, segundo o sexo e grupos de idade"
+    },
+    {
+      "id": "2090",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência por posição na ocupação segundo a seção de atividade do trabalho principal"
+    },
+    {
+      "id": "2091",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência por posição na ocupação, segundo o sexo e grupos de anos de estudo"
+    },
+    {
+      "id": "2092",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência por posição na ocupação, segundo o sexo e anos de estudo"
+    },
+    {
+      "id": "2391",
+      "nome": "Domicílios particulares permanentes ocupados somente por uma família por indicador de situação habitacional (CALVIV-M), segundo o sexo da pessoa responsável pela família"
+    },
+    {
+      "id": "2733",
+      "nome": "Pessoas responsáveis pelos domicílios particulares permanentes por indicador de situação habitacional (CALVIV-M), segundo o sexo e grupos de anos de estudo"
+    },
+    {
+      "id": "2734",
+      "nome": "Pessoas responsáveis pelos domicílios particulares permanentes por indicador de situação habitacional (CALVIV-M), segundo os anos de estudo"
+    }
+  ]
+}

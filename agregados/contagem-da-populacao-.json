@@ -1,0 +1,90 @@
+{
+  "id": "CM",
+  "nome": "Contagem da População ",
+  "agregados": [
+    {
+      "id": "305",
+      "nome": "População residente em domicílios particulares permanentes por sexo do chefe do domicílio e situação"
+    },
+    {
+      "id": "319",
+      "nome": "Média de moradores por domicílio particular permanente"
+    },
+    {
+      "id": "472",
+      "nome": "População residente por idade, forma de declaração da idade, sexo e situação"
+    },
+    {
+      "id": "473",
+      "nome": "Pessoas de 4 anos ou mais de idade por grupos de idade, anos de estudo, sexo e situação"
+    },
+    {
+      "id": "475",
+      "nome": "População residente por grupos de idade, sexo e situação"
+    },
+    {
+      "id": "476",
+      "nome": "Pessoas de 4 anos ou mais de idade por frequência à escola, grau e série, grupos de idade e sexo"
+    },
+    {
+      "id": "477",
+      "nome": "Pessoas de 4 anos ou mais que frequentam escola por grau e grupos de idade"
+    },
+    {
+      "id": "478",
+      "nome": "Pessoas não residentes no município de residência atual em 01/09/91 por unidade da federação de residência anterior, grupos de idade e sexo"
+    },
+    {
+      "id": "479",
+      "nome": "Chefes de domicílios particulares permanentes por grupos de idade, anos de estudo, sexo e situação"
+    },
+    {
+      "id": "480",
+      "nome": "População residente por relação com o chefe do domicílio, grupos de idade, sexo e situação"
+    },
+    {
+      "id": "481",
+      "nome": "Média de moradores por domicílio particular permanente por sexo do chefe do domicílio e situação"
+    },
+    {
+      "id": "482",
+      "nome": "Domicílios particulares permanentes por sexo do chefe do domicílio e situação"
+    },
+    {
+      "id": "484",
+      "nome": "Pessoas não residentes no município de residência atual em 01/09/91 por origem do movimento migratório e sexo"
+    },
+    {
+      "id": "552",
+      "nome": "Média de moradores por domicílio particular permanente por situação"
+    },
+    {
+      "id": "553",
+      "nome": "Média de moradores por domicílio particular permanente por sexo do chefe do domicílio"
+    },
+    {
+      "id": "579",
+      "nome": "Domicílios particulares permanentes, População recenseada em domicílios particulares permanentes e Média de moradores em domicílios particulares permanentes por situação do domicílio"
+    },
+    {
+      "id": "580",
+      "nome": "Domicílios particulares permanentes, População recenseada em domicílios particulares permanentes e Média de moradores em domicílios particulares permanentes por sexo da pessoa responsável pelo domicílio"
+    },
+    {
+      "id": "793",
+      "nome": "População residente"
+    },
+    {
+      "id": "794",
+      "nome": "População recenseada por situação do domicílio, sexo, forma de declaração da idade, idade e relação com a pessoa responsável pelo domicílio"
+    },
+    {
+      "id": "797",
+      "nome": "Domicílios recenseados por espécie de domicílio"
+    },
+    {
+      "id": "798",
+      "nome": "Domicílios particulares ocupados por sexo da pessoa responsável pelo domicílio e situação do domicílio"
+    }
+  ]
+}

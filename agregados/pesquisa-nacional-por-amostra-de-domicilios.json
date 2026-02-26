@@ -1,0 +1,1806 @@
+{
+  "id": "PD",
+  "nome": "Pesquisa Nacional por Amostra de Domicílios",
+  "agregados": [
+    {
+      "id": "1840",
+      "nome": "População residente, por situação, sexo e lugar de nascimento"
+    },
+    {
+      "id": "1850",
+      "nome": "População residente, por naturalidade em relação ao municipio e à unidade da federação, sexo e grupos de idade"
+    },
+    {
+      "id": "1852",
+      "nome": "População residente, por lugar de nascimento e unidade da federação de residência"
+    },
+    {
+      "id": "1854",
+      "nome": "Pessoas de 10 anos ou mais de idade, por naturalidade em relação ao municipio e à unidade da federação, condição de atividade na semana de referência e grupos de idade"
+    },
+    {
+      "id": "1856",
+      "nome": "Estudantes de 5 anos ou mais de idade, por situação, sexo e grau e série que frequentavam"
+    },
+    {
+      "id": "1858",
+      "nome": "Estudantes de 5 anos ou mais de idade, por grau e série que frequentavam, sexo e grupos de idade"
+    },
+    {
+      "id": "1860",
+      "nome": "Pessoas de 10 anos ou mais de idade e Valor do rendimento médio mensal, por sexo, situação e classes de rendimento mensal"
+    },
+    {
+      "id": "1862",
+      "nome": "Pessoas de 10 anos ou mais de idade e Valor do rendimento médio mensal, por sexo e situação"
+    },
+    {
+      "id": "1864",
+      "nome": "Pessoas de 10 anos ou mais de idade, por condição de atividade na semana de referência, sexo, situação e grupos de idade"
+    },
+    {
+      "id": "1866",
+      "nome": "Pessoas de 10 anos ou mais de idade, aposentadas e/ou pensionistas na semana de referência, por sexo e condição de atividade na semana de referência"
+    },
+    {
+      "id": "1867",
+      "nome": "Pessoas de 10 anos ou mais de idade, economicamente ativas na semana de referência, e Valor do rendimento médio mensal, por sexo, situação e classes de rendimento mensal"
+    },
+    {
+      "id": "1868",
+      "nome": "Pessoas de 10 anos ou mais de idade que procuraram trabalho na semana de referência, por condição de ocupação, sexo e grupos de idade"
+    },
+    {
+      "id": "1869",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por anos de estudo, sexo e classes de rendimento mensal de todos os trabalhos"
+    },
+    {
+      "id": "1870",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana em todos os trabalhos, sexo e classes de rendimento mensal de todos os trabalhos"
+    },
+    {
+      "id": "1871",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e Valor do rendimento médio mensal de todos os trabalhos, por sexo e classes de rendimento mensal de todos os trabalhos"
+    },
+    {
+      "id": "1872",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e anos de estudo"
+    },
+    {
+      "id": "1873",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e grupos de horas habitualmente trabalhadas por semana em todos os trabalhos"
+    },
+    {
+      "id": "1874",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e classes de rendimento mensal de todos os trabalhos"
+    },
+    {
+      "id": "1875",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e contribuição para instituto de previdência em qualquer trabalho"
+    },
+    {
+      "id": "1876",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e atividade do trabalho principal"
+    },
+    {
+      "id": "1877",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e posição na ocupação no trabalho principal"
+    },
+    {
+      "id": "1878",
+      "nome": "Pessoas de 10 anos ou mais de idade, por condição de atividade na semana de referência, sexo, situação e anos de estudo"
+    },
+    {
+      "id": "1880",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por número de trabalhos, sexo e grupos de idade"
+    },
+    {
+      "id": "1881",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por número de trabalhos, sexo e anos de estudo"
+    },
+    {
+      "id": "1882",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por número de trabalhos, sexo e associação a sindicatos"
+    },
+    {
+      "id": "1883",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por número de trabalhos, sexo e contribuição para previdência privada"
+    },
+    {
+      "id": "1885",
+      "nome": "Pessoas de 10 anos ou mais de idade, economicamente ativas e Valor do rendimento médio mensal, por sexo e situação"
+    },
+    {
+      "id": "1886",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e grupos de idade"
+    },
+    {
+      "id": "1888",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e cor ou raça"
+    },
+    {
+      "id": "1889",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e naturalidade em relação ao município"
+    },
+    {
+      "id": "1890",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e grupos de idade com que começaram a trabalhar"
+    },
+    {
+      "id": "1891",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e associação a sindicato"
+    },
+    {
+      "id": "1892",
+      "nome": "Pessoas de 10 anos ou mais de idade e Valor do rendimento médio mensal, por indicativo de rendimento, situação, sexo e condição de atividade na semana de referência"
+    },
+    {
+      "id": "1894",
+      "nome": "Pessoas de 10 anos ou mais de idade e Valor do rendimento médio mensal, por indicativo de rendimento e sexo"
+    },
+    {
+      "id": "1895",
+      "nome": "Pessoas de 10 anos ou mais de idade e Valor do rendimento médio mensal, por indicativo de rendimento e situação"
+    },
+    {
+      "id": "1896",
+      "nome": "Pessoas de 10 anos ou mais de idade e Valor do rendimento médio mensal, por indicativo de rendimento, situação e sexo"
+    },
+    {
+      "id": "1899",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e Valor do rendimento médio mensal de trabalho, por indicativo de rendimento, sexo e número de trabalhos"
+    },
+    {
+      "id": "1900",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, com mais de um trabalho, por posição na ocupação nos trabalhos principal e secundário"
+    },
+    {
+      "id": "1901",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por contribuição para instituto de previdência, sexo e grupos de idade"
+    },
+    {
+      "id": "1902",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por contribuição para instituto de previdência em qualquer trabalho, sexo e classes de rendimento mensal em todos os trabalhos"
+    },
+    {
+      "id": "1903",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por contribuição para instituto de previdência no trabalho principal, sexo e ramos de atividade do trabalho principal"
+    },
+    {
+      "id": "1904",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência (exclusive trabalhadores na produção para o próprio consumo e trabalhadores na construção para o próprio uso), por posição na ocupação, sexo e local do estabelecimento do trabalho principal"
+    },
+    {
+      "id": "1906",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por tempo de permanência no trabalho principal, sexo e posição na ocupação no trabalho principal"
+    },
+    {
+      "id": "1907",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e com rendimento no trabalho principal e Valor do rendimento médio mensal do trabalho principal, por sexo, posição na ocupação principal e classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "1908",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência e com rendimento no trabalho principal e Valor do rendimento médio mensal do trabalho principal, por sexo e posição na ocupação principal"
+    },
+    {
+      "id": "1910",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por posição na ocupação no trabalho principal, sexo e ramos de atividade do trabalho principal"
+    },
+    {
+      "id": "1912",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, sexo e ramos de atividade do trabalho principal"
+    },
+    {
+      "id": "1913",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, atividade e posição na ocupação no trabalho principal"
+    },
+    {
+      "id": "1914",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, sexo e classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "1915",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por classes de rendimento mensal do trabalho principal, sexo e ramos de atividade do trabalho principal"
+    },
+    {
+      "id": "1916",
+      "nome": "Empregados de 10 anos ou mais de idade, no trabalho principal da semana de referência, por categoria do emprego, sexo e grupos de idade"
+    },
+    {
+      "id": "1917",
+      "nome": "Empregados de 10 anos ou mais de idade no trabalho principal da semana de referência e Valor do rendimento médio mensal do trabalho principal, por sexo, categoria do emprego e classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "1918",
+      "nome": "Empregados de 10 anos ou mais de idade no trabalho principal da semana de referência e Valor do rendimento médio mensal do trabalho principal, por sexo e categoria do emprego"
+    },
+    {
+      "id": "1920",
+      "nome": "Empregados de 10 anos ou mais de idade no trabalho principal da semana de referência (exclusive militares e funcionários públicos estatutários), por categoria do emprego, sexo e ramos da atividade principal"
+    },
+    {
+      "id": "1922",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, sexo e grupos de ocupação do trabalho principal"
+    },
+    {
+      "id": "1923",
+      "nome": "Empregados de 10 anos ou mais de idade, em atividade não agrícola, no setor privado, no trabalho principal da semana de referência, por número de pessoas ocupadas no trabalho principal, sexo e local de estabelecimento do trabalho principal"
+    },
+    {
+      "id": "1924",
+      "nome": "Pessoas de 10 anos ou mais de idade, por condição de atividade no período de referência de 365 dias, sexo, situação e grupos de idade"
+    },
+    {
+      "id": "1925",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas no período de referência de 365 dias, por condição de atividade no trabalho principal e de ocupação na semana de referência, sexo e ramos de atividade do trabalho principal do período de referência de 365 dias"
+    },
+    {
+      "id": "1926",
+      "nome": "Pessoas de 5 anos ou mais de idade, ocupadas, por período de referência, atividade do trabalho principal, sexo e grupos de idade"
+    },
+    {
+      "id": "1927",
+      "nome": "Pessoas de 18 anos ou mais de idade, ocupadas no período de referência de 365 dias e associadas a sindicato, por tipo de sindicato, sexo e grupos de idade"
+    },
+    {
+      "id": "1928",
+      "nome": "Pessoas de 18 anos ou mais de idade, ocupadas no período de referência de 365 dias e associadas a sindicato, por tipo de sindicato, sexo e grupos de anos de estudo"
+    },
+    {
+      "id": "1929",
+      "nome": "Pessoas de 18 anos ou mais de idade, ocupadas no período de referência de 365 dias e associadas a sindicato, por tipo de sindicato, sexo e ramos de atividade do trabalho prinicpal no período de referência de 365 dias"
+    },
+    {
+      "id": "1930",
+      "nome": "Pessoas de 18 anos ou mais de idade, ocupadas no período de referência de 365 dias e associadas a sindicato, por tipo de sindicato, sexo e classes de rendimento mensal"
+    },
+    {
+      "id": "1933",
+      "nome": "Mulheres de 15 anos ou mais de idade, total e que tiveram filhos, por situação do domicílio e grupos de idade"
+    },
+    {
+      "id": "1934",
+      "nome": "Número de filhos tidos, nascidos vivos, no período de referência de 12 meses, tidos pelas mulheres de 15 anos ou mais de idade, por situação do domicílio e grupos de idade das mulheres"
+    },
+    {
+      "id": "1937",
+      "nome": "Número de filhos tidos pelas mulheres de 15 anos ou mais de idade, por tipo de nascimento, sexo, situação do domicílio e grupos de idade das mulheres"
+    },
+    {
+      "id": "1938",
+      "nome": "Número de filhos tidos pelas mulheres de 15 anos ou mais de idade, e que estavam vivos, por sexo, situação do domicílio e grupos de idade das mulheres"
+    },
+    {
+      "id": "1939",
+      "nome": "Mulheres de 15 anos ou mais de idade, por indicativo e número de filhos nascidos vivos, condição de atividade na semana de referência e grupos de idade"
+    },
+    {
+      "id": "1940",
+      "nome": "Famílias residentes em domicílios particulares e Valor do rendimento médio mensal das famílias residentes em domicílios particulares, por situação do domicílio e classes de rendimento mensal das famílias residentes em domicílios particulares"
+    },
+    {
+      "id": "1941",
+      "nome": "Domicílios particulares e Valor do rendimento médio mensal domiciliar, por situação do domicílio e classes de rendimento mensal domiciliar"
+    },
+    {
+      "id": "1942",
+      "nome": "Famílias residentes em domicílios particulares, por sexo da pessoa de referência da família"
+    },
+    {
+      "id": "1943",
+      "nome": "Famílias residentes em domicílios particulares, por grupos de idade da pessoa de referência da família"
+    },
+    {
+      "id": "1944",
+      "nome": "Famílias residentes em domicílios particulares, por anos de estudo da pessoa de referência da família"
+    },
+    {
+      "id": "1945",
+      "nome": "Famílias residentes em domicílios particulares, por condição de atividade na semana de referência da pessoa de referência da família"
+    },
+    {
+      "id": "1946",
+      "nome": "Famílias residentes em domicílios particulares, por classes de rendimento mensal de todas as fontes da pessoa de referência da família"
+    },
+    {
+      "id": "1947",
+      "nome": "Pessoas residentes em domicílios particulares, por condição na família e sexo da pessoa de referência da família"
+    },
+    {
+      "id": "1948",
+      "nome": "Pessoas residentes em domicílios particulares, por condição na família e grupos de idade da pessoa de referência da família"
+    },
+    {
+      "id": "1949",
+      "nome": "Pessoas residentes em domicílios particulares, por condição na família e anos de estudo da pessoa de referência da família"
+    },
+    {
+      "id": "1950",
+      "nome": "Pessoas residentes em domicílios particulares, por condição na família e condição de atividade na semana de referência da pessoa de referência da família"
+    },
+    {
+      "id": "1951",
+      "nome": "Pessoas residentes em domicílios particulares, por condição na família e classes de rendimento mensal de todas as fontes da pessoa de referência da família"
+    },
+    {
+      "id": "1952",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por tipo de domicílio, condição de ocupação e material das paredes"
+    },
+    {
+      "id": "1953",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por tipo de domicílio, condição de ocupação e material da cobertura"
+    },
+    {
+      "id": "1954",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por classes de rendimento mensal domiciliar, situação do domicílio e alguns bens duráveis existentes no domicílio"
+    },
+    {
+      "id": "1955",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por classes de rendimento mensal domiciliar, situação do domicílio e abastecimento de água"
+    },
+    {
+      "id": "1956",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por classes de rendimento mensal domiciliar, situação do domicílio e esgotamento sanitário"
+    },
+    {
+      "id": "1957",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por classes de rendimento mensal domiciliar, situação do domicílio e banheiro ou sanitário"
+    },
+    {
+      "id": "1958",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por classes de rendimento mensal domiciliar, situação do domicílio e destino do lixo"
+    },
+    {
+      "id": "1959",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por classes de rendimento mensal domiciliar, situação do domicílio e iluminação elétrica"
+    },
+    {
+      "id": "1960",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por classes de rendimento mensal domiciliar, situação do domicílio e telefone"
+    },
+    {
+      "id": "1961",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por classes de rendimento mensal domiciliar, situação do domicílio e densidade de moradores por dormitório"
+    },
+    {
+      "id": "1962",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por posição na ocupação no trabalho principal, sexo e grupos de idade"
+    },
+    {
+      "id": "2117",
+      "nome": "Pessoas de 5 anos ou mais de idade, por situação, sexo, grupos de idade e situação de ocupação na semana de referência"
+    },
+    {
+      "id": "2119",
+      "nome": "Pessoas de 5 a 17 anos de idade, por situação de ocupação na semana de referência, sexo, situação, grupos de idade e frequência à escola"
+    },
+    {
+      "id": "2120",
+      "nome": "Famílias e Famílias com pelo menos um componente de 5 a 17 anos de idade, por sexo da pessoa de referência, situação e número de componentes"
+    },
+    {
+      "id": "2121",
+      "nome": "Pessoas de 5 a 17 anos de idade, por grupos de idade, situação e frequência à escola, rede de ensino que frequentaram e tempo de permanência diária na escola"
+    },
+    {
+      "id": "2122",
+      "nome": "Pessoas de 5 a 17 anos de idade, por frequência à escola, situação de ocupação na semana de referência, sexo da pessoa de referência da família e número de componentes da família"
+    },
+    {
+      "id": "2123",
+      "nome": "Pessoas de 5 a 17 anos de idade, por frequência à escola, situação de ocupação na semana de referência, situação e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "2124",
+      "nome": "Pessoas de 5 a 17 anos de idade que não frequentavam escola, por principal motivo de não frequentarem escola, grupos de idade e sexo"
+    },
+    {
+      "id": "2125",
+      "nome": "Pessoas de 5 a 17 anos de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana em todos os trabalhos, grupos de idade e frequência à escola"
+    },
+    {
+      "id": "2126",
+      "nome": "Pessoas de 5 a 17 anos de idade, ocupadas na semana de referência, por condição de satisfação com o trabalho principal, grupos de idade e atividade do trabalho principal"
+    },
+    {
+      "id": "2127",
+      "nome": "Pessoas de 5 a 17 anos de idade, ocupadas na semana de referência, por posição na ocupação no trabalho principal, grupos de idade e atividade do trabalho principal"
+    },
+    {
+      "id": "2128",
+      "nome": "Pessoas de 5 a 17 anos de idade, ocupadas na semana de referência e com rendimento no trabalho principal, por posição na ocupação no trabalho principal, sexo e classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "2129",
+      "nome": "Pessoas de 5 a 17 anos de idade, ocupadas no período de referência de 365 dias, por utilização de máquina, ferramenta, instrumento ou produto químico no trabalho principal, grupos de idade e atividade do trabalho principal"
+    },
+    {
+      "id": "2130",
+      "nome": "Pessoas de 5 a 17 anos de idade, por situação de ocupação na semana de referência e sexo"
+    },
+    {
+      "id": "2131",
+      "nome": "Pessoas de 5 a 17 anos de idade, por situação de ocupação na semana de referência e situação"
+    },
+    {
+      "id": "2132",
+      "nome": "Pessoas de 5 a 17 anos de idade, por frequência à escola e situação de ocupação na semana de referência"
+    },
+    {
+      "id": "2133",
+      "nome": "Pessoas de 5 a 17 anos de idade, por frequência à escola e rede de ensino que frequentavam"
+    },
+    {
+      "id": "2134",
+      "nome": "Pessoas de 5 a 17 anos de idade que frequentavam escola, por rede de ensino que frequentavam e tempo de permanência na escola"
+    },
+    {
+      "id": "2135",
+      "nome": "Famílias com pelo menos um componente de 5 a 17 anos de idade, por sexo da pessoa de referência"
+    },
+    {
+      "id": "2136",
+      "nome": "Pessoas de 5 a 17 anos de idade que não frequentavam escola, por principal motivo de não frequentarem"
+    },
+    {
+      "id": "2137",
+      "nome": "Pessoas de 5 a 17 anos de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana em todos os trabalhos"
+    },
+    {
+      "id": "2138",
+      "nome": "Pessoas de 5 a 17 anos de idade, ocupadas na semana de referência, por condição de remuneração no trabalho principal"
+    },
+    {
+      "id": "2139",
+      "nome": "Pessoas de 5 a 17 anos de idade, ocupadas na semana de referência, por classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "2267",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por contribuição para instituto de previdência no trabalho principal, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "2268",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por posição na ocupação no trabalho principal, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "2269",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "2270",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, sexo e grupamentos ocupacionais do trabalho principal"
+    },
+    {
+      "id": "2271",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por classes de rendimento mensal do trabalho principal, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "2272",
+      "nome": "Empregados de 10 anos ou mais de idade no trabalho principal da semana de referência (exclusive militares e funcionários públicos estatutários), por categoria do emprego, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "2273",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas no período de referência de 365 dias, por condição de atividade e de ocupação na semana de referência, sexo e ramos de atividade do trabalho principal no período de referência de 365 dias"
+    },
+    {
+      "id": "2387",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por classes de rendimento mensal domiciliar e existência de microcomputador, acesso à Internet e tipo de telefone"
+    },
+    {
+      "id": "2388",
+      "nome": "Pessoas que frequentavam creche ou escola, por grau e série que frequentavam e rede de ensino"
+    },
+    {
+      "id": "2389",
+      "nome": "Pessoas que frequentavam creche ou escola, por grau e série que frequentavam, sexo e grupos de idade"
+    },
+    {
+      "id": "2480",
+      "nome": "População residente, por avaliação do estado de saúde, situação do domicílio, sexo, grupos de idade e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "2483",
+      "nome": "População residente, por restrição de atividades nas duas últimas semanas, sexo, grupos de idade e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "2485",
+      "nome": "Número médio de dias de restrição de atividades nas duas últimas semanas, por sexo, grupos de idade e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "2487",
+      "nome": "População residente, por declaração e número de doenças crônicas declaradas, sexo, grupos de idade e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "2493",
+      "nome": "População residente, por cobertura de plano de saúde, sexo e grupos de idade"
+    },
+    {
+      "id": "2494",
+      "nome": "População residente, por cobertura de plano de saúde e situação do domicílio"
+    },
+    {
+      "id": "2495",
+      "nome": "População residente, por cobertura de plano de saúde e avaliação do estado de saúde"
+    },
+    {
+      "id": "2496",
+      "nome": "População residente, por cobertura de plano de saúde e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "2498",
+      "nome": "Pessoas que normalmente procuravam o mesmo serviço de saúde quando precisavam de atendimento de saúde, por tipo de serviço normalmente procurado, sexo, grupos de idade e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "2508",
+      "nome": "Pessoas que procuraram por serviço de saúde nas duas últimas semanas, por motivo principal da procura, situação de atendimento na primeira ou na última procura, sexo e grupos de idade"
+    },
+    {
+      "id": "2509",
+      "nome": "Pessoas que procuraram por serviço de saúde nas duas últimas semanas e não foram atendidas, por motivo principal da procura"
+    },
+    {
+      "id": "2513",
+      "nome": "Pessoas que tiveram atendimento de saúde nas duas últimas semanas, por motivo principal da procura e tipo de serviço onde foi atendido"
+    },
+    {
+      "id": "2514",
+      "nome": "População residente, por realização e número de consultas médicas nos últimos 12 meses, situação do domicílio, sexo, grupos de idade e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "2521",
+      "nome": "Pessoas que tiveram atendimento de saúde nas duas últimas semanas - exclusive as pessoas cujo principal atendimento de saúde recebido foi a marcação de consulta, por motivo principal da procura, cobertura de plano de saúde, atendimento através de plano de saúde e avaliação do atendimento"
+    },
+    {
+      "id": "2522",
+      "nome": "Pessoas que tiveram atendimento de saúde nas duas últimas semanas - exclusive as pessoas cujo principal atendimento de saúde recebido foi a marcação de consulta, por motivo principal da procura, cobertura de plano de saúde, pagamento pelo atendimento e avaliação do atendimento"
+    },
+    {
+      "id": "2523",
+      "nome": "Pessoas que tiveram atendimento de saúde nas duas últimas semanas - exclusive as pessoas cujo principal atendimento de saúde recebido foi a marcação de consulta, por motivo principal da procura, cobertura de plano de saúde, atendimento através do SUS e avaliação do atendimento"
+    },
+    {
+      "id": "2526",
+      "nome": "População residente, por situação de consulta ao dentista e época da última consulta realizada, situação do domicílio, sexo, grupos de idade e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "2530",
+      "nome": "População residente, por situação de internação hospitalar nos últimos doze meses e o número de internações, sexo e grupos de idade"
+    },
+    {
+      "id": "2532",
+      "nome": "Pessoas que estiveram internadas nos últimos doze meses, por número de internações, situação do domicílio, atendimento através de plano de saúde, avaliação do estado de saúde e classes de rendimento mensal familiar"
+    },
+    {
+      "id": "261",
+      "nome": "População residente, por situação, sexo e grupos de idade"
+    },
+    {
+      "id": "262",
+      "nome": "População residente, por cor ou raça, situação e sexo"
+    },
+    {
+      "id": "271",
+      "nome": "Pessoas de 5 anos ou mais de idade, por situação, sexo, alfabetização e grupos de idade"
+    },
+    {
+      "id": "272",
+      "nome": "Pessoas de 10 anos ou mais de idade, por situação, sexo e anos de estudo"
+    },
+    {
+      "id": "2857",
+      "nome": "Pessoas de 10 anos ou mais de idade, por naturalidade em relação ao municipio e à unidade da federação e condição de atividade na semana de referência"
+    },
+    {
+      "id": "2858",
+      "nome": "Pessoas de 5 anos ou mais de idade, por situação, sexo e alfabetização"
+    },
+    {
+      "id": "2859",
+      "nome": "Pessoas de 10 anos ou mais de idade, por condição de atividade na semana de referência, situação e grupos de idade"
+    },
+    {
+      "id": "2860",
+      "nome": "Pessoas de 10 anos ou mais de idade, por condição de atividade na semana de referência, situação e anos de estudo"
+    },
+    {
+      "id": "2861",
+      "nome": "Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal e atividade"
+    },
+    {
+      "id": "2862",
+      "nome": "Empregados de 10 anos ou mais de idade no trabalho principal da semana de referência (exclusive militares e funcionários públicos estatutários), por categoria do emprego e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "2863",
+      "nome": "Mulheres de 15 anos ou mais de idade, por indicativo e número de filhos nascidos vivos e condição de atividade na semana de referência"
+    },
+    {
+      "id": "2864",
+      "nome": "Domicílios particulares permanentes e Moradores em domicílios particulares permanentes, por tipo de domicílio e condição de ocupação"
+    },
+    {
+      "id": "2865",
+      "nome": "Pessoas de 10 anos ou mais de idade, por condição de atividade no período de referência de 365 dias, situação e grupos de idade"
+    },
+    {
+      "id": "2893",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola, por grau e a série que frequentavam e rede de ensino"
+    },
+    {
+      "id": "2900",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola, por grau e serie que frequentavam, sexo e grupos de idade"
+    },
+    {
+      "id": "2916",
+      "nome": "Pessoas de 0 a 17 anos de idade, por situação do domicílio e frequência à creche ou escola"
+    },
+    {
+      "id": "2917",
+      "nome": "Pessoas de 0 a 17 anos de idade, por grupos de idade"
+    },
+    {
+      "id": "2918",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola, por grupos de idade"
+    },
+    {
+      "id": "2919",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola (exceto de nível superior), por nível de ensino e rede de ensino que frequentavam"
+    },
+    {
+      "id": "2920",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola (exceto de nível superior), por nível de ensino e tempo de permanência diária na creche ou escola"
+    },
+    {
+      "id": "2921",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola (exceto de nível superior), por rede de ensino que frequentavam e oferta gratuita de merenda escolar ou outra refeição pela creche ou escola"
+    },
+    {
+      "id": "2922",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola (exceto de nível superior), por nível de ensino e consumo de merenda escolar ou outra refeição gratuita"
+    },
+    {
+      "id": "2923",
+      "nome": "Pessoas de 0 a 17 anos de idade que não frequentavam creche ou escola, por motivo de não frequentarem creche ou escola"
+    },
+    {
+      "id": "2924",
+      "nome": "Domicílios particulares, por recebimento de dinheiro de programa social do governo no mês de referência, situação do domicílio e classes de rendimento mensal domiciliar per capita (salários mínimos)"
+    },
+    {
+      "id": "2925",
+      "nome": "Domicílios particulares, por recebimento de dinheiro de programa social do governo no mês de referência"
+    },
+    {
+      "id": "2926",
+      "nome": "Domicílios particulares, por recebimento de dinheiro de programa social do governo no mês de referência e classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "297",
+      "nome": "Distribuição do rendimento mensal e Valor rendimento médio mensal real das pessoas de 10 anos ou mais de idade, com rendimento, por classes simples de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "298",
+      "nome": "Distribuição do rendimento mensal e Valor do rendimento médio mensal real das pessoas de 10 anos ou mais de idade, com rendimento, por classes acumuladas de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "299",
+      "nome": "Índice de Gini da distribuição do rendimento mensal das pessoas de 10 anos ou mais de idade com rendimento, por sexo"
+    },
+    {
+      "id": "2998",
+      "nome": "População residente, por situação de segurança alimentar existente no domicílio, sexo e grupos de idade"
+    },
+    {
+      "id": "2999",
+      "nome": "População residente, por situação de segurança alimentar existente no domicílio e cor ou raça"
+    },
+    {
+      "id": "3000",
+      "nome": "População residente, por situação de segurança alimentar existente no domicílio e situação do domicílio"
+    },
+    {
+      "id": "3001",
+      "nome": "Domicílios particulares e Domicílios particulares com pelo menos um morador de menos de 18 anos de idade, por sexo da pessoa de referência do domicílio, situação de segurança alimentar, situação do domicílio e número de moradores do domicílio"
+    },
+    {
+      "id": "3002",
+      "nome": "População residente, por situação de segurança alimentar existente no domicílio e classes de rendimento mensal domiciliar per capita (salários mínimos)"
+    },
+    {
+      "id": "3003",
+      "nome": "Domicílios particulares e Moradores em domicílios particulares, por situação de segurança alimentar existente no domicílio, situação do domicílio e classes de rendimento mensal domiciliar per capita (salários mínimos)"
+    },
+    {
+      "id": "3015",
+      "nome": "Domicílios particulares e Domicílios particulares com pelo menos um morador de menos de 18 anos de idade, por sexo da pessoa de referência do domicílio, situação de segurança alimentar e número de moradores do domicílio"
+    },
+    {
+      "id": "3016",
+      "nome": "Domicílios particulares e Moradores em domicílios particulares, por situação de segurança alimentar existente no domicílio e classes de rendimento mensal domiciliar per capita (salários mínimos)"
+    },
+    {
+      "id": "3017",
+      "nome": "Domicílios particulares, por situação de segurança alimentar existente no domicílio"
+    },
+    {
+      "id": "3018",
+      "nome": "Domicílios particulares, por situação de segurança alimentar existente no domicílio e situação do domicílio"
+    },
+    {
+      "id": "3019",
+      "nome": "Domicílios particulares com insegurança alimentar e com somente moradores de 18 anos ou mais de idade, por tipo de insegurança alimentar"
+    },
+    {
+      "id": "3020",
+      "nome": "Domicílios particulares com insegurança alimentar e com somente moradores de 18 anos ou mais de idade, por tipo de insegurança alimentar e situação do domicílio"
+    },
+    {
+      "id": "3021",
+      "nome": "Domicílios particulares com insegurança alimentar e com pelo menos um morador de menos de 18 anos de idade, por tipo de insegurança alimentar e situação do domicílio"
+    },
+    {
+      "id": "3022",
+      "nome": "Domicílios particulares com insegurança alimentar e com pelo menos um morador de menos de 18 anos de idade, por tipo de insegurança alimentar"
+    },
+    {
+      "id": "3023",
+      "nome": "População residente em domicílios particulares com insegurança alimentar moderada ou grave, por grupos de idade e situação do domicílio"
+    },
+    {
+      "id": "3024",
+      "nome": "População residente em domicílios particulares com insegurança alimentar moderada ou grave, por grupos de idade"
+    },
+    {
+      "id": "3025",
+      "nome": "População residente em domicílios particulares com insegurança alimentar moderada ou grave, por cor ou raça e situação do domicílio"
+    },
+    {
+      "id": "3026",
+      "nome": "População residente em domicílios particulares com insegurança alimentar moderada ou grave, por cor ou raça"
+    },
+    {
+      "id": "3027",
+      "nome": "População residente de 10 anos ou mais de idade, em domicílios particulares com insegurança alimentar moderada ou grave, por situação de ocupação no período de referência de 365 dias e situação do domicílio"
+    },
+    {
+      "id": "3028",
+      "nome": "População residente de 10 anos ou mais de idade, em domicílios particulares com insegurança alimentar moderada ou grave, por situação de ocupação no período de referência de 365 dias"
+    },
+    {
+      "id": "3029",
+      "nome": "População residente em domicílios particulares com insegurança alimentar moderada ou grave, por anos de estudo da pessoa de referência do domicílio e situação do domicílio"
+    },
+    {
+      "id": "3030",
+      "nome": "População residente em domicílios particulares com insegurança alimentar moderada ou grave, por anos de estudo da pessoa de referência do domicílio"
+    },
+    {
+      "id": "3031",
+      "nome": "População residente, de menos de 18 anos de idade, em domicílios particulares, por frequência a creche ou escola, situação de segurança alimentar existente no domicílio e situação do domicílio"
+    },
+    {
+      "id": "3032",
+      "nome": "População residente, de menos de 18 anos de idade, em domicílios particulares, por frequência à creche ou escola e situação de segurança alimentar existente no domicílio"
+    },
+    {
+      "id": "355",
+      "nome": "Pessoas de 10 anos ou mais de idade, por situação, sexo e naturalidade em relação ao município e à Unidade da Federação e condição de economicamente ativa e de ocupada na semana de referência"
+    },
+    {
+      "id": "356",
+      "nome": "Número médio de anos de estudo das pessoas de 10 anos ou mais de idade, total e ocupadas na semana de referência, por situação, sexo e grupos de idade"
+    },
+    {
+      "id": "357",
+      "nome": "Estudantes de 5 anos ou mais de idade, por situação, sexo, grupos de idade, grau e série que frequentavam e rede de ensino"
+    },
+    {
+      "id": "385",
+      "nome": "Pessoas de 10 anos ou mais de idade, por situação, sexo, condição de atividade e de ocupação na semana de referência, grupos de idade e anos de estudo"
+    },
+    {
+      "id": "386",
+      "nome": "Familias residentes em domicílios particulares e Número médio de pessoas por família residente em domicílio particular, por situação, sexo e condição de atividade na semana de referência das pessoas de referência das famílias"
+    },
+    {
+      "id": "391",
+      "nome": "Domicilios particulares permanentes, por situação, condição de ocupação e número de moradores"
+    },
+    {
+      "id": "392",
+      "nome": "Número médio de moradores em domicílio particular permanente, por situação, sexo e condição de atividade na semana de referência das pessoas de referência dos domicílios"
+    },
+    {
+      "id": "401",
+      "nome": "Distribuição do rendimento mensal e Valor do rendimento médio mensal real dos domicílios particulares permanentes, com rendimento, por classes simples de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "402",
+      "nome": "Distribuição do rendimento mensal e Valor do rendimento médio mensal real dos domicílios particulares permanentes, com rendimento, por classes acumuladas de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "4020",
+      "nome": "Pessoas de 15 anos ou mais de idade e Valor do rendimento médio mensal, por sexo, situação e classes de rendimento mensal"
+    },
+    {
+      "id": "4021",
+      "nome": "Pessoas de 15 anos ou mais de idade, por condição de atividade na semana de referência, sexo, situação e grupos de idade"
+    },
+    {
+      "id": "4022",
+      "nome": "Pessoas de 15 anos ou mais de idade, aposentadas e/ou pensionistas na semana de referência, por sexo e condição de atividade na semana de referência"
+    },
+    {
+      "id": "4023",
+      "nome": "Pessoas de 15 anos ou mais de idade, economicamente ativas na semana de referência, e Valor do rendimento médio mensal, por sexo, situação e classes de rendimento mensal"
+    },
+    {
+      "id": "4024",
+      "nome": "Pessoas de 15 anos ou mais de idade que procuraram trabalho na semana de referência, por condição de ocupação, sexo e grupos de idade"
+    },
+    {
+      "id": "4025",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por anos de estudo, sexo e classes de rendimento mensal de todos os trabalhos"
+    },
+    {
+      "id": "4026",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana em todos os trabalhos, sexo e classes de rendimento mensal de todos os trabalhos"
+    },
+    {
+      "id": "4027",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e Valor do rendimento médio mensal de todos os trabalhos, por sexo e classes de rendimento mensal de todos os trabalhos"
+    },
+    {
+      "id": "4028",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e anos de estudo"
+    },
+    {
+      "id": "4029",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e grupos de horas habitualmente trabalhadas por semana em todos os trabalhos"
+    },
+    {
+      "id": "403",
+      "nome": "Índice de Gini da distribuição do rendimento mensal dos domicílios particulares permanentes, com rendimento"
+    },
+    {
+      "id": "4030",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e classes de rendimento mensal de todos os trabalhos"
+    },
+    {
+      "id": "4031",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e contribuição para instituto de previdência em qualquer trabalho"
+    },
+    {
+      "id": "4032",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e atividade do trabalho principal"
+    },
+    {
+      "id": "4033",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e que procuraram trabalho na semana de referência, por sexo e posição na ocupação no trabalho principal"
+    },
+    {
+      "id": "4034",
+      "nome": "Pessoas de 15 anos ou mais de idade, por condição de atividade na semana de referência, sexo, situação e anos de estudo"
+    },
+    {
+      "id": "4035",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por número de trabalhos, sexo e grupos de idade"
+    },
+    {
+      "id": "4036",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por número de trabalhos, sexo e anos de estudo"
+    },
+    {
+      "id": "4037",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por número de trabalhos, sexo e associação a sindicatos"
+    },
+    {
+      "id": "4038",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por número de trabalhos, sexo e contribuição para previdência privada"
+    },
+    {
+      "id": "4039",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e grupos de idade"
+    },
+    {
+      "id": "4040",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e cor ou raça"
+    },
+    {
+      "id": "4041",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e naturalidade em relação ao município"
+    },
+    {
+      "id": "4042",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e grupos de idade com que começaram a trabalhar"
+    },
+    {
+      "id": "4043",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por situação, sexo e associação a sindicato"
+    },
+    {
+      "id": "4044",
+      "nome": "Pessoas de 15 anos ou mais de idade e Valor do rendimento médio mensal, por indicativo de rendimento, situação, sexo e condição de atividade na semana de referência"
+    },
+    {
+      "id": "4045",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e Valor do rendimento médio mensal de trabalho, por indicativo de rendimento, sexo e número de trabalhos"
+    },
+    {
+      "id": "4046",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, com mais de um trabalho, por posição na ocupação nos trabalhos principal e secundário"
+    },
+    {
+      "id": "4047",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por contribuição para instituto de previdência, sexo e grupos de idade"
+    },
+    {
+      "id": "4048",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por contribuição para instituto de previdência em qualquer trabalho, sexo e classes de rendimento mensal em todos os trabalhos"
+    },
+    {
+      "id": "4049",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência (exclusive trabalhadores na produção para o próprio consumo e trabalhadores na construção para o próprio uso), por posição na ocupação, sexo e local do estabelecimento do trabalho principal"
+    },
+    {
+      "id": "405",
+      "nome": "Famílias residentes em domicílios particulares, por classes de rendimento mensal familiar per capita"
+    },
+    {
+      "id": "4050",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por tempo de permanência no trabalho principal, sexo e posição na ocupação no trabalho principal"
+    },
+    {
+      "id": "4051",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e com rendimento no trabalho principal e Valor do rendimento médio mensal do trabalho principal, por sexo, posição na ocupação principal e classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "4052",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência e com rendimento no trabalho principal e Valor do rendimento médio mensal do trabalho principal, por sexo e posição na ocupação principal"
+    },
+    {
+      "id": "4053",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, atividade e posição na ocupação no trabalho principal"
+    },
+    {
+      "id": "4054",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, sexo e classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "4055",
+      "nome": "Empregados de 15 anos ou mais de idade, no trabalho principal da semana de referência, por categoria do emprego, sexo e grupos de idade"
+    },
+    {
+      "id": "4056",
+      "nome": "Empregados de 15 anos ou mais de idade no trabalho principal da semana de referência e Valor do rendimento médio mensal do trabalho principal, por sexo, categoria do emprego e classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "4057",
+      "nome": "Empregados de 15 anos ou mais de idade no trabalho principal da semana de referência e Valor do rendimento médio mensal do trabalho principal, por sexo e categoria do emprego"
+    },
+    {
+      "id": "4058",
+      "nome": "Empregados de 15 anos ou mais de idade, em atividade não agrícola, no setor privado, no trabalho principal da semana de referência, por número de pessoas ocupadas no trabalho principal, sexo e local de estabelecimento do trabalho principal"
+    },
+    {
+      "id": "4059",
+      "nome": "Pessoas de 15 anos ou mais de idade, por condição de atividade no período de referência de 365 dias, sexo, situação e grupos de idade"
+    },
+    {
+      "id": "4060",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por posição na ocupação no trabalho principal, sexo e grupos de idade"
+    },
+    {
+      "id": "4061",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por contribuição para instituto de previdência no trabalho principal, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4062",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por posição na ocupação no trabalho principal, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4063",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4064",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal, sexo e grupamentos ocupacionais do trabalho principal"
+    },
+    {
+      "id": "4065",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por classes de rendimento mensal do trabalho principal, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4066",
+      "nome": "Empregados de 15 anos ou mais de idade no trabalho principal da semana de referência (exclusive militares e funcionários públicos estatutários), por categoria do emprego, sexo e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4067",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas no período de referência de 365 dias, por condição de atividade e de ocupação na semana de referência, sexo e ramos de atividade do trabalho principal no período de referência de 365 dias"
+    },
+    {
+      "id": "4068",
+      "nome": "Pessoas de 15 anos ou mais de idade, por condição de atividade na semana de referência, situação e grupos de idade"
+    },
+    {
+      "id": "4069",
+      "nome": "Pessoas de 15 anos ou mais de idade, por condição de atividade na semana de referência, situação e anos de estudo"
+    },
+    {
+      "id": "4070",
+      "nome": "Pessoas de 15 anos ou mais de idade, ocupadas na semana de referência, por grupos de horas habitualmente trabalhadas por semana no trabalho principal e atividade"
+    },
+    {
+      "id": "4071",
+      "nome": "Empregados de 15 anos ou mais de idade no trabalho principal da semana de referência (exclusive militares e funcionários públicos estatutários), por categoria do emprego e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4072",
+      "nome": "Pessoas de 15 anos ou mais de idade, por condição de atividade no período de referência de 365 dias, situação e grupos de idade"
+    },
+    {
+      "id": "408",
+      "nome": "Distribuição do rendimento mensal e Valor do rendimento médio mensal real de todos os trabalhos, das pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, com rendimento de trabalho, por classes simples de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "409",
+      "nome": "Distribuição do rendimento mensal e Valor do rendimento médio mensal real de todos os trabalhos, das pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, com rendimento de trabalho, por classes acumuladas de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "411",
+      "nome": "Índice de Gini da distribuição do rendimento mensal de todos os trabalhos das pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, com rendimento de trabalho, por sexo"
+    },
+    {
+      "id": "422",
+      "nome": "Empregados e trabalhadores domésticos de 10 anos ou mais de idade, no trabalho principal da semana de referência, e Valor do rendimento médio mensal do trabalho principal, por sexo, categoria do emprego e classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "423",
+      "nome": "Trabalhadores domésticos de 10 anos ou mais de idade, no trabalho principal da semana de referência, e Valor do rendimento médio mensal do trabalho principal, por sexo, categoria do emprego e classes de rendimento mensal do trabalho principal"
+    },
+    {
+      "id": "424",
+      "nome": "Valor do rendimento e Número-índice do rendimento médio mensal real das pessoas de 10 anos ou mais de idade, por sexo"
+    },
+    {
+      "id": "425",
+      "nome": "Valor do rendimento e Número-índice do rendimento médio mensal real do trabalho principal dos empregados de 10 anos ou mais de idade, no trabalho principal da semana de referência, por categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "427",
+      "nome": "Valor do rendimento e Número-índice do rendimento médio mensal real de todos os trabalhos das pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, por sexo"
+    },
+    {
+      "id": "428",
+      "nome": "Valor do rendimento e Número-índice do rendimento médio mensal real do trabalho principal dos trabalhadores domésticos de 10 anos ou mais de idade, no trabalho principal da semana de referência, por categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "429",
+      "nome": "Valor do rendimento e Número-índice do rendimento médio mensal real do trabalho principal dos conta própria de 10 anos ou mais de idade, no trabalho principal da semana de referência, com rendimento do trabalho principal"
+    },
+    {
+      "id": "430",
+      "nome": "Valor do rendimento e Número-índice do rendimento médio mensal real dos domicílios particulares permanentes, com rendimento, por classes simples de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "431",
+      "nome": "Valor do rendimento e Número-índice do rendimento médio mensal real dos domicílios particulares permanentes, com rendimento, por classes acumuladas de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "4813",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo e grupos de idade"
+    },
+    {
+      "id": "4818",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram Internet no período de referência dos últimos três meses, total, percentual, rendimentos médio e mediano domiciliares per capita, por equipamento utilizado para acessar a Internet"
+    },
+    {
+      "id": "4820",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, total, distribuição e percentuais, por sexo e grupos de idade"
+    },
+    {
+      "id": "4821",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por utilização da Internet no período de referência dos últimos três meses, e classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4822",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por situação do domicílio, o sexo e a utilização da Internet, no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4823",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo e grupos de anos de estudo"
+    },
+    {
+      "id": "4824",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, total, distribuição e percentual, por sexo e grupos de anos de estudo"
+    },
+    {
+      "id": "4825",
+      "nome": "Pessoas de 10 anos ou mais de idade ocupadas na semana de referência, total e distribuição, por utilização da Internet, no período de referência dos últimos três meses, e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4826",
+      "nome": "Pessoas de 10 anos ou mais de idade que não utilizaram a Internet no período de referência dos últimos três meses, total e distribuição, por sexo e grupos de idade"
+    },
+    {
+      "id": "4827",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, total, distribuição e percentual, por sexo e o nível de instrução"
+    },
+    {
+      "id": "4828",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade ocupadas na semana de referência que utilizaram Internet no período de referência dos últimos três meses, por grupamentos ocupacionais no trabalho principal"
+    },
+    {
+      "id": "4829",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade ocupadas na semana de referência que utilizaram Internet no período de referência dos últimos três meses, por grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4830",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade ocupadas na semana de referência que utilizaram Internet no período de referência dos últimos três meses, por posição na ocupação e a categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "4831",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo e o nível de instrução"
+    },
+    {
+      "id": "4832",
+      "nome": "Pessoas de 10 anos ou mais de idade que não utilizaram a Internet no período de referência dos últimos três meses, total e distribuição, por sexo e nível de instrução"
+    },
+    {
+      "id": "4833",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por condição de estudante e posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4834",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo, condição de estudante, rede de ensino que frequentavam e utilização da Internet no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4835",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo, condição de atividade na semana de referência e a utilização da Internet no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4836",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo, situação de ocupação na semana de referência e a utilização da Internet no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4837",
+      "nome": "Pessoas de 10 anos ou mais de idade que não utilizaram Internet no período de referência dos últimos três meses, total e distribuição, por sexo e os grupos de anos de estudo"
+    },
+    {
+      "id": "4838",
+      "nome": "Pessoas de 10 anos ou mais de idade ocupadas na semana de referência, total e distibuição, por utilização da Internet no período de referência dos últimos três meses e grupamentos ocupacionais no trabalho principal"
+    },
+    {
+      "id": "4839",
+      "nome": "Estudantes de 10 anos ou mais de idade, total e distribuição, por sexo, a situação de ocupação na semana de referência e a utilização da Internet, no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4840",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por utilização da Internet no período de referência dos últimos três meses e classes de rendimento mensal"
+    },
+    {
+      "id": "4841",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, por classes de rendimento mensal"
+    },
+    {
+      "id": "4842",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4843",
+      "nome": "Pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, total, distribuição e percentual, por sexo e grupos de idade"
+    },
+    {
+      "id": "4844",
+      "nome": "Rendimento médio e mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade, por Utilização da Internet, no período de referência dos últimos três meses, e nível de instrução"
+    },
+    {
+      "id": "4845",
+      "nome": "Rendimento médio e mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade, por Utilização da Internet, no período de referência dos últimos três meses, e grupos de anos de estudos"
+    },
+    {
+      "id": "4846",
+      "nome": "Pessoas de 10 anos ou mais de idade que não tinham telefone móvel celular para uso pessoal, total e distribuição, por sexo e grupos de idade"
+    },
+    {
+      "id": "4847",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por situação do domicílio, sexo e posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4848",
+      "nome": "Pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, total, distribuição e percentual, por sexo e grupos de anos de estudo"
+    },
+    {
+      "id": "4849",
+      "nome": "Pessoas de 10 anos ou mais de idade que não tinham telefone móvel celular para uso pessoal, total e distribuição, por sexo e grupos de anos de estudo"
+    },
+    {
+      "id": "4850",
+      "nome": "Pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, total, distribuição e percentual, por sexo e nível de instrução"
+    },
+    {
+      "id": "4851",
+      "nome": "Pessoas de 10 anos ou mais de idade que não tinham telefone móvel celular para uso pessoal, total e distribuição, por sexo e nível de instrução"
+    },
+    {
+      "id": "4852",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4853",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por posse de telefone móvel celular para uso pessoal e classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4854",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo, condição de estudante, rede de ensino que frequentavam e posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4855",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo, situação de ocupação na semana de referência e posse de telefone móvel celular para uso pessoa"
+    },
+    {
+      "id": "4856",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, por classes de rendimento mensal"
+    },
+    {
+      "id": "4857",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por grupos de idade"
+    },
+    {
+      "id": "4858",
+      "nome": "Domicílios particulares permanentes com televisão e moradores em domicílios particulares permanentes com televisão, total, percentual e distribuição, por acesso a televisão por assinatura"
+    },
+    {
+      "id": "4859",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo e utilização da Internet no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4860",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, total, distribuição e percentual, por grupos de idade"
+    },
+    {
+      "id": "4861",
+      "nome": "Pessoas de 10 anos ou mais de idade ocupadas na semana de referência, total e distibuição, por utilização da Internet, no período de referência dos últimos três meses, posição na ocupação e categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "4862",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, total, percentual e distribuição, por situação do domicílio"
+    },
+    {
+      "id": "4863",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por grupos de anos de estudo"
+    },
+    {
+      "id": "4864",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, total, distribuição e percentual, por grupos de anos de estudo"
+    },
+    {
+      "id": "4865",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por nível de instrução"
+    },
+    {
+      "id": "4866",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, total, distribuição e percentual, por nível de instrução"
+    },
+    {
+      "id": "4867",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por condição de estudante e utilização da Internet no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4868",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo, condição de atividade na semana de referência e posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4869",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por condição de atividade na semana de referência e utilização da Internet no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4870",
+      "nome": "Estudantes de 10 anos ou mais de idade, total e distribuição, por sexo, situação de ocupação na semana de referência e posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4871",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por situação de ocupação na semana de referência e utilização da Internet no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4872",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por classes de rendimento mensal"
+    },
+    {
+      "id": "4873",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por posse de telefone móvel celular para uso pessoal e grupamento ocupacionais no trabalho principal"
+    },
+    {
+      "id": "4874",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, por grupamentos ocupacionais no trabalho principal"
+    },
+    {
+      "id": "4875",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, total, distribuição e percentual, por classes de rendimento mensal"
+    },
+    {
+      "id": "4876",
+      "nome": "Pessoas de 10 anos ou mais de idade ocupadas na semana de referência, total e distibuição, por posse de telefone móvel celular para uso pessoal e grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4877",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, por grupamentos de atividade do trabalho principal"
+    },
+    {
+      "id": "4878",
+      "nome": "Pessoas de 10 anos ou mais de idade ocupadas na semana de referência, total e distibuição, por posse de telefone móvel celular para uso pessoal, posição na ocupação e a categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "4879",
+      "nome": "Percentual de pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, por posição na ocupação e categoria do emprego no trabalho principal"
+    },
+    {
+      "id": "4880",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4881",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por posse de telefone móvel celular para uso pessoal e as classes de rendimento mensal"
+    },
+    {
+      "id": "4882",
+      "nome": "Pessoas de 10 anos ou mais de idade que utilizaram a Internet, no período de referência dos últimos três meses, total, distribuição e percentual, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4883",
+      "nome": "Rendimento médio e mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade, por posse de telefone móvel celular para uso pessoal e grupos de anos de estudo"
+    },
+    {
+      "id": "4884",
+      "nome": "Rendimento médio e mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade, por utilização da Internet, no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4885",
+      "nome": "Rendimento médio e mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade, por posse de telefone móvel celular para uso pessoal e nível de instrução"
+    },
+    {
+      "id": "4886",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por sexo e posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4887",
+      "nome": "Pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, total, percentual e distribuição, por grupos de idade"
+    },
+    {
+      "id": "4888",
+      "nome": "Pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, total, percentual e distribuição, por nível de instrução"
+    },
+    {
+      "id": "4889",
+      "nome": "Pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, total, percentual e distribuição, por grupos de anos de estudo"
+    },
+    {
+      "id": "4890",
+      "nome": "Pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, total, percentual e distribuição, por classe de rendimento mensal"
+    },
+    {
+      "id": "4891",
+      "nome": "Pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, total, percentual e distribuição, por classe de rendimento mensal per capita"
+    },
+    {
+      "id": "4892",
+      "nome": "Rendimento médio e mediano mensal domiciliar per capita das pessoas de 10 anos ou mais de idade, por posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4893",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por condição de atividade na semana de referência e posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4894",
+      "nome": "Pessoas de 10 anos ou mais de idade, total e distribuição, por situação de ocupação na semana de referência e posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4895",
+      "nome": "Pessoas de 10 anos ou mais de idade que tinham telefone móvel celular para uso pessoal, total e distribuição, por situação do domicílio"
+    },
+    {
+      "id": "4896",
+      "nome": "Não estudantes de 10 anos ou mais de idade, total e distribuição, por sexo, a situação de ocupação na semana de referência e a utilização da Internet, no período de referência dos últimos três meses"
+    },
+    {
+      "id": "4897",
+      "nome": "Não estudantes de 10 anos ou mais de idade, total e distribuição, por sexo, situação de ocupação na semana de referência e posse de telefone móvel celular para uso pessoal"
+    },
+    {
+      "id": "4898",
+      "nome": "Domicílios particulares permanentes com televisão, total e distribuição, por recepção de sinal de televisão por antena parabólica e as classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4899",
+      "nome": "Domicílios particulares permanentes com televisão, total e distribuição, por acesso a televisão por assinatura, recepção de sinal de televisão por antena parabólica e de sinal digital de televisão aberta"
+    },
+    {
+      "id": "4900",
+      "nome": "Rendimento, médio e mediano, mensal per capita dos domicílios particulares permanentes com televisão, por acesso a televisão por assinatura"
+    },
+    {
+      "id": "4901",
+      "nome": "Moradores em domicílios particulares permanentes com televisão, total e distribuição, por acesso a televisão por assinatura, recepção de sinal de televisão por antena parabólica e de sinal digital de televisão aberta"
+    },
+    {
+      "id": "4902",
+      "nome": "Percentual de domicílios com recepção de sinal de televisão por antena parabólica no total de domicílios particulares permanentes com televisão, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4903",
+      "nome": "Domicílios particulares permanentes com televisão e moradores em domicílios particulares permanentes com televisão, total, percentual e distribuição, por recepção de sinal digital de televisão aberta"
+    },
+    {
+      "id": "4904",
+      "nome": "Domicílios particulares permanentes com televisão, total e distribuição, por situação do domicílio, acesso a televisão por assinatura, recepção de sinal de televisão por antena parabólica e de sinal digital de televisão aberta"
+    },
+    {
+      "id": "4905",
+      "nome": "Moradores em domicílios particulares permanentes com televisão, total e distribuição, por recepção de sinal de televisão por antena parabólica e as classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4906",
+      "nome": "Rendimento, médio e mediano, mensal per capita dos domicílios particulares permanentes com televisão, por recepção de sinal digital de televisão aberta"
+    },
+    {
+      "id": "4907",
+      "nome": "Moradores em domicílios particulares permanentes com televisão, total e distribuição, por situação do domicílio, acesso a televisão por assinatura, recepção de sinal de televisão por antena parabólica e de sinal digital de televisão aberta"
+    },
+    {
+      "id": "4908",
+      "nome": "Domicílios particulares permanentes com televisão, total e distribuição, por situação do domicílio, acesso a televisão por assinatura e rcepção de sinal de televisão por antena parabólica"
+    },
+    {
+      "id": "4909",
+      "nome": "Moradores em domicílios particulares permanentes com televisão, total e distribuição, por situação do domicílio, acesso a televisão por assinatura e recepção de sinal de televisão por antena parabólica"
+    },
+    {
+      "id": "4910",
+      "nome": "Domicílios particulares permanentes com televisão e moradores em domicílios particulares permanentes com televisão, total, percentual e distribuição, por recepção de sinal de televisão por antena parabólica"
+    },
+    {
+      "id": "4911",
+      "nome": "Percentual de domicílios com recepção de sinal de televisão por antena parabólica no total de domicílios particulares permanentes com televisão, por classes de rendimento mensal per capita"
+    },
+    {
+      "id": "4912",
+      "nome": "Rendimento, médio e mediano, mensal per capita dos domicílios particulares permanentes com televisão, por recepção de sinal de televisão por antena parabólica"
+    },
+    {
+      "id": "4913",
+      "nome": "Domicílios particulares permanentes com televisão, total e distribuição, por acesso a televisão por assinatura e classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4914",
+      "nome": "Percentual de domicílios com acesso a televisão por assinatura no total de domicílios particulares permanentes com televisão, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4915",
+      "nome": "Domicílios particulares permanentes com televisão, total, percentual e distribuição, por tipo de televisão e número de televisões"
+    },
+    {
+      "id": "4916",
+      "nome": "Domicílios particulares permanentes com televisão de tubo, total e percentual, por recepção de sinal de televisão por antena parabólica e o acesso a televisão por assinatura"
+    },
+    {
+      "id": "4917",
+      "nome": "Moradores em domicílios particulares permanentes com televisão, total e distribuição, por acesso a televisão por assinatura e classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4918",
+      "nome": "Moradores em domicílios particulares permanentes com televisão de tubo, total e percentual, por recepção de sinal de televisão por antena parabólica e o acesso a televisão por assinatura"
+    },
+    {
+      "id": "4919",
+      "nome": "Percentual dos moradores em domicílios particulares permanentes com televisão, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4920",
+      "nome": "Domicílios particulares permanentes com televisão, televisões existentes nos domicílios particulares permanentes e média de televisões em domicílios particulares permanentes, total, por tipo de televisão"
+    },
+    {
+      "id": "4921",
+      "nome": "Rendimento médio e mediano mensal per capita dos domicílios particulares permanentes com televisão de tubo, total, por recepção de sinal de televisão por antena parabólica, e o acesso a televisão por assinatura"
+    },
+    {
+      "id": "4922",
+      "nome": "Domicílios particulares permanentes com televisão, total e distribuição, por recepção de sinal digital de televisão aberta e as classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4923",
+      "nome": "Domicílios particulares permanentes com televisão, total e percentual, e rendimento médio e mediano, mensal per capita dos domicílios particulares permanentes com televisão, por tipo de televisão e número de televisões"
+    },
+    {
+      "id": "4924",
+      "nome": "Percentual de domicílios com recepção de sinal digital de televisão aberta no total de domicílios particulares permanentes com televisão, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4925",
+      "nome": "Domicílios particulares permanentes com televisão, total, por situação do domicílio e o tipo de televisão"
+    },
+    {
+      "id": "4926",
+      "nome": "Rendimento, médio e mediano, mensal per capita dos domicílios particulares permanentes com televisão, por situação do domicílio"
+    },
+    {
+      "id": "4927",
+      "nome": "Moradores em domicílios particulares permanentes com televisão, total e distribuição, por recepção de sinal digital de televisão aberta e as classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "4928",
+      "nome": "Televisões existentes nos domicílios particulares permanentes, total, por situação do domicílio e o tipo de televisão"
+    },
+    {
+      "id": "4929",
+      "nome": "Percentual de moradores em domicílios com acesso a televisão por assinatura no total de moradores em domicílios particulares permanentes com televisão, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "5144",
+      "nome": "Domicílios particulares permanentes, total e percentual, por existência de utilização da Internet no domicílio"
+    },
+    {
+      "id": "5152",
+      "nome": "Domicílios particulares permanentes, moradores em domicílios particulares permanentes e rendimento, médio e mediano, mensal per capita dos domicílios particulares permanentes, total, por existência de tablet no domicílio"
+    },
+    {
+      "id": "5153",
+      "nome": "Moradores em domicílios particulares permanentes, total e percentual, por existência de utilização da Internet no domicílio"
+    },
+    {
+      "id": "5164",
+      "nome": "Domicílios particulares permanentes, total e distribuição, por existência de utilização da Internet no domicílio e classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "5165",
+      "nome": "Percentual de domicílios particulares permanentes, distribuído pelas classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "5166",
+      "nome": "Moradores em domicílios particulares permanentes, total e distribuição, por existência de utilização da Internet no domicílio e classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "5167",
+      "nome": "Percentual de moradores em domicílios com utilização da Internet no total de domicílios particulares permanentes, por classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "5168",
+      "nome": "Domicílios particulares permanentes e moradores em domicílios particulares permanentes, total e distribuição, por situação do domicílio e existência de microcomputador ou tablet no domicílio"
+    },
+    {
+      "id": "5169",
+      "nome": "Rendimento, médio e mediano, mensal per capita dos domicílios particulares permanentes, por situação no domicílio e existência de microcomputador ou tablet no domicílio"
+    },
+    {
+      "id": "5170",
+      "nome": "Domicílios particulares permanentes e moradores em domicílios particulares permanentes, total e distribuição, por existência de utilização da Internet no domicílio"
+    },
+    {
+      "id": "5171",
+      "nome": "Rendimento, médio e mediano, mensal per capita dos domicílios particulares permanentes, por existência de utilização da Internet no domicílio"
+    },
+    {
+      "id": "5172",
+      "nome": "Domicílios particulares permanentes e moradores em domicílios particulares permanentes, total e distribuição, por existência de tablet no domicílio"
+    },
+    {
+      "id": "5173",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por equipamento utilizado para acessar a Internet no domicílio"
+    },
+    {
+      "id": "5174",
+      "nome": "Domicílios particulares permanentes e moradores em domicílios particulares permanentes, total e distribuição, por existência de microcomputador ou tablet no domicílio"
+    },
+    {
+      "id": "5175",
+      "nome": "Rendimento, médio e mediano, mensal per capita dos domicílios particulares permanentes, por equipamento utilizado para acessar a Internet no domicílio"
+    },
+    {
+      "id": "5176",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por equipamento utilizado para acessar a Internet no domicílio"
+    },
+    {
+      "id": "5177",
+      "nome": "Domicílios particulares permanentes com utilização da Internet e moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por utilização de microcomputador ou telefone móvel celular para acessar a Internet no domicílio"
+    },
+    {
+      "id": "5190",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por microcomputador"
+    },
+    {
+      "id": "5191",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por microcomputador"
+    },
+    {
+      "id": "5192",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por telefone móvel celular"
+    },
+    {
+      "id": "5197",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por telefone móvel celular"
+    },
+    {
+      "id": "5199",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por tablet"
+    },
+    {
+      "id": "5200",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por tablet"
+    },
+    {
+      "id": "5201",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por microcomputador ou tablet"
+    },
+    {
+      "id": "5202",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por microcomputador ou tablet"
+    },
+    {
+      "id": "5203",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por telefone móvel celular ou tablet"
+    },
+    {
+      "id": "5204",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por telefone móvel celular ou tablet"
+    },
+    {
+      "id": "5233",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por situação do domicílio e a existência de conexão à Internet por banda larga no domicílio"
+    },
+    {
+      "id": "5234",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por situação do domicílio e existência de conexão à Internet por banda larga no domicílio"
+    },
+    {
+      "id": "5235",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e percentual, por tipo de conexão à Internet no domicílio"
+    },
+    {
+      "id": "5236",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e percentual, por tipo de conexão à Internet no domicílio"
+    },
+    {
+      "id": "5237",
+      "nome": "Rendimento, médio e mediano, mensal per capita dos domicílios particulares permanentes, por tipo de conexão à Internet no domicílio"
+    },
+    {
+      "id": "5238",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por banda larga"
+    },
+    {
+      "id": "5239",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por tipo banda larga"
+    },
+    {
+      "id": "5240",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por banda larga fixa"
+    },
+    {
+      "id": "5241",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por tipo banda larga fixa"
+    },
+    {
+      "id": "5242",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por banda larga móvel"
+    },
+    {
+      "id": "5243",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por tipo banda larga móvel"
+    },
+    {
+      "id": "5244",
+      "nome": "Domicílios particulares permanentes com utilização da Internet, total e distribuição, por banda larga fixa e móvel"
+    },
+    {
+      "id": "5245",
+      "nome": "Moradores em domicílios particulares permanentes com utilização da Internet, total e distribuição, por tipo banda larga fixa e móvel"
+    },
+    {
+      "id": "565",
+      "nome": "Distribuição do rendimento mensal, Valor do rendimento e Número-índice do rendimento médio mensal real das pessoas de 10 anos ou mais de idade, com rendimento, por classes simples de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "566",
+      "nome": "Distribuição do rendimento mensal, Valor do rendimento e Número-índice do rendimento médio mensal real das pessoas de 10 anos ou mais de idade, com rendimento, por classes acumuladas de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "567",
+      "nome": "Índice de Gini da distribuição do rendimento mensal das pessoas de 10 anos ou mais de idade com rendimento, por sexo (exceto a área rural da Região Norte - exclusive a de Tocantins)"
+    },
+    {
+      "id": "568",
+      "nome": "Distribuição do rendimento mensal, Valor do rendimento e Número-índice do rendimento médio mensal real de todos os trabalhos, das pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, com rendimento de trabalho, por classes simples de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "569",
+      "nome": "Distribuição do rendimento mensal, Valor do rendimento e Número-índice do rendimento médio mensal real de todos os trabalhos, das pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, com rendimento de trabalho, por classes acumuladas de percentual em ordem crescente de rendimento"
+    },
+    {
+      "id": "570",
+      "nome": "Índice de Gini da distribuição do rendimento mensal de todos os trabalhos das pessoas de 10 anos ou mais de idade, ocupadas na semana de referência, com rendimento de trabalho, por sexo (exceto a área rural da Região Norte - exclusive a de Tocantins)"
+    },
+    {
+      "id": "573",
+      "nome": "Índice de Gini da distribuição do rendimento mensal dos domicílios particulares permanentes, com rendimento (exceto a área rural de Rondônia, Acre, Amazonas, Roraima, Pará e Amapá)"
+    },
+    {
+      "id": "867",
+      "nome": "Pessoas de 0 a 17 anos de idade, por frequência à creche ou escola"
+    },
+    {
+      "id": "868",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola, por nível de ensino, sexo e grupos de idade"
+    },
+    {
+      "id": "869",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola, mas não compareceram pelo menos um dia no período de referência de 60 dias, por principal motivo de não terem comparecido à creche ou escola e grupos de idade"
+    },
+    {
+      "id": "870",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola, por nível de ensino e rede de ensino que frequentavam"
+    },
+    {
+      "id": "871",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola, por nível de ensino e tempo de permanência diária na creche ou escola"
+    },
+    {
+      "id": "872",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola, por rede de ensino que frequentavam e oferta gratuita de merenda escolar ou outra refeição pela creche ou escola"
+    },
+    {
+      "id": "873",
+      "nome": "Pessoas de 0 a 17 anos de idade que frequentavam creche ou escola, por nível de ensino e consumo de merenda escolar ou outra refeição gratuita"
+    },
+    {
+      "id": "880",
+      "nome": "Domicílios particulares e Moradores em domicílios particulares, por tipo de programa social do governo e recebimento de dinheiro de programa social do governo, no mês de referência"
+    },
+    {
+      "id": "881",
+      "nome": "Domicílios particulares, por recebimento de dinheiro de programa social do governo, no mês de referência e classes de rendimento mensal domiciliar per capita"
+    },
+    {
+      "id": "882",
+      "nome": "Valor do rendimento médio mensal domiciliar per capita dos domicílios particulares, por recebimento de dinheiro de programa social do governo, no mês de referência e tipo de programa social do governo"
+    },
+    {
+      "id": "883",
+      "nome": "Domicílios particulares permanentes, por recebimento de dinheiro de programa social do governo, no mês de referência e algumas características existentes nos domicílios"
+    },
+    {
+      "id": "884",
+      "nome": "Domicílios particulares permanentes, por recebimento de dinheiro de programa social do governo, no mês de referência e bens duráveis existentes nos domicílios"
+    },
+    {
+      "id": "885",
+      "nome": "População residente, por recebimento de dinheiro de programa social do governo, por algum morador do domicílio, no mês de referência e grupos de idade"
+    },
+    {
+      "id": "886",
+      "nome": "Pessoas de 10 anos ou mais de idade, por recebimento de dinheiro de programa social do governo, por algum morador do domicílio, no mês de referência e grupos de idade"
+    },
+    {
+      "id": "887",
+      "nome": "Pessoas de 0 a 17 anos de idade, total e que frequentavam escola ou creche, por recebimento de dinheiro de programa social do governo, por algum morador do domicílio, no mês de referência e grupos de idade"
+    },
+    {
+      "id": "888",
+      "nome": "Pessoas de 5 a 17 anos de idade, total e ocupadas na semana de referência, por recebimento de dinheiro de programa social do governo, por algum morador do domicílio, no mês de referência e grupos de idade"
+    },
+    {
+      "id": "889",
+      "nome": "Pessoas de referência dos domicílios, de 10 anos ou mais de idade, total, analfabetas e ocupadas na semana de referência, por recebimento de dinheiro de programa social do governo, por algum morador do domicílio, no mês de referência e sexo"
+    },
+    {
+      "id": "983",
+      "nome": "Estudantes de 4 anos ou mais de idade, por rede de ensino que frequentavam, sexo, o nível de ensino, a duração do ensino fundamental e a série que frequentavam"
+    },
+    {
+      "id": "984",
+      "nome": "Pessoas que frequentavam creche ou escola, por nível de ensino e rede de ensino que frequentavam, sexo e grupos de idade"
+    },
+    {
+      "id": "985",
+      "nome": "Estudantes do ensino fundamental, de 5 anos ou mais de idade, por duração do ensino fundamental, série e rede de ensino que frequentavam, sexo e grupos de idades"
+    }
+  ]
+}

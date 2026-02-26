@@ -1,0 +1,303 @@
+﻿id,nome
+1,"Receita operacional líquida e subvenções das empresas de transporte rodoviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+1496,Resultados das atividades de alojamento e alimentação
+1498,Consumo intermediário das atividades de alojamento e alimentação
+1499,Gastos com pessoal das atividades de alojamento e alimentação
+1500,Demonstrativo da receita das empresas de alojamento
+1501,Demonstrativo da receita das empresas de alimentação
+1502,Demonstrativo da receita das empresas de alojamento com 20 ou mais pessoas ocupadas
+1503,Demonstrativo da receita das empresas de alimentação com 20 ou mais pessoas ocupadas
+1504,Custos e despesas das empresas de alojamento
+1506,Custos e despesas das empresas de alimentação
+1507,Custos e despesas das empresas de alojamento com 20 ou mais pessoas ocupadas
+1508,Custos e despesas das empresas de alimentação com 20 ou mais pessoas ocupadas
+1509,Gastos com pessoal das empresas de alojamento
+1510,Gastos com pessoal das empresas de alimentação
+1511,Gastos com pessoal das empresas de alojamento com 20 ou mais pessoas ocupadas
+1512,Gastos com pessoal das empresas de alimentação com 20 ou mais pessoas ocupadas
+1513,Número de empresas e pessoal ocupado da atividade de alojamento
+1514,Número de empresas e pessoal ocupado da atividade de alimentação
+1515,Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado da atividade de alojamento
+1516,Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado da atividade de alimentação
+1517,Dados gerais das empresas de alojamento e alimentação (1998 a 2000)
+1526,Resultados das atividades de transportes e serviços auxiliares dos transportes
+1527,Consumo intermediário das atividades de transportes e serviços auxiliares de transportes
+1528,Gastos com pessoal das atividades de transportes e serviços auxiliares de transportes
+1529,Demonstrativo da receita das empresas de transportes e serviços auxiliares de transportes
+1530,Demonstrativo da receita das empresas de transportes e serviços auxiliares de transportes com 20 ou mais pessoas ocupadas
+1531,Custos e despesas das empresas de transportes e serviços auxiliares de transportes
+1532,Custos e despesas das empresas de transportes e serviços auxiliares de transportes com 20 ou mais pessoas ocupadas
+1533,Gastos com pessoal das empresas de transportes e serviços auxiliares de transportes
+1534,Gastos com pessoal das empresas de transportes e serviços auxiliares de transportes com 20 ou mais pessoas ocupadas
+1536,Número de empresas e pessoal ocupado das atividades de transportes e serviços auxiliares dos transportes
+1537,Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades de transportes e serviços auxiliares dos transportes
+1538,Dados gerais das empresas de transportes e serviços auxiliares dos transportes (1998 a 2000)
+1544,Demonstrativo da receita das empresas de correio e telecomunicações com 20 ou mais pessoas ocupadas
+1546,Custos e despesas das empresas de correio e telecomunicações com 20 ou mais pessoas ocupadas
+1548,Gastos com pessoal das empresas de correio e telecomunicações com 20 ou mais pessoas ocupadas
+1550,Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades de correio e telecomunicações
+1556,Resultados das atividades de informática
+1557,Consumo intermediário das atividades de informática
+1558,Gastos com pessoal das atividades de informática
+1559,Demonstrativo da receita das empresas de informática
+1560,Demonstrativo da receita das empresas de informática com 20 ou mais pessoas ocupadas
+1562,Custos e despesas das empresas de informática
+1563,Custos e despesas das empresas de informática com 20 ou mais pessoas ocupadas
+1564,Gastos com pessoal das empresas de informática
+1565,Gastos com pessoal das empresas de informática com 20 ou mais pessoas ocupadas
+1566,Número de empresas e pessoal ocupado das atividades de informática
+1567,Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades de informática
+1568,Dados gerais das empresas de informática
+1574,Demonstrativo da receita das empresas imobiliárias e de aluguel de bens móveis e imóveis com 20 ou mais pessoas ocupadas
+1576,Custos e despesas das empresas imobiliárias e de aluguel de bens móveis e imóveis com 20 ou mais pessoas ocupadas
+1578,Gastos com pessoal das empresas imobiliárias e de aluguel de bens móveis e imóveis com 20 ou mais pessoas ocupadas
+1580,Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades imobiliárias e de aluguel de bens móveis e imóveis
+1582,Resultados das atividades de serviços prestados às empresas
+1583,Consumo intermediário das atividades de serviços prestados às empresas
+1584,Gastos com pessoal das atividades de serviços prestados às empresas
+1585,Demonstrativo da receita das empresas de serviços prestados às empresas
+1586,Demonstrativo da receita das empresas de serviços prestados às empresas com 20 ou mais pessoas ocupadas
+1587,Custos e despesas das empresas de serviços prestados às empresas
+1588,Custos e despesas das empresas de serviços prestados às empresas com 20 ou mais pessoas ocupadas
+1590,Gastos com pessoal das empresas de serviços prestados às empresas
+1591,Gastos com pessoal das empresas de serviços prestados às empresas com 20 ou mais pessoas ocupadas
+1592,Número de empresas e pessoal ocupado das empresas de serviços prestados às empresas
+1593,Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das atividades de serviços prestados às empresas
+1596,Resultados das outras atividades
+1597,Consumo intermediário das outras atividades
+1598,Gastos com pessoal das outras atividades
+1600,Demonstrativo da receita das empresas de outras atividades
+1601,Demonstrativo da receita das empresas de outras atividades com 20 ou mais pessoas ocupadas
+1602,Custos e despesas das empresas de outras atividades
+1603,Custos e despesas das empresas de outras atividades com 20 ou mais pessoas ocupadas
+1604,Gastos com pessoal das empresas de outras atividades
+1605,Gastos com pessoal das empresas de outras atividades com 20 ou mais pessoas ocupadas
+1606,Número de empresas e pessoal ocupado das outras atividades
+1607,Número de empresas com 20 ou mais pessoas ocupadas e pessoal ocupado das outras atividades
+1632,Resultados das atividades de correio e telecomunicações
+1633,Consumo intermediário das atividades de correio e telecomunicações
+1634,Gastos com pessoal das atividades de correio e telecomunicações
+1635,Resultados das atividades imobiliárias e de aluguel de bens móveis e imóveis
+1636,Consumo intermediário das atividades imobiliárias e de aluguel de bens móveis e imóveis
+1637,Gastos com pessoal das atividades imobiliárias e de aluguel de bens móveis e imóveis
+1638,Demonstrativo da receita das empresas de correio e telecomunicações
+1639,Custos e despesas das empresas de correio e telecomunicações
+1640,Gastos com pessoal das empresas de correio e telecomunicações
+1641,Número de empresas e pessoal ocupado das atividades de correio e telecomunicações
+1642,Demonstrativo da receita das empresas imobiliárias e de aluguel de bens móveis e imóveis
+1643,Custos e despesas das empresas imobiliárias e de aluguel de bens móveis e imóveis
+1644,Gastos com pessoal das empresas imobiliárias e de aluguel de bens móveis e imóveis
+1645,Número de empresas e pessoal ocupado das atividades imobiliárias e de aluguel de bens móveis e imóveis
+1660,Dados gerais das empresas de correio e telecomunicações (1998 a 2000)
+1661,Dados gerais das empresas imobiliárias e de aluguel de bens móveis e imóveis (1998 a 2000)
+1662,Dados gerais das empresas de serviços prestados às empresas (1998 a 2000)
+1663,Dados gerais das empresas de outras atividades (1998 a 2000)
+17,"Receita operacional líquida e subvenções das empresas de transporte rodoviário predominantemente de passageiros com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+18,"Receita operacional líquida e subvenções das empresas de transporte rodoviário predominantemente de cargas com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2207,"Receita operacional líquida das empresas de transporte rodoviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2208,"Receita operacional líquida das empresas de transporte rodoviário predominantemente de passageiros com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2209,"Receita operacional líquida das empresas de transporte rodoviário predominantemente de cargas com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2210,"Receita operacional líquida das empresas de transporte ferroviário/metroviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2211,"Receita operacional líquida das empresas de transporte aquaviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2212,"Receita operacional líquida das empresas de transporte aéreo com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2213,"Receita operacional líquida das empresas de transporte rodoviário e aéreo de cargas com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2214,"Receita operacional líquida nas empresas de informática com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2215,"Receita operacional líquida nas empresas de telecomunicações com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2216,"Receita operacional líquida nas empresas de serviços audiovisuais com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2325,Dados gerais das empresas de alojamento e alimentação
+2326,Dados gerais das empresas de transportes e serviços auxiliares dos transportes
+2327,Dados gerais das empresas de correio e telecomunicações
+2328,Dados gerais das empresas imobiliárias e de aluguel de bens móveis e imóveis
+2329,Dados gerais das empresas de serviços prestados às empresas
+2330,Dados gerais das empresas de outras atividades
+2341,"Receita operacional líquida das empresas de informática com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2342,"Receita operacional líquida das empresas de telecomunicações com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2343,"Receita operacional líquida das empresas de serviços audiovisuais com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+2344,"Receita operacional líquida por origem da receita, segundo as atividades"
+2577,"Receita operacional líquida, Valor adicionado, Salários, Retiradas e outras remunerações, Pessoal ocupado e Número de empresas dos serviços empresariais não-financeiros, segundo as atividades - CNAE 2.0"
+2580,"Origem da receita operacional líquida das empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2581,Resultados dos serviços empresariais não-financeiros - CNAE 2.0
+2610,Resultados das atividades dos serviços prestados às famílias - CNAE 2.0
+2611,"Receita das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2613,"Custos das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2614,"Despesas operacionais das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2616,"Despesas financeiras, de Arrendamento mercantil (leasing) e de Participações acionárias das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2617,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2618,"Gastos com pessoal das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2619,"Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2620,"Variação trimestral do pessoal ocupado das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2621,"Aquisições do ativo tangível no ano das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2622,"Baixas do ativo tangível no ano das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2623,Resultados dos serviços de informação e comunicação - CNAE 2.0
+2624,"Receita das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2625,"Custos das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2626,"Despesas operacionais das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2627,"Despesas financeiras, de Arrendamento mercantil (leasing) e de Participações acionárias das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2628,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2629,"Gastos com pessoal das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2630,"Número de empresas e pessoal ocupado em 31/12 das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2631,"Variação trimestral do pessoal ocupado das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2632,"Aquisições do ativo tangível no ano das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2633,"Baixas do ativo tangível no ano das empresas de serviços de informação e comunicação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2634,"Resultados dos serviços profissionais, administrativos e complementares - CNAE 2.0"
+2635,"Receita das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2636,"Custos das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2637,"Despesas operacionais das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2638,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2639,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2641,"Gastos com pessoal das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2642,"Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2643,"Variação trimestral do pessoal ocupado das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2644,"Aquisições do ativo tangível no ano das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2648,"Baixas do ativo tangível no ano das empresas de serviços profissionais, administrativos e complementares, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2649,"Resultados das atividades de transportes, serviços auxiliares aos transportes e correios - CNAE 2.0"
+2650,"Receita das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2653,"Custos das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2655,"Despesas operacionais das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2656,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2658,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2659,"Gastos com pessoal das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2660,"Número de empresas e Pessoal ocupado em 31/12 das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2661,"Variação trimestral do pessoal ocupado das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2662,"Aquisições do ativo tangível no ano das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2663,"Baixas do ativo tangível no ano das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2664,Resultado das atividades imobiliárias - CNAE 2.0
+2665,"Receita das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2666,"Custos das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2667,"Despesas operacionais das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2668,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2669,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2670,"Gastos com pessoal das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2671,"Número de empresas e Pessoal ocupado em 31/12 das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2672,"Variação trimestral do pessoal ocupado das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2673,"Aquisições do ativo tangível no ano das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2674,"Baixas do ativo tangível no ano das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2675,Resultados dos serviços de manutenção e reparação - CNAE 2.0
+2676,"Receita das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2677,"Custos das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2678,"Despesas operacionais das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2686,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2687,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2688,"Gastos com pessoal das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2689,"Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2690,"Variação trimestral do pessoal ocupado das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2691,"Aquisições do ativo tangível no ano das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2692,"Baixas do ativo tangível no ano das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2693,Resultados das outras atividades de serviços - CNAE 2.0
+2695,"Receita das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2696,"Custos das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2697,"Despesas operacionais das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2700,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2703,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de outras atividades de serviços total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2706,"Gastos com pessoal das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2707,"Número de empresas e Pessoal ocupado em 31/12 das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2708,"Variação trimestral do pessoal ocupado das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2709,"Aquisições do ativo tangível no ano das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2714,"Baixas do ativo tangível no ano das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades - CNAE 2.0"
+2715,"Dados regionalizados do segmento empresarial não-financeiro, segundo as grandes regiões, as unidades da federação e as atividades - CNAE 2.0"
+2735,"Receita operacional líquida, Valor adicionado, Salários, Retiradas e outras remunerações, Pessoal ocupado e Número de empresas dos serviços empresariais não-financeiros, segundo as atividades"
+2736,"Origem da receita operacional líquida, segundo as atividades"
+2737,Resultados das atividades dos serviços prestados às famílias
+2738,"Receita das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2739,"Custos das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2740,"Despesas operacionais das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2741,"Despesas financeiras, de Arrendamento mercantil (leasing) e de Participações acionárias das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2742,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2743,"Gastos com pessoal das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2744,"Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2745,"Variação trimestral do pessoal ocupado das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2746,"Aquisições do ativo tangível no ano das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2747,"Baixas do ativo tangível no ano das empresas de serviços prestados às famílias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2748,Resultados dos serviços de informação
+2749,"Receita das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2750,"Custos das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2751,"Despesas operacionais das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2752,"Despesas financeiras, de Arrendamento mercantil (leasing) e de Participações acionárias das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2753,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2754,"Gastos com pessoal das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2755,"Número de empresas e pessoal ocupado em 31/12 das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2756,"Variação trimestral do pessoal ocupado das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2757,"Aquisições do ativo tangível no ano das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2758,"Baixas do ativo tangível no ano das empresas de serviços de informação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2767,Resultados dos serviços prestados às empresas
+2768,"Receita das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2769,"Custos das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2770,"Despesas operacionais das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2771,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2772,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2773,"Gastos com pessoal das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2777,"Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2778,"Variação trimestral do pessoal ocupado das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2779,"Aquisições do ativo tangível no ano das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2780,"Baixas do ativo tangível no ano das empresas de serviços prestados às empresas, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2787,"Resultados das atividades de transportes, serviços auxiliares aos transportes e correios"
+2788,"Receita das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2789,"Custos das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2790,"Despesas operacionais das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2791,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2792,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2793,"Gastos com pessoal das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2794,"Número de empresas e Pessoal ocupado em 31/12 das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2795,"Variação trimestral do pessoal ocupado das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2796,"Aquisições do ativo tangível no ano das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2797,"Baixas do ativo tangível no ano das empresas de transportes, serviços auxiliares aos transportes e correios, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2798,Resultado das atividades imobiliárias
+2799,"Receita das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2800,"Custos das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2801,"Despesas operacionais das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2802,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2803,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2804,"Gastos com pessoal das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2805,"Número de empresas e Pessoal ocupado em 31/12 das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2806,"Variação trimestral do pessoal ocupado das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2807,"Aquisições do ativo tangível no ano das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2808,"Baixas do ativo tangível no ano das empresas de atividades imobiliárias, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2809,Resultados dos serviços de manutenção e reparação
+2810,"Receita das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2811,"Custos das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2812,"Despesas operacionais das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2813,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2814,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2815,"Gastos com pessoal das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2816,"Número de empresas e Pessoal ocupado em 31/12 das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2817,"Variação trimestral do pessoal ocupado das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2818,"Aquisições do ativo tangível no ano das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2819,"Baixas do ativo tangível no ano das empresas de serviços de manutenção e reparação, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2820,Resultados das outras atividades de serviços
+2821,"Receita das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2822,"Custos das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2823,"Despesas operacionais das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2824,"Despesas financeiras de arrendamento mercantil (leasing) e de participações acionárias das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2825,"Depreciação, Amortização, Despesas não-operacionais e Constituição de provisões das empresas de outras atividades de serviços total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2826,"Gastos com pessoal das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2827,"Número de empresas e Pessoal ocupado em 31/12 das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2828,"Variação trimestral do pessoal ocupado das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2829,"Aquisições do ativo tangível no ano das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2830,"Baixas do ativo tangível no ano das empresas de outras atividades de serviços, total e empresas com 20 ou mais pessoas ocupadas, segundo as atividades"
+2831,"Dados regionalizados do segmento empresarial não-financeiro, segundo as grandes regiões, as unidades da federação e as atividades"
+2832,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de alojamento"
+2833,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de alimentação"
+2834,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de alojamento com 20 ou mais pessoas ocupadas"
+2835,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de alimentação com 20 ou mais pessoas ocupadas"
+2836,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de transportes e serviços auxiliares de transportes"
+2837,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de transportes e serviços auxiliares de transportes com 20 ou mais pessoas ocupadas"
+2838,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de correio e telecomunicações"
+2839,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de correio e telecomunicações com 20 ou mais pessoas ocupadas"
+2840,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de informática"
+2841,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de informática com 20 ou mais pessoas ocupadas"
+2842,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas imobiliárias e de aluguel de bens móveis e imóveis"
+2843,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas imobiliárias e de aluguel de bens móveis e imóveis com 20 ou mais pessoas ocupadas"
+2844,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de serviços prestados às empresas"
+2845,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de serviços prestados às empresas com 20 ou mais pessoas ocupadas"
+2846,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de outras atividades"
+2847,"Aluguéis e arrendamentos de veículos, máquinas e equipamentos e Outros custos e despesas operacionais das empresas de outras atividades com 20 ou mais pessoas ocupadas"
+36,"Receita operacional líquida e subvenções das empresas de transporte ferroviário/metroviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+37,"Receita operacional líquida e subvenções das empresas de transporte aquaviário com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+38,"Receita operacional líquida e subvenções das empresas de transporte aéreo com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+39,"Receita operacional líquida e subvenções das empresas de informática com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+40,"Receita operacional líquida e subvenções das empresas de telecomunicações com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+574,"Receita operacional líquida e subvenções das empresas de serviços de publicidade com 15 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+575,"Receita operacional líquida e subvenções das agências de publicidade com 15 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+576,"Receita operacional líquida e subvenções das agências de publicidade com 15 ou mais pessoas ocupadas, segundo os tipos de campanha publicitária/de comunicação"
+83,"Receita operacional líquida e subvenções das empresas de serviços audiovisuais com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"
+87,"Receita operacional líquida e subvenções das empresas de serviços de engenharia e arquitetura com 20 ou mais pessoas ocupadas, segundo os produtos/serviços prestados"

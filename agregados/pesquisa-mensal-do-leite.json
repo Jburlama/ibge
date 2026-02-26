@@ -1,0 +1,30 @@
+{
+  "id": "PL",
+  "nome": "Pesquisa Mensal do Leite",
+  "agregados": [
+    {
+      "id": "100",
+      "nome": "Leite recebido em pó"
+    },
+    {
+      "id": "101",
+      "nome": "Leite recebido concentrado"
+    },
+    {
+      "id": "104",
+      "nome": "Destino do leite total"
+    },
+    {
+      "id": "151",
+      "nome": "Leite cru ou resfriado recebido pela indústria por origem do leite recebido"
+    },
+    {
+      "id": "152",
+      "nome": "Leite pasteurizado por destino do leite pasteurizado"
+    },
+    {
+      "id": "153",
+      "nome": "Leite resfriado ou não destinado à indústria por destino do leite resfriado ou não"
+    }
+  ]
+}

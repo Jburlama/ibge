@@ -1,0 +1,86 @@
+{
+  "id": "DE",
+  "nome": "Demografia das Empresas e Estatísticas de Empreendedorismo",
+  "agregados": [
+    {
+      "id": "1936",
+      "nome": "Número de empresas, pessoal ocupado total, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, média de idade das empresas, salário médio mensal, por sexo e nível de escolaridade, segundo as seções e divisões da classificação de atividades e as faixas de pessoal ocupado total"
+    },
+    {
+      "id": "2718",
+      "nome": "Número de empresas, pessoal ocupado total, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, salário médio mensal, por sexo e nível de escolaridade, segundo as seções da classificação de atividades, faixas de pessoal ocupado assalariado e tipo de evento da empresa"
+    },
+    {
+      "id": "2719",
+      "nome": "Número de empresas de alto crescimento, pessoal ocupado total, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, média de idade das empresas de alto crescimento, salário médio mensal, por sexo e nível de escolaridade, e demais variáveis de empresas com algum pessoal ocupado assalariado e com 10 ou mais pessoal ocupado assalariado, segundo as seções e divisões da classificação de atividades"
+    },
+    {
+      "id": "2720",
+      "nome": "Número de empresas de gazelas (com até 8 anos de idade), pessoal ocupado total, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, salário médio mensal, por sexo e nível de escolaridade, e demais variáveis de empresas com algum pessoal ocupado assalariado, segundo as seções e divisões da classificação de atividades (série encerrada)"
+    },
+    {
+      "id": "2722",
+      "nome": "Número de unidades locais e pessoal ocupado assalariado, segundo as seções da classificação de atividades"
+    },
+    {
+      "id": "3274",
+      "nome": "Número de unidades locais, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações e salário médio mensal, segundo as seções da classificação de atividade e tipo de evento da unidade local"
+    },
+    {
+      "id": "3275",
+      "nome": "Número de unidades locais de empresas de alto crescimento, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, salário médio mensal e demais variáveis de unidades locais com algum pessoal ocupado assalariado e com 10 ou mais pessoal ocupado assalariado, segundo as seções da classificação de atividades"
+    },
+    {
+      "id": "3276",
+      "nome": "Número de unidades locais de empresas gazelas (com até 8 anos de idade), pessoal ocupado assalariado, pessoal assalariado médio, salário e outras remunerações, salário médio mensal, e demais variáveis de empresas com algum pessoal ocupado assalariado, segundo as seções de classificação de atividade (série encerrada)"
+    },
+    {
+      "id": "6817",
+      "nome": "Número de empresas de gazelas, pessoal ocupado total, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, média de idade das empresas gazelas, salário médio mensal, por sexo e nível de escolaridade, e demais variáveis de empresas com 10 ou mais pessoal ocupado assalariado e até 5 anos de idade, segundo as seções e divisões da classificação de atividades"
+    },
+    {
+      "id": "6818",
+      "nome": "Número de unidades locais de empresas gazelas, pessoal ocupado assalariado, pessoal assalariado médio, salário e outras remunerações, salário médio mensal e demais variáveis de unidades locais de empresas com 10 ou mais pessoal ocupado assalariado e até 5 anos de idade, segundo as seções da classificação de atividades"
+    },
+    {
+      "id": "9915",
+      "nome": "Número total de empresas (empregadoras e não empregadoras), pessoal ocupado total, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, média de idade das empresas, salário médio mensal, por sexo e nível de escolaridade, segundo as seções e divisões da classificação de atividades e as faixas de pessoal ocupado total"
+    },
+    {
+      "id": "9916",
+      "nome": "Número de empresas de alto crescimento, pessoal ocupado total, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, média de idade das empresas de alto crescimento, salário médio mensal, por sexo e nível de escolaridade, e demais variáveis de empresas com pessoal ocupado assalariado e com 10 ou mais pessoal ocupado assalariado, segundo as seções e divisões da classificação de atividades"
+    },
+    {
+      "id": "9917",
+      "nome": "Número de empresas gazelas, pessoal ocupado total, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, média de idade das empresas gazelas, salário médio mensal, por sexo e nível de escolaridade, e demais variáveis de empresas com 10 ou mais pessoal ocupado assalariado e até 5 anos de idade, segundo as seções e divisões da classificação de atividades"
+    },
+    {
+      "id": "9918",
+      "nome": "Número total de unidades locais (empregadoras e não empregadoras) e pessoal ocupado assalariado, segundo as seções da classificação de atividades"
+    },
+    {
+      "id": "9919",
+      "nome": "Número de unidades locais de empresas de alto crescimento, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, salário médio mensal e demais variáveis de unidades locais com pessoal ocupado assalariado e com 10 ou mais pessoal ocupado assalariado, segundo as seções da classificação de atividades"
+    },
+    {
+      "id": "9920",
+      "nome": "Número de unidades locais de empresas gazelas, pessoal ocupado assalariado e médio, salário e outras remunerações, salário médio mensal e demais variáveis de unidades locais de empresas com 10 ou mais pessoal ocupado assalariado e até 5 anos de idade, segundo as seções da classificação de atividades"
+    },
+    {
+      "id": "9924",
+      "nome": "Número de empresas empregadoras, pessoal ocupado total, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações, salário médio mensal, por sexo e nível de escolaridade, segundo as seções da classificação de atividades, faixas de pessoal ocupado assalariado e tipo de evento da empresa"
+    },
+    {
+      "id": "9925",
+      "nome": "Número de unidades locais empregadoras, pessoal ocupado assalariado, pessoal assalariado médio, salários e outras remunerações e salário médio mensal, segundo as seções da classificação de atividade e tipo de evento da unidade local"
+    },
+    {
+      "id": "9949",
+      "nome": "Número de nascimentos de empresas empregadoras e taxas de sobrevivência, segundo as seções da classificação de atividade e faixas de pessoal ocupado assalariado"
+    },
+    {
+      "id": "9950",
+      "nome": "Número de nascimentos de unidades locais empregadoras e taxas de sobrevivência segundo as seções da classificação de atividade"
+    }
+  ]
+}

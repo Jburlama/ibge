@@ -1,0 +1,26 @@
+{
+  "id": "LA",
+  "nome": "Levantamento Sistemático da Produção Agrícola",
+  "agregados": [
+    {
+      "id": "1618",
+      "nome": "Área plantada, área colhida e produção, por ano da safra e produto das lavouras"
+    },
+    {
+      "id": "188",
+      "nome": "Rendimento médio, por ano da safra e produto das lavouras"
+    },
+    {
+      "id": "6588",
+      "nome": "Série histórica da estimativa anual da área plantada, área colhida, produção e rendimento médio dos produtos das lavouras"
+    },
+    {
+      "id": "7832",
+      "nome": "Área plantada, área colhida, produção e rendimento médio, por ano da safra e produto das lavouras"
+    },
+    {
+      "id": "7878",
+      "nome": "Série histórica da estimativa anual da área plantada, área colhida, produção e rendimento médio dos produtos das lavouras (Prognóstico da safra)"
+    }
+  ]
+}

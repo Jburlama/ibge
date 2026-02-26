@@ -1,0 +1,58 @@
+{
+  "id": "PC",
+  "nome": "Índice Nacional de Preços ao Consumidor",
+  "agregados": [
+    {
+      "id": "1100",
+      "nome": "INPC - Variação mensal, acumulada no ano, acumulada em 12 meses e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/2012 até dezembro/2019)"
+    },
+    {
+      "id": "1686",
+      "nome": "INPC - Variação mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de julho/1989 até dezembro/1990)"
+    },
+    {
+      "id": "1690",
+      "nome": "INPC - Peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de julho/1989 até dezembro/1990)"
+    },
+    {
+      "id": "1691",
+      "nome": "INPC - Variação acumulada no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1990 até dezembro/1990)"
+    },
+    {
+      "id": "1736",
+      "nome": "INPC - Série histórica com número-índice, variação mensal e variações acumuladas em 3 meses, em 6 meses, no ano e em 12 meses (a partir de abril/1979)"
+    },
+    {
+      "id": "22",
+      "nome": "INPC - Variação mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1991 até julho/1999)"
+    },
+    {
+      "id": "23",
+      "nome": "INPC - Peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1991 até julho/1999)"
+    },
+    {
+      "id": "2951",
+      "nome": "INPC - Variação mensal, acumulada no ano e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de julho/2006 até dezembro/2011)"
+    },
+    {
+      "id": "634",
+      "nome": "INPC - Variação acumulada no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de janeiro/1991 até julho/1999)"
+    },
+    {
+      "id": "651",
+      "nome": "INPC - Variação acumulada no ano, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até junho/2006)"
+    },
+    {
+      "id": "653",
+      "nome": "INPC - Variação mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até junho/2006)"
+    },
+    {
+      "id": "654",
+      "nome": "INPC - Peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (de agosto/1999 até junho/2006)"
+    },
+    {
+      "id": "7063",
+      "nome": "INPC - Variação mensal, acumulada no ano, acumulada em 12 meses e peso mensal, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (a partir de janeiro/2020)"
+    }
+  ]
+}

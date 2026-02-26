@@ -1,0 +1,21 @@
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|    |   id | nome                                                                                                                                                                              |
++====+======+===================================================================================================================================================================================+
+|  0 |  254 | Número de informantes e Quantidade estocada no último dia do semestre, por produtos, tipo de propriedade da empresa e tipo de atividade do estabelecimento                        |
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  1 |  255 | Número de municípios, Número de informantes e Estoque declarado no último dia do semestre por produtos                                                                            |
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  2 |  259 | Número de informantes e Capacidade útil dos armazéns e silos para produtos a granel                                                                                               |
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  3 |  278 | Número de estabelecimentos e Capacidade útil das unidades armazenadoras por tipo de unidade armazenadora, tipo de propriedade da empresa e tipo de atividade do estabelecimento   |
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  4 |  279 | Número e Capacidade útil dos estabelecimentos com armazéns convencionais, estruturais e infláveis, por grupos de capacidade útil (série encerrada)                                |
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  5 | 5459 | Número de estabelecimentos e Capacidade útil das unidades armazenadoras, por tipo de unidade armazenadora e grupos de capacidade útil                                             |
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  6 | 5470 | Número e Capacidade útil dos estabelecimentos com armazéns convencionais, estruturais e infláveis por grupos de capacidade útil                                                   |
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  7 |  911 | Capacidade útil dos estabelecimentos inativos por tipo de unidade armazenadora                                                                                                    |
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  8 |  912 | Total de estabelecimentos inativos, Total de estabelecimentos inativos com informações de capacidade útil e Total de estabelecimentos inativos sem informações de capacidade útil |
++----+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

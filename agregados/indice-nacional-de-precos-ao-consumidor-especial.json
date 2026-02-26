@@ -1,0 +1,14 @@
+{
+  "id": "PG",
+  "nome": "Índice Nacional de Preços ao Consumidor Especial",
+  "agregados": [
+    {
+      "id": "24",
+      "nome": "INPCE - Percentual no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (série encerrada)"
+    },
+    {
+      "id": "25",
+      "nome": "INPCE - Peso no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (série encerrada)"
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "id": "OF",
+  "nome": "Pesquisa de Orçamentos Familiares",
+  "agregados": [
+    {
+      "id": "1594",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por classes de rendimento total e variação patrimonial mensal familiar, segundo os tipos de despesa (2008)"
+    },
+    {
+      "id": "1595",
+      "nome": "Número de famílias e Tamanho médio da família por classes de rendimento total e variação patrimonial mensal familiar (2008)"
+    },
+    {
+      "id": "1599",
+      "nome": "Distribuição da despesa média mensal familiar, total, monetária e não monetária por situação do domicílio, segundo os tipos de despesa"
+    },
+    {
+      "id": "160",
+      "nome": "Domicílios por condição de ocupação, abastecimento de água, tipo de domicílio, instalação sanitária e número de famílias"
+    },
+    {
+      "id": "1608",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por situação do domicílio e classes de rendimento total e variação patrimonial mensal familiar, segundo os tipos de despesa (2008)"
+    },
+    {
+      "id": "1609",
+      "nome": "Número de famílias e Tamanho médio da família por situação do domicílio e classes de rendimento total e variação patrimonial mensal familiar (2008)"
+    },
+    {
+      "id": "1619",
+      "nome": "Despesa monetária e não monetária média mensal familiar, com alimentação, - valor e distribuição - por classes de rendimento total e variação patrimonial mensal familiar, segundo os tipos de despesa (2008)"
+    },
+    {
+      "id": "1622",
+      "nome": "Despesa monetária e não monetária média mensal familiar, com alimentação, - valor e distribuição - por situação do domicílio e classes de rendimento total e variação patrimonial mensal familiar, segundo os tipos de despesa (2008)"
+    },
+    {
+      "id": "1625",
+      "nome": "Rendimento total e variação patrimonial médio mensal familiar - valor e distribuição - por classes de rendimento total e variação patrimonial mensal familiar, segundo a origem do rendimento (2008)"
+    },
+    {
+      "id": "1627",
+      "nome": "Rendimento total e variação patrimonial médio mensal familiar - valor e distribuição - por situação do domicílio e classes de rendimento total e variação patrimonial mensal familiar, segundo a origem do rendimento (2008)"
+    },
+    {
+      "id": "1629",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por anos de estudo da pessoa de referência da família e tipos de despesa"
+    },
+    {
+      "id": "1647",
+      "nome": "Número de famílias e Tamanho médio da família por anos de estudo da pessoa de referência da família"
+    },
+    {
+      "id": "1650",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por existência de pessoa com nível superior na família e tipos de despesa"
+    },
+    {
+      "id": "1651",
+      "nome": "Número de famílias e Tamanho médio da família por existência de pessoa com nível superior na família"
+    },
+    {
+      "id": "1652",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por sexo da pessoa de referência da família e tipos de despesa"
+    },
+    {
+      "id": "1655",
+      "nome": "Número de famílias e Tamanho médio da família por sexo da pessoa de referência da família"
+    },
+    {
+      "id": "1656",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por cor ou raça da pessoa de referência da família e tipos de despesa"
+    },
+    {
+      "id": "1664",
+      "nome": "Número de famílias e Tamanho médio da família por cor ou raça da pessoa de referência da família"
+    },
+    {
+      "id": "169",
+      "nome": "Domicílios por número de cômodos, condição de ocupação, tipo de domicílio e número de famílias"
+    },
+    {
+      "id": "176",
+      "nome": "Domicílios por classes de recebimento mensal domiciliar, número de cômodos, tipo de domicílio e número de famílias"
+    },
+    {
+      "id": "177",
+      "nome": "Domicílios por classes de recebimento mensal domiciliar, abastecimento de água, tipo de domicílio, instalação sanitária e número de famílias"
+    },
+    {
+      "id": "1783",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por grupos de despesa"
+    },
+    {
+      "id": "1799",
+      "nome": "Despesa de consumo monetária e não monetária média mensal familiar - valor e distribuição - por tipos de despesa"
+    },
+    {
+      "id": "1802",
+      "nome": "Rendimento total e variação patrimonial médio mensal familiar - valor e distribuição - por origem do rendimento e situação do domicílio"
+    },
+    {
+      "id": "1803",
+      "nome": "Rendimento total e variação patrimonial médio mensal familiar - valor e distribuição - por origem do rendimento"
+    },
+    {
+      "id": "1805",
+      "nome": "Distribuição das famílias por avaliação do grau de dificuldade para chegar ao fim do mês com o rendimento monetário familiar e classes de rendimento total e variação patrimonial mensal familiar"
+    },
+    {
+      "id": "1807",
+      "nome": "Distribuição das famílias por avaliação do grau de dificuldade para chegar ao fim do mês com o rendimento monetário familiar e situação do domicílio"
+    },
+    {
+      "id": "1809",
+      "nome": "Distribuição das famílias por avaliação da quantidade de alimento consumido pela família, classes de rendimento total e variação patrimonial mensal familiar e situação do domicílio"
+    },
+    {
+      "id": "1810",
+      "nome": "Distribuição das famílias por avaliação da quantidade de alimento consumido pela família, classes de rendimento total e variação patrimonial mensal familiar"
+    },
+    {
+      "id": "1811",
+      "nome": "Distribuição das famílias por avaliação do tipo de alimento consumido pela familia, classes de rendimento total e variação patrimonial mensal familiar e situação do domicílio"
+    },
+    {
+      "id": "1818",
+      "nome": "Distribuição das famílias por avaliação do tipo de alimento consumido pela familia, classes de rendimento total e variação patrimonial mensal familiar"
+    },
+    {
+      "id": "2308",
+      "nome": "Número de famílias e Tamanho médio da família por classes de rendimento monetário e não monetário mensal familiar - faixas até R$ 6.000,00"
+    },
+    {
+      "id": "2309",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por classes de rendimento monetário e não monetário mensal familiar e tipos de despesa"
+    },
+    {
+      "id": "2312",
+      "nome": "Despesa monetária e não monetária média mensal familiar com alimentação - valor e distribuição - por classes de rendimento monetário e não monetário mensal familiar e tipos de despesa"
+    },
+    {
+      "id": "2313",
+      "nome": "Número de famílias e Tamanho médio da família por classes de rendimento monetário e não monetário mensal familiar - faixas até R$ 4.000,00"
+    },
+    {
+      "id": "2314",
+      "nome": "Rendimento monetário e não monetário médio mensal familiar - valor e distribuição - por tipos de origem dos rendimentos e situação do domicílio"
+    },
+    {
+      "id": "2315",
+      "nome": "Rendimento monetário e não monetário médio mensal familiar - valor e distribuição - por classes de rendimento monetário e não monetário mensal familiar e origem dos rendimentos"
+    },
+    {
+      "id": "2318",
+      "nome": "Distribuição das famílias por avaliação do grau de dificuldade para chegar ao fim mês com o rendimento monetário familiar e situação do domicílio"
+    },
+    {
+      "id": "2319",
+      "nome": "Distribuição das famílias por avaliação do grau de dificuldade para chegar ao fim mês com o rendimento monetário familiar e classes de rendimento monetário e não monetário mensal familiar"
+    },
+    {
+      "id": "2320",
+      "nome": "Distribuição das famílias por avaliação da quantidade de alimento consumido pela família, classes de rendimento monetário e não monetário mensal familiar e situação do domicílio"
+    },
+    {
+      "id": "2321",
+      "nome": "Distribuição das famílias por avaliação do tipo de alimento consumido pela familia, classes de rendimento monetário e não monetário mensal familiar e situação do domicílio"
+    },
+    {
+      "id": "2322",
+      "nome": "Distribuição das famílias que nem sempre ou raramente consomem alimentação do tipo que querem por motivo do não consumo, classes de rendimento monetário e não monetário mensal familiar e situação do domicílio"
+    },
+    {
+      "id": "2323",
+      "nome": "Percentual das famílias por avaliação da condição de moradia em relação a alguns serviços e situação do domicílio"
+    },
+    {
+      "id": "2324",
+      "nome": "Percentual das famílias por existência de problemas no domicílio e situação do domicílio"
+    },
+    {
+      "id": "2393",
+      "nome": "Aquisição alimentar domiciliar per capita anual por grupos, subgrupos e produtos"
+    },
+    {
+      "id": "2396",
+      "nome": "Aquisição alimentar domiciliar per capita anual por forma de aquisição e grupos e subgrupos de produtos"
+    },
+    {
+      "id": "2397",
+      "nome": "Aquisição alimentar domiciliar per capita anual por classes de rendimento monetário e não monetário mensal familiar e grupos, subgrupos e produtos"
+    },
+    {
+      "id": "2398",
+      "nome": "Aquisição alimentar domiciliar per capita anual por situação do domicílio, forma de aquisição e grupos, subgrupos e produtos"
+    },
+    {
+      "id": "2399",
+      "nome": "Estimativas dos percentis das medidas antropométricas de crianças e adolescentes com até 19 anos de idade, por situação do domicílio e sexo - Brasil"
+    },
+    {
+      "id": "248",
+      "nome": "Famílias por grupos de idade do chefe da família, número de componentes e sexo do chefe da família"
+    },
+    {
+      "id": "249",
+      "nome": "Famílias por nível de instrução do chefe da família, número de componentes e origem do recebimento do chefe da família"
+    },
+    {
+      "id": "260",
+      "nome": "Valor da despesa média mensal familiar em alimentação no domicílio e artigos de limpeza por tipo de despesa e locais de compra"
+    },
+    {
+      "id": "2640",
+      "nome": "Estimativas populacionais das medianas de altura e peso de crianças e adolescentes com até 19 anos de idade, por sexo, classes de rendimento monetário e não-monetário mensal familiar per capita e idade - Brasil"
+    },
+    {
+      "id": "2645",
+      "nome": "Estimativas populacionais das medianas de altura e peso de crianças, adolescentes e adultos, por sexo, situação do domicílio e idade - Brasil e Grandes Regiões"
+    },
+    {
+      "id": "2646",
+      "nome": "Estimativas populacionais das medianas de altura e peso de crianças e adolescentes com até 19 anos de idade, por sexo, classes de rendimento monetário e não-monetário mensal familiar per capita e idade - Grandes Regiões"
+    },
+    {
+      "id": "2657",
+      "nome": "Estimativas populacionais das medianas de altura e peso de crianças, adolescentes e adultos, por sexo e idade - Unidades da Federação"
+    },
+    {
+      "id": "300",
+      "nome": "Pessoas moradoras por condição de ocupação, abastecimento de água, tipo de domicílio, instalação sanitária e número de famílias"
+    },
+    {
+      "id": "301",
+      "nome": "Domicílios por classes de recebimento mensal domiciliar e condição de ocupação"
+    },
+    {
+      "id": "302",
+      "nome": "Pessoas moradoras por número de cômodos, condição de ocupação, tipo de domicílio e número de famílias"
+    },
+    {
+      "id": "303",
+      "nome": "Valor do recebimento médio mensal familiar por nível de instrução do chefe da família e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "3036",
+      "nome": "Participação relativa de alimentos e grupos de alimentos no total de calorias determinado pela aquisição alimentar domiciliar, segundo as Unidades da Federação e as áreas urbanas dos Municípios das Capitais"
+    },
+    {
+      "id": "304",
+      "nome": "Pessoas moradoras por classes de recebimento mensal domiciliar e condição de ocupação"
+    },
+    {
+      "id": "3047",
+      "nome": "Aquisição alimentar domiciliar per capita anual por situação do domicílio e grupos, subgrupos e produtos"
+    },
+    {
+      "id": "3048",
+      "nome": "Aquisição alimentar domiciliar per capita anual por classes de rendimento total variação patrimonial mensal familiar e grupos, subgrupos e produtos (2008)"
+    },
+    {
+      "id": "3293",
+      "nome": "Número de aquisições e Distribuição do número de aquisições, por locais de compra e grupos e tipos de despesa - agregação 1"
+    },
+    {
+      "id": "3296",
+      "nome": "Número de aquisições e Distribuição do número de aquisições, por locais de compra e grupos e tipos de despesa - agregação 2"
+    },
+    {
+      "id": "3404",
+      "nome": "Número de aquisições e Distribuição do número de aquisições, por locais de compra e grupos e tipos de despesa - agregação 3"
+    },
+    {
+      "id": "345",
+      "nome": "Pessoas moradoras por nível de instrução, frequência à escola, condição de presença e sexo"
+    },
+    {
+      "id": "346",
+      "nome": "Pessoas moradoras com 5 anos ou mais que frequentam escola por nível de instrução, grupos de idade e sexo"
+    },
+    {
+      "id": "3531",
+      "nome": "Número de famílias e Tamanho médio da família por religião da pessoa de referência da família e situação do domicílio"
+    },
+    {
+      "id": "3532",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por religião da pessoa de referência da família, situação do domicílio e tipos de despesa"
+    },
+    {
+      "id": "3613",
+      "nome": "Rendimento monetário médio mensal familiar - valor e distribuição - por classes de rendimento monetário mensal familiar, segundo a origem do rendimento"
+    },
+    {
+      "id": "3614",
+      "nome": "Número de famílias e Tamanho médio da família por classes de rendimento monetário mensal familiar - Faixas até 6.000 Reais"
+    },
+    {
+      "id": "3615",
+      "nome": "Despesa monetária média mensal familiar - valor e distribuição - por classes de rendimento monetário mensal familiar e tipos de despesa - Faixas até 6.000 Reais"
+    },
+    {
+      "id": "3616",
+      "nome": "Rendimento monetário e variação patrimonial médio mensal familiar e variação patrimonial- valor e distribuição - por classes de rendimento monetário mensal familiar, segundo a origem do rendimento"
+    },
+    {
+      "id": "3617",
+      "nome": "Número de famílias e Tamanho médio da família por classes de rendimento monetário mensal familiar - Faixas até 10.375 Reais"
+    },
+    {
+      "id": "3618",
+      "nome": "Despesa monetária média mensal familiar - valor e distribuição - por classes de rendimento monetário mensal familiar e tipos de despesa - Faixas até 10.375 Reais"
+    },
+    {
+      "id": "376",
+      "nome": "Famílias por nível de instrução do chefe da família, classes de recebimento mensal familiar e origem do recebimento do chefe da família"
+    },
+    {
+      "id": "378",
+      "nome": "Famílias que possuem bens duráveis por utilidades existentes e origem do recebimento"
+    },
+    {
+      "id": "379",
+      "nome": "Índice de Gini - recebimento médio mensal das famílias"
+    },
+    {
+      "id": "380",
+      "nome": "Pessoas moradoras com 10 anos ou mais por classes de recebimento mensal, grupos de idade e sexo"
+    },
+    {
+      "id": "381",
+      "nome": "Pessoas moradoras com 15 anos ou mais por classes de recebimento mensal familiar e número de cheques especiais"
+    },
+    {
+      "id": "382",
+      "nome": "Tamanho médio da família por classes de recebimento mensal familiar"
+    },
+    {
+      "id": "383",
+      "nome": "Valor da despesa média mensal familiar por tipo de despesa e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "384",
+      "nome": "Valor da despesa média mensal familiar por tipo de despesa"
+    },
+    {
+      "id": "387",
+      "nome": "Percentual da despesa média mensal familiar por tipo de despesa e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "390",
+      "nome": "Percentual da despesa média mensal familiar por tipo de despesa e classificação das despesas"
+    },
+    {
+      "id": "399",
+      "nome": "Valor da despesa média mensal familiar em alimentação por tipo de despesa e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "400",
+      "nome": "Percentual da despesa média mensal familiar em alimentação por tipo de despesa e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "412",
+      "nome": "Valor do recebimento médio mensal familiar por origem do recebimento e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "413",
+      "nome": "Valor do recebimento médio mensal familiar por classes de recebimento mensal familiar e grupos de idade do chefe da família"
+    },
+    {
+      "id": "414",
+      "nome": "Percentual do recebimento médio mensal familiar por origem do recebimento e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "415",
+      "nome": "Valor do recebimento médio mensal familiar por classes de recebimento mensal familiar e origem do recebimento do chefe da família"
+    },
+    {
+      "id": "416",
+      "nome": "Valor da dedução média mensal familiar por origem do recebimento e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "417",
+      "nome": "Aquisição (monetária) alimentar domiciliar per capita anual por grupos de produtos e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "418",
+      "nome": "Aquisição (monetária) alimentar domiciliar per capita anual por grupos e subgrupos de produtos e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "419",
+      "nome": "Aquisição (monetária) alimentar domiciliar per capita anual por grupos, subgrupos e produtos e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "420",
+      "nome": "Percentual da dedução média mensal familiar por origem do recebimento e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "433",
+      "nome": "Valor do recebimento médio mensal familiar por classes de recebimento mensal familiar e sexo do chefe da família"
+    },
+    {
+      "id": "434",
+      "nome": "Percentual do recebimento médio mensal familiar por nível de instrução do chefe da família e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "435",
+      "nome": "Percentual do recebimento médio mensal familiar por classes de recebimento mensal familiar e grupos de idade do chefe da família"
+    },
+    {
+      "id": "436",
+      "nome": "Percentual do recebimento médio mensal familiar por classes de recebimento mensal familiar e origem do recebimento do chefe da família"
+    },
+    {
+      "id": "437",
+      "nome": "Percentual do recebimento médio mensal familiar por classes de recebimento mensal familiar e sexo do chefe da família"
+    },
+    {
+      "id": "439",
+      "nome": "Famílias por classes de recebimento mensal familiar, grupos de idade do chefe da família e sexo do chefe da família"
+    },
+    {
+      "id": "445",
+      "nome": "Pessoas moradoras com 15 anos ou mais por classes de recebimento mensal familiar e número de cartões de crédito"
+    },
+    {
+      "id": "638",
+      "nome": "Famílias que possuem bens duráveis por utilidades existentes e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "639",
+      "nome": "Número de aquisições por grupos e tipos de despesa e locais de compra"
+    },
+    {
+      "id": "640",
+      "nome": "Frequência de aquisições por grupos e tipos de despesa e locais de compra"
+    },
+    {
+      "id": "641",
+      "nome": "Percentual de famílias que possuem bens duráveis por utilidades existentes e classes de recebimento mensal familiar"
+    },
+    {
+      "id": "658",
+      "nome": "Despesa monetária e não-monetária média mensal familiar, total e per capita, das famílias 40% mais pobres e 10% mais ricas e Relação entre as despesas per capita por situação do domicílio"
+    },
+    {
+      "id": "660",
+      "nome": "Despesa monetária e não-monetária média mensal familiar, total e per capita, das famílias 40% mais pobres e 10% mais ricas e Relação entre as despesas per capita"
+    },
+    {
+      "id": "666",
+      "nome": "Despesa média mensal familiar - valor e distribuição - total, dos 40% mais pobres e dos 10% mais ricos - por forma de obtençao do produto ou serviço, situação do domicílio e grupos de despesa"
+    },
+    {
+      "id": "667",
+      "nome": "Despesa média mensal familiar com assistência à saude - valor e distribuição - por forma de obtençao do produto ou serviço e grupos de despesa"
+    },
+    {
+      "id": "668",
+      "nome": "Número de famílias e Tamanho médio da família por grupos de idade da pessoa de referência da família e situação do domicílio"
+    },
+    {
+      "id": "6715",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por classes de rendimento total e variação patrimonial mensal familiar, segundo os tipos de despesa"
+    },
+    {
+      "id": "675",
+      "nome": "Número de famílias e Tamanho médio da família por grupos de idade da pessoa de referência da família"
+    },
+    {
+      "id": "676",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por grupos de idade da pessoa de referência da família, situação do domicílio e tipos de despesa"
+    },
+    {
+      "id": "677",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por grupos de idade da pessoa de referência da família e tipos de despesa"
+    },
+    {
+      "id": "678",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por posição na ocupação principal da pessoa de referência da família, situação do domicílio e tipos de despesa"
+    },
+    {
+      "id": "6970",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por situação do domicílio e classes de rendimento total e variação patrimonial mensal familiar, segundo os tipos de despesa"
+    },
+    {
+      "id": "6971",
+      "nome": "Número de famílias e Tamanho médio da família por situação do domicílio e classes de rendimento total e variação patrimonial mensal familiar"
+    },
+    {
+      "id": "6972",
+      "nome": "Despesa monetária e não monetária média mensal familiar, com alimentação, - valor e distribuição - por classes de rendimento total e variação patrimonial mensal familiar, segundo os tipos de despesa"
+    },
+    {
+      "id": "6973",
+      "nome": "Despesa monetária e não monetária média mensal familiar, com alimentação, - valor e distribuição - por situação do domicílio e classes de rendimento total e variação patrimonial mensal familiar, segundo os tipos de despesa"
+    },
+    {
+      "id": "6974",
+      "nome": "Rendimento total e variação patrimonial médio mensal familiar - valor e distribuição - por classes de rendimento total e variação patrimonial mensal familiar, segundo a origem do rendimento"
+    },
+    {
+      "id": "6975",
+      "nome": "Rendimento total e variação patrimonial médio mensal familiar - valor e distribuição - por situação do domicílio e classes de rendimento total e variação patrimonial mensal familiar, segundo a origem do rendimento"
+    },
+    {
+      "id": "6977",
+      "nome": "Número de famílias e Tamanho médio da família por classes de rendimento total e variação patrimonial mensal familiar"
+    },
+    {
+      "id": "708",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por posição na ocupação principal da pessoa de referência da família e tipos de despesa"
+    },
+    {
+      "id": "709",
+      "nome": "Número de famílias e Tamanho médio da família por posição na ocupação principal da pessoa de referência da família e situação do domicílio"
+    },
+    {
+      "id": "710",
+      "nome": "Número de famílias e Tamanho médio da família por posição na ocupação principal da pessoa de referência da família"
+    },
+    {
+      "id": "711",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por categoria sócioprofissional principal da pessoa de referência da família, situação do domicílio e tipos de despesa"
+    },
+    {
+      "id": "714",
+      "nome": "Número de famílias e Tamanho médio da família por categoria sócioprofissional principal da pessoa de referência da família e situação do domicílio"
+    },
+    {
+      "id": "715",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por anos de estudo da pessoa de referência da família, situação do domicílio e tipos de despesa"
+    },
+    {
+      "id": "722",
+      "nome": "Número de famílias e Tamanho médio da família por anos de estudo da pessoa de referência da família e situação do domicílio"
+    },
+    {
+      "id": "727",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por existência de pessoa com nível superior na família, situação do domicílio e tipos de despesa"
+    },
+    {
+      "id": "732",
+      "nome": "Número de famílias e Tamanho médio da família por existência de pessoa com nível superior na família e situação do domicílio"
+    },
+    {
+      "id": "736",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por situação do domicílio, sexo da pessoa de referência da família e tipos de despesa"
+    },
+    {
+      "id": "737",
+      "nome": "Número de famílias e Tamanho médio da família por situação do domicílio e sexo da pessoa de referência da família"
+    },
+    {
+      "id": "741",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por cor ou raça da pessoa de referência da família, situação do domicílio e tipos de despesa"
+    },
+    {
+      "id": "742",
+      "nome": "Número de famílias e Tamanho médio da família por cor ou raça da pessoa de referência da família e situação do domicílio"
+    },
+    {
+      "id": "743",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por religião da pessoa de referência da família e tipos de despesa"
+    },
+    {
+      "id": "745",
+      "nome": "Número de famílias e Tamanho médio da família por religião da pessoa de referência da família"
+    },
+    {
+      "id": "746",
+      "nome": "Despesa monetária e não monetária média mensal familiar - valor e distribuição - por composição da família, situação do domicílio e tipos de despesa"
+    },
+    {
+      "id": "747",
+      "nome": "Número de famílias e Tamanho médio da família por composição da família e situação do domicílio"
+    },
+    {
+      "id": "748",
+      "nome": "Aquisição alimentar domiciliar per capita anual por composição da família e situação do domicílio"
+    },
+    {
+      "id": "749",
+      "nome": "Aquisição alimentar domiciliar per capita anual por avaliação da quantidade de alimento consumido pela família e situação do domicílio"
+    },
+    {
+      "id": "750",
+      "nome": "Número de famílias e Tamanho médio da família por avaliação da quantidade de alimento consumido pela família e situação do domicílio"
+    },
+    {
+      "id": "751",
+      "nome": "Rendimento médio mensal familiar total e Número de famílias por classes de rendimento monetário e não-monetário mensal familiar e sexo da pessoa de referência da família"
+    },
+    {
+      "id": "752",
+      "nome": "Rendimento médio mensal familiar total e Número de famílias por classes de rendimento monetário e não-monetário mensal familiar e grupos de idade da pessoa de referência da família"
+    },
+    {
+      "id": "755",
+      "nome": "Rendimento médio mensal familiar total e Número de famílias por classes de rendimento monetário e não-monetário mensal familiar e anos de estudo da pessoa de referência da família"
+    },
+    {
+      "id": "756",
+      "nome": "Rendimento médio mensal familiar total e Número de famílias por classes de rendimento monetário e não-monetário mensal familiar e cor ou raça da pessoa de referência da família"
+    },
+    {
+      "id": "757",
+      "nome": "Rendimento médio mensal familiar total e Número de famílias por classes de rendimento monetário e não-monetário mensal familiar e existência de pessoa com nível superior na família"
+    },
+    {
+      "id": "758",
+      "nome": "Rendimento médio mensal familiar total e Número de famílias por classes de rendimento monetário e não-monetário mensal familiar e religião da pessoa de referência da família"
+    },
+    {
+      "id": "759",
+      "nome": "Número de famílias e Tamanho médio da família por situação do domicílio e composição da família"
+    },
+    {
+      "id": "8157",
+      "nome": "Aquisição alimentar domiciliar per capita anual por classes de rendimento total variação patrimonial mensal familiar e grupos, subgrupos e produtos"
+    }
+  ]
+}

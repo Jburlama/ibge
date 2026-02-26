@@ -1,0 +1,82 @@
+{
+  "id": "SC",
+  "nome": "Pesquisa Mensal de Serviços",
+  "agregados": [
+    {
+      "id": "3839",
+      "nome": "Índice e variação da receita nominal e do volume de serviços (2011 = 100 - série encerrada em dezembro de 2016)"
+    },
+    {
+      "id": "3840",
+      "nome": "Índice e variação da receita nominal e do volume de serviços, por atividades de serviços e suas subdivisões (2011 = 100 - série encerrada em dezembro de 2016)"
+    },
+    {
+      "id": "3841",
+      "nome": "Índice e variação da receita nominal e do volume de serviços, por atividades de serviços (2011 = 100 - série encerrada em dezembro de 2016)"
+    },
+    {
+      "id": "3842",
+      "nome": "Índice e variação da receita nominal e do volume das atividades turísticas (2011 = 100 - série encerrada em dezembro de 2016)"
+    },
+    {
+      "id": "5906",
+      "nome": "Índice e variação da receita nominal e do volume de serviços (2022 = 100)"
+    },
+    {
+      "id": "6442",
+      "nome": "Índice e variação da receita nominal e do volume de serviços (2014 = 100) - série encerrada em janeiro de 2022"
+    },
+    {
+      "id": "6443",
+      "nome": "Índice e variação da receita nominal e do volume de serviços, por atividades de serviços e suas subdivisões (2014 = 100) - série encerrada em janeiro de 2022"
+    },
+    {
+      "id": "6444",
+      "nome": "Índice e variação da receita nominal e do volume de serviços, por atividades de serviços (2014 = 100) - série encerrada em janeiro de 2022"
+    },
+    {
+      "id": "6445",
+      "nome": "Índice e variação da receita nominal e do volume das atividades turísticas (2014 = 100) - série encerrada em janeiro de 2022"
+    },
+    {
+      "id": "8161",
+      "nome": "Índice e variação da receita nominal e do volume de serviços (2014 = 100) - série encerrada em dezembro de 2022"
+    },
+    {
+      "id": "8162",
+      "nome": "Índice e variação da receita nominal e do volume de serviços, por atividades de serviços e suas subdivisões (2014 = 100) - série encerrada em dezembro de 2022"
+    },
+    {
+      "id": "8163",
+      "nome": "Índice e variação da receita nominal e do volume de serviços, por segmentos de serviços (2022 = 100)"
+    },
+    {
+      "id": "8164",
+      "nome": "Índice e variação da receita nominal e do volume de serviços, por atividades de serviços (2014 = 100) - série encerrada em dezembro de 2022"
+    },
+    {
+      "id": "8165",
+      "nome": "Índice e variação da receita nominal e do volume das atividades turísticas (2014 = 100) - série encerrada em dezembro de 2022"
+    },
+    {
+      "id": "8166",
+      "nome": "Índice e variação da receita nominal e do volume do transporte de passageiros e de cargas (2014 = 100) - série encerrada em dezembro de 2022"
+    },
+    {
+      "id": "8688",
+      "nome": "Índice e variação da receita nominal e do volume de serviços, por atividades de serviços e suas subdivisões (2022 = 100)"
+    },
+    {
+      "id": "8693",
+      "nome": "Índice e variação da receita nominal e do volume de serviços, por atividades de serviços (2022 = 100)"
+    },
+    {
+      "id": "8694",
+      "nome": "Índice e variação da receita nominal e do volume das atividades turísticas (2022 = 100)"
+    },
+    {
+      "id": "8695",
+      "nome": "Índice e variação da receita nominal e do volume do transporte de passageiros e de cargas (2022 = 100)"
+    }
+  ]
+}

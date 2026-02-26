@@ -1,0 +1,134 @@
+{
+  "id": "PK",
+  "nome": "Pesquisa Industrial Anual - Empresa",
+  "agregados": [
+    {
+      "id": "1839",
+      "nome": "Dados gerais das empresas industriais com 1 ou mais pessoas ocupadas, segundo as indústrias extrativas e de transformação e as faixas de pessoal ocupado (CNAE 2.0)"
+    },
+    {
+      "id": "1841",
+      "nome": "Emprego e salário das empresas industriais com 5 ou mais pessoas ocupadas, segundo as diivisões e os grupos de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1842",
+      "nome": "Estrutura do valor da transformação industrial das empresas industriais com 5 ou mais pessoas ocupadas, segundo as diivisões e os grupos de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1843",
+      "nome": "Aquisições, melhorias e baixas do ativo imobilizado das empresas industriais com 5 ou mais pessoas ocupadas, segundo as diivisões e os grupos de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1844",
+      "nome": "Gastos de pessoal das empresas industriais com 5 ou mais pessoas ocupadas, segundo as diivisões e os grupos de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1845",
+      "nome": "Estrutura das receitas das empresas industriais com 5 ou mais pessoas ocupadas, segundo as divisões e os grupos de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1847",
+      "nome": "Estrutura dos custos e despesas das empresa industriais com 5 ou mais pessoas ocupadas, segundo as diivisões e os grupos de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1848",
+      "nome": "Dados gerais das unidades locais industriais de empresas industriais com 5 ou mais pessoas ocupadas, por Unidade da Federação, segundo as divisões e os grupos de atividades (CNAE 2.0) - Brasil, Sul e Sudeste (exceto Espírito Santo)"
+    },
+    {
+      "id": "1849",
+      "nome": "Dados gerais das unidades locais industriais de empresas industriais com 5 ou mais pessoas ocupadas, por Unidade da Federação, segundo as divisões de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1851",
+      "nome": "Dados gerais das unidades locais industriais de empresas industriais com 1 ou mais pessoas ocupadas, segundo as divisões de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1853",
+      "nome": "Dados gerais das empresas industriais com 1 ou mais pessoas ocupadas, segundo as divisões de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1855",
+      "nome": "Estrutura do valor adicionado das empresa industriais com 5 ou mais pessoas ocupadas, segundo as diivisões e os grupos de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "1964",
+      "nome": "Dados gerais das empresas industriais, segundo as indústrias extrativas e de transformação e as faixas de pessoal ocupado"
+    },
+    {
+      "id": "1965",
+      "nome": "Emprego e salário das empresas industriais com 5 ou mais pessoas ocupadas, segundo as divisões e os grupos de atividades"
+    },
+    {
+      "id": "1986",
+      "nome": "Estrutura do valor da transformação industrial das empresas industriais com 5 ou mais pessoas ocupadas, segundo as divisões e os grupos de atividades"
+    },
+    {
+      "id": "1987",
+      "nome": "Dados gerais das unidades locais industriais de empresas industriais com 5 ou mais pessoas ocupadas, por Unidade da Federação, segundo as divisões e os grupos de atividades - Brasil, Sul e Sudeste (exceto Espírito Santo)"
+    },
+    {
+      "id": "1988",
+      "nome": "Dados gerais das unidades locais industriais de empresas industriais com 5 ou mais pessoas ocupadas, por Unidade da Federação, segundo as divisões de atividades - Regiões Norte, Nordeste e Centro-Oeste e Unidade da Federação Espírito Santo"
+    },
+    {
+      "id": "1996",
+      "nome": "Aquisições, melhorias e baixas do ativo imobilizado das empresas industriais com 5 ou mais pessoas ocupadas, segundo as divisões e os grupos de atividades"
+    },
+    {
+      "id": "1997",
+      "nome": "Gastos de pessoal das empresas industriais com 5 ou mais pessoas ocupadas, segundo as divisões e os grupos de atividades"
+    },
+    {
+      "id": "1998",
+      "nome": "Estrutura das receitas das empresas industriais com 5 ou mais pessoas ocupadas, segundo as divisões e os grupos de atividades"
+    },
+    {
+      "id": "1999",
+      "nome": "Estrutura dos custos e despesas das empresa industriais com 5 ou mais pessoas ocupadas, segundo as divisões e os grupos de atividades"
+    },
+    {
+      "id": "5548",
+      "nome": "Dados gerais das empresas industriais com 5 ou mais pessoas ocupadas, segundo as divisões de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "5602",
+      "nome": "Dados gerais das unidades locais industriais de empresas industriais com 5 ou mais pessoas ocupadas, segundo as divisões de atividades (CNAE 2.0)"
+    },
+    {
+      "id": "5603",
+      "nome": "Dados gerais das unidades locais industriais de empresas industriais com 5 ou mais pessoas ocupadas, segundo as Grandes Regiões e as Unidades da Federação (CNAE 2.0)"
+    },
+    {
+      "id": "5604",
+      "nome": "Dados gerais das unidades locais industriais de empresas industriais com 5 ou mais pessoas ocupadas, segundo as Grandes Regiões e as faixas de pessoal ocupado (CNAE 2.0)"
+    },
+    {
+      "id": "7238",
+      "nome": "Dados gerais das unidades locais das empresas industriais com 30 ou mais pessoas ocupadas, segundo as divisões, os grupos e as classes de atividades - Brasil"
+    },
+    {
+      "id": "7239",
+      "nome": "Dados gerais das unidades locais das empresas industriais com 30 ou mais pessoas ocupadas, segundo as Grandes Regiões e Unidades da Federação"
+    },
+    {
+      "id": "7241",
+      "nome": "Emprego, salário e encargos das empresas industriais com 30 ou mais pessoas ocupadas, segundo as divisões, os grupos e as classes de atividades - Brasil"
+    },
+    {
+      "id": "7242",
+      "nome": "Estrutura da receita das empresas industriais com 30 ou mais pessoas ocupadas, segundo as divisões, os grupos e as classes de atividades - Brasil"
+    },
+    {
+      "id": "7243",
+      "nome": "Estrutura do investimento das empresas industriais com 30 ou mais pessoas ocupadas, segundo as divisões, os grupos e as classes de atividades - Brasil"
+    },
+    {
+      "id": "7244",
+      "nome": "Estrutura do valor da transformação e do valor adicionado das empresas industriais com 30 ou mais pessoas ocupadas, segundo as divisões, os grupos e as classes de atividades - Brasil"
+    },
+    {
+      "id": "7245",
+      "nome": "Estrutura dos custos e despesas das empresas industriais com 30 ou mais pessoas ocupadas, segundo as divisões, os grupos e as classes de atividades - Brasil"
+    }
+  ]
+}

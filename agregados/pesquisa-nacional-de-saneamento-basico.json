@@ -1,0 +1,1058 @@
+{
+  "id": "SB",
+  "nome": "Pesquisa Nacional de Saneamento Básico",
+  "agregados": [
+    {
+      "id": "1023",
+      "nome": "Número de municípios, total e os que possuem instrumento legal regulador do serviço de esgotamento sanitário, por tipo de instrumento legal regulador"
+    },
+    {
+      "id": "1024",
+      "nome": "Número de municípios, total e os com serviço de esgotamento sanitário, por existência de legislação municipal que exige aprovação e implantação de sistema de esgotamento sanitário para loteamentos novos"
+    },
+    {
+      "id": "1026",
+      "nome": "Número de municípios, total e os que possuem órgão municipal gestor do serviço de esgotamento sanitário, por característica do órgão municipal gestor"
+    },
+    {
+      "id": "1027",
+      "nome": "Número de municípios, total e os com serviço de manejo de águas pluviais, por forma de execução do serviço"
+    },
+    {
+      "id": "1028",
+      "nome": "Número de municípios, total e os que possuem instrumento legal regulador do serviço de manejo de águas pluviais, por tipo de instrumento legal regulador"
+    },
+    {
+      "id": "1029",
+      "nome": "Número de municípios, total e os com manejo de águas pluviais, por existência de legislação municipal que exige aprovação de sistema de manejo de águas pluviais para loteamentos novos"
+    },
+    {
+      "id": "1036",
+      "nome": "Número de municípios, total e os com manejo de águas pluviais, por existência de legislação municipal que prevê mecanismo de controle das águas pluviais efluentes de novos loteamentos"
+    },
+    {
+      "id": "1228",
+      "nome": "Número de municípios, total e os com manejo de águas pluviais, por existência de legislação municipal que prevê mecanismo de preservação das áreas de recarga de águas subterrâneas"
+    },
+    {
+      "id": "1229",
+      "nome": "Número de municípios, total e os que possuem órgão municipal gestor do serviço de manejo de águas pluviais, por característica do órgão municipal gestor"
+    },
+    {
+      "id": "1230",
+      "nome": "Número de municípios, total e os com serviço de manejo de resíduos sólidos, por forma de execução do serviço"
+    },
+    {
+      "id": "1231",
+      "nome": "Número de municípios, total e os que possuem órgão municipal gestor do serviço de manejo de resíduos sólidos, por característica do órgão municipal gestor"
+    },
+    {
+      "id": "1232",
+      "nome": "Número de municípios, total e os com serviço de manejo de resíduos sólidos, por existência e forma de cobrança de serviços especiais ou eventuais"
+    },
+    {
+      "id": "1233",
+      "nome": "Número de municípios, total e os que exercem controle sobre o manejo de resíduos especiais realizado, por terceiros por tipo de resíduo"
+    },
+    {
+      "id": "1234",
+      "nome": "Número de municípios, total e os com manejo de resíduos sólidos, por existência de catadores na zona urbana"
+    },
+    {
+      "id": "1235",
+      "nome": "Número de catadores de lixo na zona urbana, por grupos de idade"
+    },
+    {
+      "id": "1236",
+      "nome": "Número de municípios, total, os com manejo de resíduos sólidos e os onde existem e os onde não existem cooperativas ou associações de catadores, por existência e número de cooperativas ou associações de catadores"
+    },
+    {
+      "id": "1237",
+      "nome": "Número de municípios, total e os com manejo de resíduos sólidos com participação de catadores nas ações de coleta seletiva, por forma de participação"
+    },
+    {
+      "id": "1238",
+      "nome": "Número de municípios, total e com algum serviço de saneamento básico, por tipo de serviço"
+    },
+    {
+      "id": "1239",
+      "nome": "Número de municípios, total e sem rede geral de abastecimento de água, por principal solução alternativa para o abastecimento de água"
+    },
+    {
+      "id": "1240",
+      "nome": "Número de municípios, total e sem rede coletora de esgoto, por principal solução alternativa para o esgotamento sanitário"
+    },
+    {
+      "id": "1241",
+      "nome": "Número de municípios, total e os com manejo de resíduos sólidos, por situação da coleta seletiva no município"
+    },
+    {
+      "id": "1242",
+      "nome": "Número de municípios, total e os com manejo de resíduos sólidos, por natureza dos serviços"
+    },
+    {
+      "id": "1247",
+      "nome": "Número de municípios, total e os com manejo de resíduos sólidos, por existência e forma de cobrança pelo serviço"
+    },
+    {
+      "id": "1248",
+      "nome": "Número de municípios, total e os que têm conhecimento da existência de catadores nas unidades de disposição de resíduos no solo, por tipo de trabalho social desenvolvido com os catadores"
+    },
+    {
+      "id": "1255",
+      "nome": "Número de municípios, total e os que possuem exclusivamente sistema de drenagem superficial nas ruas pavimentadas, por percentual de ruas pavimentadas exclusivamente com drenagem superficial"
+    },
+    {
+      "id": "1256",
+      "nome": "Pessoal ocupado, permanente, contratado, terceirizado ou somente comissionado, no serviço de manejo de águas pluviais, por alocação do pessoal"
+    },
+    {
+      "id": "1257",
+      "nome": "Número de municípios, total e com serviços de manejo de resíduos sólidos, por natureza dos serviços"
+    },
+    {
+      "id": "1300",
+      "nome": "Número de municípios, total e os com tratamento de esgoto sanitário, por tipo de sistema de tratamento"
+    },
+    {
+      "id": "1353",
+      "nome": "Número de municípios, total e os com serviços de manejo de resíduos sólidos, por existência de coleta seletiva"
+    },
+    {
+      "id": "1354",
+      "nome": "Número de municípios, total e os com coleta de esgoto sanitário, por tipo de rede coletora"
+    },
+    {
+      "id": "1356",
+      "nome": "Número de municípios com coleta de esgoto sanitário, total e os com tratamento, por tipos de corpos receptores"
+    },
+    {
+      "id": "1358",
+      "nome": "Número de municípios, total e os com coleta de esgoto sanitário, por parte do sistema de esgotamento sanitário onde estão sendo feitas ampliações ou melhorias"
+    },
+    {
+      "id": "1359",
+      "nome": "Número de municípios, total e os com rede coletora de esgoto sanitário, e número de economias esgotadas ativas, total e residencial"
+    },
+    {
+      "id": "1361",
+      "nome": "Número de municípios, total e os com coleta de esgoto sanitário, por tipo de constituição jurídica das entidades prestadoras de serviço de esgotamento sanitário"
+    },
+    {
+      "id": "1362",
+      "nome": "Número de municípios, total e os com coleta de esgoto sanitário, por esfera administrativa das entidades prestadoras de serviço de esgotamento sanitário"
+    },
+    {
+      "id": "1364",
+      "nome": "Número de municípios, total e os com serviço de abastecimento de água, por tipo de tratamento da água"
+    },
+    {
+      "id": "1365",
+      "nome": "Número de economias abastecidas, total, ativas, ativas residenciais e ativas não residenciais"
+    },
+    {
+      "id": "1366",
+      "nome": "Número de municípios, total e os com serviço de abastecimento de água, por cobrança pelo serviço de abastecimento de água"
+    },
+    {
+      "id": "1367",
+      "nome": "Número de municípios, total e os que estabelecem tarifa mínima para consumo de água, por faixa de volume de consumo"
+    },
+    {
+      "id": "1368",
+      "nome": "Número de municípios, total e os com rede de distribuição de água, por parte do sistema onde estâo sendo feitas as ampliações ou melhorias"
+    },
+    {
+      "id": "1369",
+      "nome": "Número de municípios, total e os com racionamento de água, por periodicidade do racionamento"
+    },
+    {
+      "id": "1429",
+      "nome": "Número de municípios com serviço de coleta de lixo seletiva por tipo de material recuperado"
+    },
+    {
+      "id": "1441",
+      "nome": "Número de municípios com serviço de coleta seletiva por área de abrangência"
+    },
+    {
+      "id": "1665",
+      "nome": "Número de municípios, total e os com dispositivo coletivo de detenção ou amortecimento de vazão de águas pluviais urbanas, por localização do dispositivo"
+    },
+    {
+      "id": "1684",
+      "nome": "Número de municípios, total e os com rede de distribuição de água, por condição de atendimento no município"
+    },
+    {
+      "id": "1708",
+      "nome": "Número de municípios com rede coletora de esgoto, por existência e forma de cobrança do serviço de esgotamento sanitário"
+    },
+    {
+      "id": "1709",
+      "nome": "Quantidade de caminhões utilizados nos serviços de manejo de resíduos sólidos, por tipo de caminhão"
+    },
+    {
+      "id": "1710",
+      "nome": "Número de municípios com serviços de coleta seletiva, por aplicação dos recursos provenientes da coleta seletiva"
+    },
+    {
+      "id": "1713",
+      "nome": "Número de municípios, total e os com serviços de manejo de pilhas e baterias, por forma de disposição no solo"
+    },
+    {
+      "id": "1714",
+      "nome": "Número de municípios, total e os com serviços de manejo de pilhas e baterias, por tipo de processamento"
+    },
+    {
+      "id": "1715",
+      "nome": "Número de municípios, total e os com serviços de manejo de resíduos de construção e demolição, por forma de disposição no solo"
+    },
+    {
+      "id": "1717",
+      "nome": "Número de municípios, total e os com serviços de manejo de resíduos de construção e demolição, por tipo de processamento"
+    },
+    {
+      "id": "1718",
+      "nome": "Número de municípios que coletam e/ou recebem resíduos sólidos industriais perigosos e/ou não-inertes, por forma de disposição no solo"
+    },
+    {
+      "id": "1719",
+      "nome": "Número de municípios que coletam e/ou recebem resíduos sólidos industriais perigosos e/ou não-inertes, por tipo de processamento"
+    },
+    {
+      "id": "1727",
+      "nome": "Número de entidades com coleta domiciliar regular de resíduos sólidos, por existência de coleta domiciliar regular de resíduos sólidos em área de difícil acesso"
+    },
+    {
+      "id": "1738",
+      "nome": "Número de sedes do município com serviço de coleta regular de resíduos sólidos nas vias e logradouros públicos, por frequência da coleta"
+    },
+    {
+      "id": "1751",
+      "nome": "Número de distritos, total e os com rede de distribuição de água, por condição de atendimento no município"
+    },
+    {
+      "id": "1752",
+      "nome": "Número de municípios, total e os com serviço de abastecimento de água, por tipo de captação"
+    },
+    {
+      "id": "1753",
+      "nome": "Número de municípios, total e os com captação de água, por existência e tipo de poluição ou contaminação na captação"
+    },
+    {
+      "id": "1754",
+      "nome": "Número de municípios, total e os com captação de água, por existência e forma de proteção na captação"
+    },
+    {
+      "id": "1755",
+      "nome": "Número de municípios, total e os com geração de lodo no processo de tratamento de água, por destino do lodo gerado"
+    },
+    {
+      "id": "1756",
+      "nome": "Número de distritos, total e os com serviço de abastecimento de água, por tipo de captação"
+    },
+    {
+      "id": "1758",
+      "nome": "Número de municípios e de distritos, total e os com algum serviço de saneamento básico, por tipo de serviço"
+    },
+    {
+      "id": "1759",
+      "nome": "Número de municípios e de distritos, total e os sem rede geral de abastecimento de água, por principal solução alternativa"
+    },
+    {
+      "id": "1760",
+      "nome": "Número de distritos, total, abastecidos e os com tratamento de água, por tipo de tratamento"
+    },
+    {
+      "id": "1764",
+      "nome": "Número de municípios, total e os que sofreram inundações e/ou alagamentos na área urbana, nos últimos cinco anos, por área em que ocorreram inundalçoese/ou alagamentos"
+    },
+    {
+      "id": "1765",
+      "nome": "Número de municípios, total e os com serviço de abastecimento de água por rede geral de distribuição, por natureza jurídica das entidades prestadoras de serviço"
+    },
+    {
+      "id": "1766",
+      "nome": "Número de distritos, total e os com serviço de abastecimento de água, por tipo de constituição jurídica das entidades prestadoras de serviço"
+    },
+    {
+      "id": "1767",
+      "nome": "Número de municípios, total e os com serviço de abastecimento de água por esfera administrativa das entidades prestadoras de serviço"
+    },
+    {
+      "id": "1768",
+      "nome": "Número de distritos, total e os com serviço de abastecimento de água, por esfera administrativa das entidades prestadoras de serviço"
+    },
+    {
+      "id": "1769",
+      "nome": "Número de distritos, total e os com captação de água, por existência e tipo de poluição ou contaminação na captação"
+    },
+    {
+      "id": "1770",
+      "nome": "Número de distritos, total e os com captação de água, por existência e forma de proteção na captação"
+    },
+    {
+      "id": "1772",
+      "nome": "Número de distritos com captação superficial de água por existência e tipo de análise realizada na água"
+    },
+    {
+      "id": "1773",
+      "nome": "Volume de água tratada distribuída por dia, total e com existência de tratamento, por tipo de tratamento"
+    },
+    {
+      "id": "1774",
+      "nome": "Número de economias abastecidas"
+    },
+    {
+      "id": "1775",
+      "nome": "Número de ligações de água"
+    },
+    {
+      "id": "1776",
+      "nome": "Extensão da rede distribuidora de água"
+    },
+    {
+      "id": "1777",
+      "nome": "Número de estações de tratamento"
+    },
+    {
+      "id": "1778",
+      "nome": "Número de distritos com controle de qualidade, cujas entidades prestadoras de serviço de abastecimento realizam análise na água bruta, por tipo e frequência da análise"
+    },
+    {
+      "id": "1779",
+      "nome": "Número de sedes do município com serviço de coleta domiciliar regular de resíduos sólidos, por tipo de serviço de coleta e frequência da coleta"
+    },
+    {
+      "id": "1780",
+      "nome": "Número de distritos com controle de qualidade, cujas entidades prestadoras de serviço de abastecimento realizam análise na água tratada, por tipo e frequência da análise"
+    },
+    {
+      "id": "1781",
+      "nome": "Número de distritos, total e os cuja água tratada passa por processo de coagulação química, por destino do lodo gerado"
+    },
+    {
+      "id": "1782",
+      "nome": "Número de distritos, total e os com serviço de abastecimento de água, por existência e motivo do racionamento"
+    },
+    {
+      "id": "1784",
+      "nome": "Número de distritos, total e os com racionamento de água, por periodicidade do racionamento"
+    },
+    {
+      "id": "1785",
+      "nome": "Número de distritos cujas entidades prestadoras de serviço de abastecimento realizam coleta de amostra para análise na rede de distribuição, por tipo e frequência da análise"
+    },
+    {
+      "id": "1786",
+      "nome": "Número de distritos abastecidos, por realização da vigilância da qualidade da água pela Secretaria Estadual de Saúde"
+    },
+    {
+      "id": "1787",
+      "nome": "Número de distritos abastecidos, por cobrança pelo serviço de abastecimento de água"
+    },
+    {
+      "id": "1788",
+      "nome": "Número de distritos cujas entidades prestadoras de serviço de abastecimento de água estabelecem tarifa mínima para consumo, por faixa de volume de consumo"
+    },
+    {
+      "id": "1789",
+      "nome": "Número de distritos cujas entidades prestadoras de serviço de abastecimento de água realizam programa de controle de perdas de água, por tipo de controle"
+    },
+    {
+      "id": "1790",
+      "nome": "Número de distritos cujas entidades prestadoras de serviço de abastecimento de água realizam programa de controle de perdas de faturamento, por percentual de perdas faturadas"
+    },
+    {
+      "id": "1791",
+      "nome": "Número de distritos abastecidos, total os com macromedidores, por existência e localização dos macromedidores"
+    },
+    {
+      "id": "1792",
+      "nome": "Número de distritos abastecidos, por existência de fluor na água distribuída"
+    },
+    {
+      "id": "1793",
+      "nome": "Número de distritos abastecidos cujas entidades prestadoras de serviço de abastecimento de água adicionam fluor na água, por tipo de composto utilizado"
+    },
+    {
+      "id": "1794",
+      "nome": "Número de distritos abastecidos cujas entidades prestadoras de serviço de abastecimento de água adicionam fluor na água, por tempo de existência de fluoretação"
+    },
+    {
+      "id": "1795",
+      "nome": "Número de distritos abastecidos cujas entidades prestadoras de serviço de abastecimento de água adicionam fluor na água, total e os que sofreram interrupção da fluoretação, por existência e tempo de interrupção da fluoretação"
+    },
+    {
+      "id": "1796",
+      "nome": "Número de distritos abastecidos com água fluoretada, total e com pontos de controle ou monitoramento da fluoretação, por existência e localização de pontos de controle ou monitoramento da fluoretação"
+    },
+    {
+      "id": "1797",
+      "nome": "Número de distritos abastecidos com água fluoretada cujas entidades prestadoras de serviço de abastecimento de água realizam controle ou monitoramento da fluoretação, por frequência da análise da concentração de fluor"
+    },
+    {
+      "id": "1798",
+      "nome": "Número de distritos abastecidos com água fluoretada cujas entidades prestadoras de serviço de abastecimento de água realizam controle ou monitoramento da fluoretação, por concentração de fluor"
+    },
+    {
+      "id": "1800",
+      "nome": "Número de distritos com rede de distribuição de água, por parte do sistema onde estâo sendo feitas as ampliações ou melhorias"
+    },
+    {
+      "id": "1801",
+      "nome": "Número de distritos com serviço de abastecimento de água, por existência de serviço de atendimento ao público"
+    },
+    {
+      "id": "1804",
+      "nome": "Número de municípios e de distritos, total e os sem rede coletora de esgoto, por principal solução alternativa"
+    },
+    {
+      "id": "1806",
+      "nome": "Número de distritos com coleta de esgoto sanitário, por tipo de constituição jurídica das entidades prestadoras de serviço de esgotamento sanitário"
+    },
+    {
+      "id": "1808",
+      "nome": "Número de distritos com coleta de esgoto sanitário, por esfera administrativa das entidades prestadoras de serviço de esgotamento sanitário"
+    },
+    {
+      "id": "1812",
+      "nome": "Número de distritos, total e os com coleta de esgoto sanitário, por tipo de rede coletora"
+    },
+    {
+      "id": "1813",
+      "nome": "Número de municípios e distritos com coleta de esgoto sanitário, total e os com tratamento, por tipo de corpos receptores"
+    },
+    {
+      "id": "1814",
+      "nome": "Número de municípios e distritos com coleta de esgoto sanitário, total e os sem tratamento, por tipo de corpos receptores"
+    },
+    {
+      "id": "1815",
+      "nome": "Número de distritos, total e os com tratamento de esgoto sanitário, por tipo de sistema de tratamento"
+    },
+    {
+      "id": "1816",
+      "nome": "Número de distritos com tratamento de esgoto sanitário, por existência e tipo de tratamento complementar"
+    },
+    {
+      "id": "1817",
+      "nome": "Número de distritos com tratamento de esgoto sanitário, por existência e tipo de tratamento do lodo"
+    },
+    {
+      "id": "1820",
+      "nome": "Número de distritos, total e os com coleta de esgoto sanitário e Número de ligações de esgoto"
+    },
+    {
+      "id": "1824",
+      "nome": "Número de distritos, total e os com coleta de esgoto sanitário e Número de economias esgotadas"
+    },
+    {
+      "id": "1825",
+      "nome": "Volume de esgoto coletado e tratado por dia"
+    },
+    {
+      "id": "1826",
+      "nome": "Extensão da rede coletora"
+    },
+    {
+      "id": "1827",
+      "nome": "Número de distritos, total, com coleta de esgoto sanitário e que utilizam emissário para lançamento, por tipo de corpos receptores"
+    },
+    {
+      "id": "1828",
+      "nome": "Número de distritos com coleta de esgoto sanitário, total e os que possuem interceptores, por existência e número de interceptores"
+    },
+    {
+      "id": "1829",
+      "nome": "Extensão total dos interceptores"
+    },
+    {
+      "id": "1830",
+      "nome": "Número de distritos com coleta de esgoto sanitário, total e os com uso a jusante dos principais corpos receptores do esgoto sanitário, por tipo de uso dos corpos receptores"
+    },
+    {
+      "id": "1831",
+      "nome": "Número de distritos com tratamento de esgoto sanitário, por destino do lodo gerado"
+    },
+    {
+      "id": "1832",
+      "nome": "Número de distritos com coleta de esgoto sanitário, total e os com cobrança do serviço, por existência e cobrança do serviço"
+    },
+    {
+      "id": "1833",
+      "nome": "Número de distritos com cobrança do serviço de esgotamento sanitário proporcional ao valor da conta de água, por percentual da tarifa cobrada"
+    },
+    {
+      "id": "1834",
+      "nome": "Número de municípios e distritos com coleta de esgoto sanitário, por parte do sistema de esgotamento sanitário onde estão sendo feitas ampliações ou melhorias"
+    },
+    {
+      "id": "1835",
+      "nome": "Pessoal ocupado no serviço de esgotamento sanitário"
+    },
+    {
+      "id": "1836",
+      "nome": "Pessoal ocupado exclusivamente no serviço de abastecimento de água ou nos serviços de abastecimento de água e esgotamento sanitário, por alocação do pessoal"
+    },
+    {
+      "id": "1837",
+      "nome": "Número de distritos com coleta de esgoto sanitário, total e os com serviço de atendimento ao público, por existência e tipo de serviço de atendimento ao público"
+    },
+    {
+      "id": "187",
+      "nome": "Número de municípios, total e os com manejo de resíduos sólidos, por existência de catadores nas unidades de disposição de resíduos no solo"
+    },
+    {
+      "id": "1921",
+      "nome": "Número de municípios que coletam resíduos sólidos industriais perigosos e/ou não-inertes, por frequência da coleta"
+    },
+    {
+      "id": "2064",
+      "nome": "Número de municípios que coletam resíduos sólidos industriais perigosos e/ou não-inertes e Quantidade coletada de resíduos sólidos industriais perigosos e/ou não-inertes"
+    },
+    {
+      "id": "2222",
+      "nome": "Número de entidades prestadoras de serviços de manejo de águas pluviais, por tipo de natureza jurídica"
+    },
+    {
+      "id": "2223",
+      "nome": "Número de entidades prestadoras de serviços de manejo de águas pluviais, por esfera administrativa"
+    },
+    {
+      "id": "2224",
+      "nome": "Pessoal ocupado no serviço de manejo de águas pluviais, por alocação do pessoal"
+    },
+    {
+      "id": "2225",
+      "nome": "Número de municípios, total e os com serviços de manejo de águas pluviais, por vínculo de secretaria ou setor"
+    },
+    {
+      "id": "2226",
+      "nome": "Número de municípios, total e os com serviços de manejo de águas pluviais, por existência de legislação municipal que exige a aprovação e implantação de sistema de drenagem pluvial para loteamentos novos e/ou populares"
+    },
+    {
+      "id": "2227",
+      "nome": "Número de municípios, total e os que possuem instrumentos reguladores do serviço de manejo de águas pluviais, por tipo de instrumento"
+    },
+    {
+      "id": "2228",
+      "nome": "Número de municípios, total e os com serviço de manejo de águas pluviais, por percentual do orçamento destinado à drenagem urbana"
+    },
+    {
+      "id": "2229",
+      "nome": "Número de municípios que concedem a gerência do serviço de manejo de águas pluviais à empreiteiras e Número de empreiteiras que atendem a estes municípios"
+    },
+    {
+      "id": "2230",
+      "nome": "Número de municípios, total e os com serviço de drenagem urbana subterrâneo, por tipo de rede coletora"
+    },
+    {
+      "id": "2231",
+      "nome": "Número de municípios, total e os com serviço de drenagem subterrâneo, por tipo de rede"
+    },
+    {
+      "id": "2238",
+      "nome": "Extensão da rede de drenagem urbana, por tipo de rede"
+    },
+    {
+      "id": "2239",
+      "nome": "Número de municípios, total e os com serviço de manejo de águas pluviais, por pontos de lançamento do efluente"
+    },
+    {
+      "id": "2240",
+      "nome": "Número de municípios, total e os que possuem bacias de detenção ou amortecimento, por número de bacias"
+    },
+    {
+      "id": "2241",
+      "nome": "Número de municípios, total e os com serviço de manejo de águas pluviais, por existência de assoreamento da rede de drenagem"
+    },
+    {
+      "id": "2242",
+      "nome": "Número de municípios, total e os com serviço de manejo de águas pluviais, cujas entidades dispõem de informações pluviométricas/metereológicas, por utilização das informações"
+    },
+    {
+      "id": "2243",
+      "nome": "Número de municípios, total e os com serviço de manejo de águas pluviais, cujas entidades realizam manutenção no sistema, por tipo de atividade desenvolvida na manutenção"
+    },
+    {
+      "id": "2244",
+      "nome": "Número de municípios, total e os com serviço de manejo de águas pluviais, por pontos de estrangulamento que resultam em inundações"
+    },
+    {
+      "id": "2245",
+      "nome": "Número de municípios, total e os que sofreram inundações ou enchentes nos últimos cinco anos, por fatores agravantes"
+    },
+    {
+      "id": "2246",
+      "nome": "Número de municípios, total e os que sofreram inundações ou enchentes nos últimos dois anos e Extensão das áreas onde ocorreram inundações ou enchentes"
+    },
+    {
+      "id": "2247",
+      "nome": "Número de municípios, total e os que apresentam problemas de erosão que afetam o sistema de drenagem urbana, por fatores agravantes de erosão"
+    },
+    {
+      "id": "2248",
+      "nome": "Número de municípios, total e os que apresentam problemas de erosão que afetam o sistema de drenagem urbana e Extensão das áreas afetadas pela erosão"
+    },
+    {
+      "id": "2251",
+      "nome": "Número de municípios, total e os que possuem encostas no perímetro urbano, por tipo de situação das encostas"
+    },
+    {
+      "id": "2252",
+      "nome": "Número de municípios, total e os que possuem áreas de risco no perímetro urbano que demandam drenagem especial, por tipo de área de risco"
+    },
+    {
+      "id": "2253",
+      "nome": "Número de municípios, total e os que possuem ruas pavimentadas no perímetro urbano, por tipo de sistema de drenagem urbana"
+    },
+    {
+      "id": "2254",
+      "nome": "Número de municípios, total e os que possuem ruas pavimentadas no perímetro urbano, por percentual de ruas pavimentadas"
+    },
+    {
+      "id": "2255",
+      "nome": "Número de municípios, total e os que possuem ruas pavimentadas no perímetro urbano, por percentual de ruas pavimentadas sem drenagem"
+    },
+    {
+      "id": "2256",
+      "nome": "Número de municípios, total e os que possuem sistema de drenagem subterrâneo nas ruas pavimentadas, por percentual de ruas pavimentadas com drenagem subterrâneo"
+    },
+    {
+      "id": "2257",
+      "nome": "Número de municípios, total e os que possuem sistema de drenagem superficial nas ruas pavimentadas, por percentual de ruas pavimentadas com drenagem superficial"
+    },
+    {
+      "id": "2258",
+      "nome": "Número de municípios, total e os que tiveram problemas de erosão no perímetro urbano nos últimos dois anos, por tipo de erosão"
+    },
+    {
+      "id": "2277",
+      "nome": "Número de entidades prestadoras de serviços de manejo de resíduos sólidos, por natureza jurídica das entidades prestadoras de serviço"
+    },
+    {
+      "id": "2278",
+      "nome": "Número de entidades prestadoras de serviços de manejo de resíduos sólidos, por esfera administrativa"
+    },
+    {
+      "id": "2279",
+      "nome": "Número de entidades prestadoras de serviços de manejo de resíduos sólidos, por forma de atuação da entidade"
+    },
+    {
+      "id": "2280",
+      "nome": "Número de entidades prestadoras de serviços de manejo de resíduos sólidos, por função da entidade prestadora dos serviços"
+    },
+    {
+      "id": "2281",
+      "nome": "Número de municípios, total e os com serviços de manejo de resíduos sólidos, por forma de execução dos serviços"
+    },
+    {
+      "id": "2282",
+      "nome": "Número de municípios com serviços de manejo de resíduos sólidos, total e os que contratam empresas particulares e Número de empresas particulares contratadas"
+    },
+    {
+      "id": "2283",
+      "nome": "Número de municípios com serviços de manejo de resíduos sólidos, por percentual do orçamento destinado aos serviços de limpeza urbana e/ou coleta de lixo"
+    },
+    {
+      "id": "2297",
+      "nome": "Número de municípios com serviços de manejo de resíduos sólidos, total e os com cobrança dos serviços, por existência e forma de cobrança dos serviços"
+    },
+    {
+      "id": "2298",
+      "nome": "Número de municípios com serviços de manejo de resíduos sólidos, por percentual de domicílios com lixo coletado"
+    },
+    {
+      "id": "2299",
+      "nome": "Número de municípios com serviços de manejo de resíduos sólidos, por percentual do orçamento gasto com pessoal ocupado nos serviços"
+    },
+    {
+      "id": "2300",
+      "nome": "Número de municípios com serviços de manejo de resíduos sólidos, por controle da disposição do lixo industrial"
+    },
+    {
+      "id": "2301",
+      "nome": "Número de municípios, total e os com serviços de manejo de resíduos sólidos, por natureza dos serviços"
+    },
+    {
+      "id": "2306",
+      "nome": "Número de distritos-sede com serviços de coleta de lixo, por tipo de serviço de coleta e frequência da coleta"
+    },
+    {
+      "id": "2307",
+      "nome": "Número de distritos-sede com sistema de varrição e capina das vias públicas, por forma de execução de varrição e/ou capina"
+    },
+    {
+      "id": "2331",
+      "nome": "Número de distritos com serviços de manejo de resíduos sólidos, por unidades de destinação final do lixo coletado"
+    },
+    {
+      "id": "2332",
+      "nome": "Quantidade diária de lixo coletado, por unidade de destinação final do lixo coletado"
+    },
+    {
+      "id": "2333",
+      "nome": "Número de municipios, total e os que utilizam estação de transferência e Quantidade de lixo transferido"
+    },
+    {
+      "id": "2334",
+      "nome": "Número de municípios que coletam e/ou recebem resíduos sólidos de serviços de saúde sépticos, por forma de disposição no solo"
+    },
+    {
+      "id": "2335",
+      "nome": "Número de municípios que coletam e/ou recebem resíduos sólidos de serviços de saúde sépticos, por existência e tipo de processamento dos resíduos sólidos de serviços de saúde sépticos"
+    },
+    {
+      "id": "2336",
+      "nome": "Número de municípios que coletam e/ou recebem resíduos sólidos de serviços de saúde sépticos e Quantidade coletada de residuos sólidos de serviços de saúde sépticos"
+    },
+    {
+      "id": "2337",
+      "nome": "Número de municípios que coletam e/ou recebem resíduos sólidos de serviços de saúde sépticos, por frequência da coleta"
+    },
+    {
+      "id": "2338",
+      "nome": "Número de municípios que coletam e/ou recebem resíduos sólidos industriais perigosos e/ou não-inertes, por destinação dos resíduos"
+    },
+    {
+      "id": "2339",
+      "nome": "Número de municípios que coletam e/ou recebem resíduos sólidos industriais perigosos e/ou não-inertes e Quantidade coletada de resíduos sólidos industriais perigosos e/ou não-inertes"
+    },
+    {
+      "id": "2340",
+      "nome": "Número de municípios que coletam e/ou recebem resíduos sólidos industriais perigosos e/ou não-inertes, por frequência da coleta"
+    },
+    {
+      "id": "2346",
+      "nome": "Número de municípios com serviço de coleta de lixo, por existência de área no município para a disposição final dos resíduos"
+    },
+    {
+      "id": "2347",
+      "nome": "Número de municípios com serviço de coleta de lixo, que possuem áreas para disposição final dos resíduos, por propriedade das áreas utilizadas"
+    },
+    {
+      "id": "2348",
+      "nome": "Número de municípios com serviço de coleta de lixo, que possuem áreas para disposição final dos resíduos, por localização do destino do lixo"
+    },
+    {
+      "id": "2349",
+      "nome": "Número de municípios com serviço de coleta de lixo, que possuem áreas para disposição final dos resíduos e Quantidade de lixo recebido de outro município"
+    },
+    {
+      "id": "2350",
+      "nome": "Número de municípios com serviço de coleta de lixo, que possuem áreas para disposição final dos resíduos, por existência de recebimento de lixo de outro município"
+    },
+    {
+      "id": "2351",
+      "nome": "Número de municípios com serviços de manejo de resíduos sólidos, por existência de catadores nas unidades de destinação final do lixo"
+    },
+    {
+      "id": "2353",
+      "nome": "Número de catadores de lixo nas unidades de destinação final do lixo, por grupos de idade"
+    },
+    {
+      "id": "2354",
+      "nome": "Número de municípios que têm conhecimento da existência de catadores nas unidades de destinação final do lixo, total e os que desenvolvem trabalho social com os catadores, por existência e tipo de trabalho desenvolvido com os catadores"
+    },
+    {
+      "id": "2355",
+      "nome": "Número de municípios com serviços de manejo de resíduos sólidos, por existência de residências nas unidades de destinação final do lixo"
+    },
+    {
+      "id": "2356",
+      "nome": "Número de pessoas que residem nos lixões, por grupos de idade"
+    },
+    {
+      "id": "2358",
+      "nome": "Número de municípios com serviço de coleta de lixo seletiva interrompida, por motivo da interrupção"
+    },
+    {
+      "id": "2359",
+      "nome": "Número de entidades, total e as que participaram de algum projeto de coleta de lixo seletiva no município, por tipo de participação no projeto"
+    },
+    {
+      "id": "2361",
+      "nome": "Número de municípios com serviço de coleta de lixo seletiva, por tipo de material recuperado"
+    },
+    {
+      "id": "2362",
+      "nome": "Número de municípios com serviço de coleta de lixo seletiva, por destinação do material coletado"
+    },
+    {
+      "id": "2363",
+      "nome": "Número de municípios com serviço de coleta de lixo seletiva, por principal receptor da coleta seletiva"
+    },
+    {
+      "id": "2364",
+      "nome": "Número de municípios com serviço de coleta seletiva, por área de abrangência"
+    },
+    {
+      "id": "2365",
+      "nome": "Número de municípios com serviço de coleta de lixo seletiva, Número estimado de residências e Quantidade de lixo coletado"
+    },
+    {
+      "id": "2366",
+      "nome": "Número de veículos e equipamentos utilizados nos serviços de manejo de resíduos sólidos, por tipo de veículos e equipamentos"
+    },
+    {
+      "id": "2367",
+      "nome": "Pessoal ocupado nos serviços de manejo de resíduos sólidos, por indicação do serviço executado"
+    },
+    {
+      "id": "2368",
+      "nome": "Número de entidades prestadoras de serviços de manejo de resíduos sólidos, total e as que oferecem equipamentos de proteção individual, por tipo de equipamento"
+    },
+    {
+      "id": "2369",
+      "nome": "Número de municípios com serviços de manejo de resíduos sólidos, por existência de serviço de atendimento ao público"
+    },
+    {
+      "id": "349",
+      "nome": "Número de municípios, total e os que participam de consórcio intemunicipal/interfederativo, por área do setor de saneamento"
+    },
+    {
+      "id": "354",
+      "nome": "Número de municípios, total e os com ocorrência de doenças associadas ao saneamento básico, por tipo de doença"
+    },
+    {
+      "id": "396",
+      "nome": "Número de municípios, total e com serviço de abastecimento de água, por forma de execução do serviço"
+    },
+    {
+      "id": "7460",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição, por condição de funcionamento do serviço"
+    },
+    {
+      "id": "7461",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora, por condição de funcionamento do serviço"
+    },
+    {
+      "id": "7462",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento, por esfera administrativa e natureza jurídica das entidades prestadoras de serviço"
+    },
+    {
+      "id": "7463",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento, por existência e tipo de instrumento de delegação e órgão regulador"
+    },
+    {
+      "id": "7464",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento com captação de água e volume de água captada por dia, por tipo de água captada"
+    },
+    {
+      "id": "7465",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento com captação de água doce, número de pontos de captação de água doce e volume de água doce captada por dia, por tipo de ponto de captação"
+    },
+    {
+      "id": "7466",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento com ETAs ou UTSs em operação e volume de água tratada por dia, por tipo de tratamento"
+    },
+    {
+      "id": "7467",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento com ETAs ou UTSs em operação, por tipo e etapas de tratamento e geração de lodo no tratamento"
+    },
+    {
+      "id": "7468",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento com captação de água doce em ponto superficial, em poço raso ou em poço profundo, por existência e tipo de proteção e de poluição ou contaminação na captação"
+    },
+    {
+      "id": "7469",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com geração de lodo no processo de tratamento de água, por destino do lodo gerado"
+    },
+    {
+      "id": "7470",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento, por esfera administrativa e natureza jurídica das entidades prestadoras de serviço"
+    },
+    {
+      "id": "7471",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento, por existência e tipo de cobrança"
+    },
+    {
+      "id": "7472",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento, por existência e tipo de cobrança"
+    },
+    {
+      "id": "7473",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com cobrança de tarifa pelo serviço, por forma de cálculo da tarifa"
+    },
+    {
+      "id": "7474",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento, com cobrança de tarifa mínima mensal para a categoria residencial e valor médio da tarifa mínima mensal da água para categoria residencial, por volume do consumo mensal referente à tarifa mínima"
+    },
+    {
+      "id": "7475",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com reservatório(s) em operação, por manutenção do(s) reservatório(s)"
+    },
+    {
+      "id": "7476",
+      "nome": "Número de reservatórios de água para abastecimento em operação, com limpeza ou manutenção e capacidade dos reservatórios em operação"
+    },
+    {
+      "id": "7477",
+      "nome": "Número de economias ativas abastecidas residenciais com subsídios, por tipo de subsídios"
+    },
+    {
+      "id": "7478",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com ETEs e número de ETEs, por condição de funcionamento da unidade de tratamento"
+    },
+    {
+      "id": "7479",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com ETEs em operação e volume de esgoto tratado por dia, por tipo de tratamento"
+    },
+    {
+      "id": "7480",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com flúor na água distribuída, por existência de interrupção da fluoretação no ano de referência."
+    },
+    {
+      "id": "7481",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com entidade executora que recebe água bruta ou tratada de outras entidades ou outros municípios, por origem da água recebida"
+    },
+    {
+      "id": "7482",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento com ETAs ou UTSs e número de ETAs ou UTSs, por condição de funcionamento da unidade de tratamento"
+    },
+    {
+      "id": "7483",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e extensão da rede coletora de esgoto, por tipo de rede"
+    },
+    {
+      "id": "7484",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com ocorrência de interrupção de todos os sistemas de distribuição de alguma entidade por seis horas ou mais, por duração do maior período de interrupção"
+    },
+    {
+      "id": "7485",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e que fazem análise do efluente das ETEs e número de amostras analisadas, total e fora das condições de lançamento no corpo receptor, por tipo de análises realizadas"
+    },
+    {
+      "id": "7486",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com geração de lodo no processo de tratamento de esgoto, por existência e etapas do tratamento e por destino do lodo gerado"
+    },
+    {
+      "id": "7487",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com ocorrência de racionamento de água distribuída, por duração do maior período de racionamento"
+    },
+    {
+      "id": "7488",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento, por existência de racionamento da água distribuída no triênio de referência, por ano e mês de racionamento sazonal"
+    },
+    {
+      "id": "7489",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento, por existência e tipo de projeto de educação ambiental"
+    },
+    {
+      "id": "7490",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com entidade executora que envia esgoto ou efluente para outras entidades ou outros municípios, por destino do esgoto ou efluente enviado"
+    },
+    {
+      "id": "7491",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com disposição final de esgoto ou efluente, por tipo de corpos receptores"
+    },
+    {
+      "id": "7492",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com disposição final de esgoto ou efluente em rio, por existência e tipo de uso a jusante do rio"
+    },
+    {
+      "id": "7493",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com disposição de esgoto ou efluente por emissário oceânico, número de emissários, com medição e com licença ambiental, e extensão dos emissários, por tipo de emissário"
+    },
+    {
+      "id": "7494",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento, com cobrança ou contribuição pelo serviço e com subsídios aos usuários do serviço, por tipo de subsídios, forma de financiamento dos subsídios e tipo de critério para a concessão dos subsídios"
+    },
+    {
+      "id": "7495",
+      "nome": "Número de economias ativas esgotadas residenciais com subsídios, por tipo de subsídios"
+    },
+    {
+      "id": "7496",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com cobrança de tarifa de esgoto proporcional à água, por existência e tipo de diferentes critérios para determinação da tarifa"
+    },
+    {
+      "id": "7497",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e volume de água distribuída por dia, por existência e tipo de tratamento da água"
+    },
+    {
+      "id": "7499",
+      "nome": "Número de ligações ativas abastecidas, total e micromedidas, número de economias ativas abastecidas e volume de água consumido e faturado por dia, por tipos de ligações ou economias"
+    },
+    {
+      "id": "7500",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e extensão da rede distribuidora de água."
+    },
+    {
+      "id": "7501",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento, com subsídios aos usuários do serviço, por tipo de subsídios, forma de financiamento dos subsídios e tipo de critério para a concessão dos subsídios"
+    },
+    {
+      "id": "7502",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com ETEs em operação, por tipos e processos de tratamento de esgoto"
+    },
+    {
+      "id": "7503",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com ETEs em operação, por tipo de tratamento, geração de lodo e destino dos resíduos sólidos removidos no tratamento preliminar"
+    },
+    {
+      "id": "7504",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição paralisado durante todo o ano de referência, por motivo da paralisação, existência e tipo de solução alternativa"
+    },
+    {
+      "id": "7505",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com controle de perdas físicas, por tipos de programas e ações de controle."
+    },
+    {
+      "id": "7506",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com macromedidor(es), por localização do(s) macromedidor(es)"
+    },
+    {
+      "id": "7507",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com perdas de faturamento da água distribuída, por motivos e existência de programas de controle das perdas"
+    },
+    {
+      "id": "7508",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento, com faturamento sobre o volume de água consumido e com consumo autorizado não faturado e número de economias como assentamento, favelas, e outras, com consumo autorizado não faturado."
+    },
+    {
+      "id": "7509",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com extravasamento de esgoto na rede, por motivo(s) do extravasamento e destino do esgoto extravasado"
+    },
+    {
+      "id": "7510",
+      "nome": "Número de ligações esgotadas ativas, número de economias esgotadas ativas e volume de esgoto coletado e faturado por dia, por tipos de ligações ou economias"
+    },
+    {
+      "id": "7512",
+      "nome": "Municípios com serviço de esgotamento sanitário por rede coletora em funcionamento e com medição ou estimação do volume coletado, por forma de medição ou estimação"
+    },
+    {
+      "id": "7513",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento, por existência e tipo de instrumento de delegação e órgão regulador"
+    },
+    {
+      "id": "7514",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com ocorrência de racionamento da água distribuída, por existência e tipo de solução alternativa, meios de comunicação e motivos do racionamento"
+    },
+    {
+      "id": "7515",
+      "nome": "Municípios com serviço de abastecimento de água por rede geral de distribuição em funcionamento e com ocorrência de interrupção de todos os sistemas de distribuição, por existência e tipo de solução alternativa, meios de comunicação e motivos da interrupção"
+    },
+    {
+      "id": "938",
+      "nome": "Número de municípios, total e os que possuem imstrumento legal regulador do serviço de abastecimento de água, por tipo de instrumento legal regulador"
+    },
+    {
+      "id": "976",
+      "nome": "Número de municípios, total e os com serviço de abastecimento de água, por existência de legislação municipal sobre proteção de mananciais"
+    },
+    {
+      "id": "977",
+      "nome": "Número de municípios, total e os com serviço de abastecimento de água por rede geral de distribuição, por existência de legislação municipal que exige a aprovação e implantação de sistema de abastecimento de água para loteamentos novos"
+    },
+    {
+      "id": "978",
+      "nome": "Número de municípios, total e os que possuem órgão municipal gestor do serviço de abastecimento de água, por característica do órgão municipal gestor"
+    },
+    {
+      "id": "982",
+      "nome": "Número de municípios, total e os com serviço de esgotamento sanitário, por forma de execução do serviço"
+    }
+  ]
+}

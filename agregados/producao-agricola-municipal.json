@@ -1,0 +1,34 @@
+{
+  "id": "PA",
+  "nome": "Produção Agrícola Municipal",
+  "agregados": [
+    {
+      "id": "1000",
+      "nome": "Área plantada, área colhida, quantidade produzida e rendimento médio de amendoim, 1ª e 2ª safras"
+    },
+    {
+      "id": "1001",
+      "nome": "Área plantada, área colhida, quantidade produzida e rendimento médio de batata-inglesa, 1ª, 2ª e 3ª safras"
+    },
+    {
+      "id": "1002",
+      "nome": "Área plantada, área colhida, quantidade produzida e rendimento médio de feijão, 1ª, 2ª e 3ª safras"
+    },
+    {
+      "id": "1612",
+      "nome": "Área plantada, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras temporárias"
+    },
+    {
+      "id": "1613",
+      "nome": "Área destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras permanentes"
+    },
+    {
+      "id": "5457",
+      "nome": "Área plantada ou destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras temporárias e permanentes"
+    },
+    {
+      "id": "839",
+      "nome": "Área plantada, área colhida, quantidade produzida e rendimento médio de milho, 1ª e 2ª safras"
+    }
+  ]
+}

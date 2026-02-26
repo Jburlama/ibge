@@ -1,0 +1,14 @@
+{
+  "id": "IJ",
+  "nome": "Índice de Reajuste do Salário Mínimo",
+  "agregados": [
+    {
+      "id": "90",
+      "nome": "IRSM - Percentual no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (série encerrada)"
+    },
+    {
+      "id": "91",
+      "nome": "IRSM - Peso no mês, para o índice geral, grupos, subgrupos, itens e subitens de produtos e serviços (série encerrada)"
+    }
+  ]
+}

@@ -1,0 +1,1534 @@
+{
+  "id": "AA",
+  "nome": "Pesquisa Nacional de Saúde do Escolar",
+  "agregados": [
+    {
+      "id": "1279",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, cor ou raça, idade e escolaridade da mãe"
+    },
+    {
+      "id": "1280",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, cor ou raça, escolaridade da mãe e se mora com a mãe e/ou com o pai"
+    },
+    {
+      "id": "1306",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, número de dias, nos últimos 7 dias, em que comeu feijão, em que comeu salada crua, em que comeu legumes ou verduras cozidos e em que bebeu leite"
+    },
+    {
+      "id": "1307",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, número de dias, nos últimos 7 dias, em que comeu batata frita, em que comeu hamburger, salsicha, mortadela, salame, presunto, nuggets ou linguiça, em que comeu salgados fritos e em que comeu guloseimas"
+    },
+    {
+      "id": "1315",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, se costuma fazer as refeições com a mãe ou com o responsável, se costuma comer assistindo TV ou estudando, existência de empregado doméstico 5 dias ou mais por semana e escolaridade da mãe"
+    },
+    {
+      "id": "1324",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, número de dias, nos últimos 7 dias, em que outras pessoas fumaram na casa do escolar, qual dos pais ou responsáveis pelo escolar fuma, se consegue comprar cigarros na escola e reação da família se soubesse que o escolar fuma cigarros"
+    },
+    {
+      "id": "1326",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por se mora com a mãe e/ou com o pai, sexo, se o escolar fumou cigarro alguma vez na vida, mesmo uma ou duas tragadas, idade quando experimentou cigarro pela 1ª vez, número de dias, nos últimos 30 dias, em que o escolar fumou cigarros"
+    },
+    {
+      "id": "1327",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, escolaridade da mãe, se o escolar experimentou bebida alcoólica alguma vez na vida, se mora com a mãe e/ou com o pai"
+    },
+    {
+      "id": "1328",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, se o escolar experimentou bebida alcoólica alguma vez na vida, idade quando experimentou bebida alcoólica pela 1ª vez, nos últimos 30 dias, nos dias em que o escolar tomou alguma bebida alcólica, quantos copos ou doses tomou por dia e quantas vezes na vida o escolar bebeu tanto que ficou realmente bêbado"
+    },
+    {
+      "id": "1332",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, reação da família se o escolar chegasse em casa bêbado, escolaridade da mãe, se mora com a mãe e/ou com o pai"
+    },
+    {
+      "id": "1336",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por sexo, se o escolar usou droga alguma vez na vida, quantas vezes, nos últimos 30 dias, o escolar usou drogas, se mora com a mãe e/ou com o pai e o número de dias, nos últimos 30 dias, em que faltou às aulas sem permissão dos pais ou responsáveis"
+    },
+    {
+      "id": "1340",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, se o escolar já teve relação sexual, idade do escolar quando teve relaçao sexual pela 1ª vez, se mora com o pai e/ou com a mãe"
+    },
+    {
+      "id": "1341",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, na vida do escolar, com quantas pessoas ele já teve relação sexual, idade do escolar quando teve relação sexual pela 1ª vez, se mora com o pai e/ou com a mãe"
+    },
+    {
+      "id": "1344",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo, se o escolar teve relação sexual nos últimos 12 meses, se o escolar já recebeu na escola orientação sobre prevenção de gravidez e/ou sobre Aids ou outras doenças sexualmente transmissíveis e/ou como conseguir preservativo gratuitamente"
+    },
+    {
+      "id": "1345",
+      "nome": "Estudantes frequentando o 9º ano do ensino fundamental, por dependência administrativa do estabelecimento, sexo e, nos últimos 30 dias, em quantos o escolar deixou de ir à escola por não se sentir seguro no caminho de ida ou de volta, em quantos o escolar deixou de ir à escola por não se sentir seguro na escola, quantas vezes o escolar foi agredido fisicamente por um adulto da família dele e se o escolar esteve envolvido em alguma briga em que alguém foi fisicamente agredido"
+    },
+    {
+      "id": "1352",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela cor ou raça, por dependência administrativa da escola, sexo e idade"
+    },
+    {
+      "id": "2316",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela dependência administrativa da escola, por sexo, idade e cor ou raça"
+    },
+    {
+      "id": "2317",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pelo sexo, por dependência administrativa da escola, idade e cor ou raça"
+    },
+    {
+      "id": "3666",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, por dependência administrativa da escola, sexo, idade e cor ou raça"
+    },
+    {
+      "id": "3679",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, por nível de instrução da mãe e nível de instrução do pai"
+    },
+    {
+      "id": "3680",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela idade, por dependência administrativa da escola, sexo e cor ou raça"
+    },
+    {
+      "id": "3681",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pelo nível de instrução da mãe, por nível de instrução do pai"
+    },
+    {
+      "id": "3682",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pelo nível de instrução do pai, por nível de instrução da mãe"
+    },
+    {
+      "id": "3684",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por classe de números de residentes no domicílio"
+    },
+    {
+      "id": "3685",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, que possuem, ou não, algum trabalho ou emprego ou negócio e receberam dinheiro, ou não, por desempenhar esta atividade"
+    },
+    {
+      "id": "3686",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem bens e/ou serviços no domicílio, distribuído pelo tipo de bens e serviços, por dependência administrativa da escola"
+    },
+    {
+      "id": "3688",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por condição de morar com mãe e/ou pai"
+    },
+    {
+      "id": "3689",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental cujos pais ou responsáveis sabiam o que eles faziam durante o tempo livre nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3690",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por tempo acumulado de atividade física nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "3691",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que faltaram às aulas ou à escola sem permissão dos pais ou responsáveis nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3692",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental com 300 minutos ou mais de atividade física acumulada nos 7 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3693",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, que costumam fazer refeições em cinco ou mais dias na semana com a presença dos pais ou responsáveis, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3694",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental cujos pais ou responsáveis verificaram se os deveres de casa (lição de casa) foram feitos nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3695",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental cujos pais ou responsáveis entenderam seus problemas e preocupações nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3696",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental cujos pais ou responsáveis mexeram em suas coisas sem sua concordância nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3697",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de aulas de educação física na escola, nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "3698",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que tiveram 2 ou mais dias de aulas de educação física na escola, nos 7 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3699",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que costumavam assistir duas ou mais horas de televisão, num dia de semana comum, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3700",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela frequência de consumo alimentar, nos últimos 7 dias, dos alimentos pesquisados, por condição do alimento quanto à saúde e alimento consumido, e frequência de consumo alimentar, nos últimos sete dias"
+    },
+    {
+      "id": "3701",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos ao uso de cigarros e outros produtos de tabaco, por sexo e dependência administrativas da escola"
+    },
+    {
+      "id": "3702",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos ao uso de bebida alcoólica, por sexo e dependência administrativas da escola"
+    },
+    {
+      "id": "3703",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que usaram drogas ilícitas alguma vez, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3704",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos ao comportamento alimentar, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3705",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que utilizaram drogas tais como maconha, cocaína, crack, cola, loló, lança-perfume, ecstasy, oxy, etc, nos últimos 30 dias, distribuído pela frequência de uso dessas drogas, por sexo e dependência administrativa"
+    },
+    {
+      "id": "3706",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre os que usaram algum tipo de droga alguma vez, que utilizaram maconha, distribuído pela frequência de uso da droga, nos últimos 30 dias, por sexo e dependência administrativa"
+    },
+    {
+      "id": "3707",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre os que usaram algum tipo de droga alguma vez, que utilizaram crack, distribuído pela frequência de uso da droga, nos últimos 30 dias, por sexo e dependência administrativa"
+    },
+    {
+      "id": "3708",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos à saúde sexual e reprodutiva, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3709",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela frequência com que, nos últimos 30 dias, os colegas da escola os trataram bem e/ou foram prestativos com eles, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3710",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela frequência com que, nos últimos 30 dias, se sentiram humilhados pelas provocações de colegas da escola, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3711",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que, nos últimos 30 dias, esculacharam, zombaram, zoaram, caçoaram, mangaram, intimidaram ou humilharam algum de seus colegas da escola tanto que ele ficou magoado, aborrecido, ofendido ou humilhado, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3712",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que não compareceram à escola por falta de segurança no trajeto casa-escola ou na escola nos 30 dias anteriores à pesquisa, por local da falta de segurança e dependência administrativa da escola"
+    },
+    {
+      "id": "3713",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos à violência, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3714",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos à segurança, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3715",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que foram feridos seriamente uma ou mais vezes, dentre os que sofreram ferimentos sérios nos últimos 12 meses, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3716",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos à saúde bucal, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3717",
+      "nome": "Percentual de escolares frequentando o 9º ano, distribuído pela frequência de ida ao dentista, nos últimos 12 meses, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3718",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos à higiene, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3719",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela autopercepção da imagem corporal, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3720",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela atitude em relação ao peso corporal, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3721",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos à atitude em relação ao peso corporal, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3723",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos à saúde mental, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3724",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que procuraram algum serviço ou profissional de saúde para atendimento relacionado à própria saúde, nos 12 meses anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3725",
+      "nome": "Dados percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos à asma, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3726",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, que fizeram 300 minutos ou mais de atividade física, nos últimos 7 dias, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "3738",
+      "nome": "Dados dos totais e dos percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos aos equipamentos de ensino disponíveis na escola, por dependência administrativa da escola"
+    },
+    {
+      "id": "3742",
+      "nome": "Dados dos totais e dos percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos a aquisição de produtos alimentícios pelos escolares, por dependência administrativa da escola"
+    },
+    {
+      "id": "3743",
+      "nome": "Dados dos totais e dos percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos aos equipamentos para prática de atividade física disponíveis na escola, por dependência administrativa da escola"
+    },
+    {
+      "id": "3750",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em que a localidade onde a escola está situada foi considerada, nos últimos 12 meses, área de risco em termos de violência (roubos, furtos, assaltos, troca de tiros, consumo de drogas, homicídios, etc.), por dependência administrativa da escola"
+    },
+    {
+      "id": "3751",
+      "nome": "Dados dos totais e dos percentuais de escolares frequentando o 9º ano do ensino fundamental, relativos ao consumo de tabaco, por dependência administrativa da escola"
+    },
+    {
+      "id": "5615",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que fumaram cigarro pela primeira vez com 13 anos ou menos, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "5617",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que usaram drogas ilícitas pela primeira vez com 13 anos ou menos, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "5620",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos cuja primeira relação sexual foi com 13 anos ou menos, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "5948",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir biblioteca em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5950",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir sala ou laboratório de informática em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5951",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir computadores (desktops, laptops, notebooks, netbooks, tablets) em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5952",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas em que os alunos têm acesso à internet através de equipamentos da escola, por dependência administrativa da escola"
+    },
+    {
+      "id": "5953",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir salas de recursos de mídia/comunicação em condições de uso (ex.: televisão, videocassete, dvd, projetor), por dependência administrativa da escola"
+    },
+    {
+      "id": "5954",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir conselho escolar que se reúne com frequência, por dependência administrativa da escola"
+    },
+    {
+      "id": "5955",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram ficar abertas nos finais de semana para prática de ações pactuadas com a comunidade, por dependência administrativa da escola"
+    },
+    {
+      "id": "5956",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir quadra de esportes em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5957",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir pista de corrida/atletismo em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5958",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir piscina em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5959",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir pátio para a prática de atividade física com instrutor, por dependência administrativa da escola"
+    },
+    {
+      "id": "5960",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir material esportivo ou para jogos e brincadeiras em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5961",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir vestiário em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5962",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram oferecer atividades esportivas para os alunos fora do horário regular de aula, por dependência administrativa da escola"
+    },
+    {
+      "id": "5963",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir alunos com deficiência ou com transtorno global do desenvolvimento, por dependência administrativa da escola"
+    },
+    {
+      "id": "5964",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir estrutura para assegurar a acessibilidade dos alunos com necessidades especiais, por dependência administrativa da escola"
+    },
+    {
+      "id": "5965",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram oferecer comida (merenda escolar/almoço) para os escolares, por dependência administrativa da escola"
+    },
+    {
+      "id": "5966",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir cozinha em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5967",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir refeitório (espaço exclusivo para servir alimentação) em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5968",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir cantina, por dependência administrativa da escola"
+    },
+    {
+      "id": "5969",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram existir ponto alternativo de venda de produtos alimentícios dentro ou na entrada da escola (ex.: ambulante/carrocinha), por dependência administrativa da escola"
+    },
+    {
+      "id": "5970",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir horta, por dependência administrativa da escola"
+    },
+    {
+      "id": "5971",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir água potável (adequada para beber), por dependência administrativa da escola"
+    },
+    {
+      "id": "5972",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir banheiros em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5973",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir banheiros separados para alunos e alunas em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "5974",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir pia ou lavatório em condições de uso onde os escolares podem lavar as mãos depois de ir ao banheiro e/ou antes das refeições, por dependência administrativa da escola"
+    },
+    {
+      "id": "5975",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pelo ano/série em que estuda, por grupo de idade do escolar"
+    },
+    {
+      "id": "5976",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram ter suspendido ou interrompido as aulas por motivo de segurança em termos de violência pelo menos 1 vez nos últimos 12 meses, por dependência administrativa da escola"
+    },
+    {
+      "id": "5977",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir algum grupo ou comitê responsável por orientar ou coordenar ações e/ou atividades relacionadas à saúde, por dependência administrativa da escola"
+    },
+    {
+      "id": "5978",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram ter aderido ao Programa de Saúde da Escola (PSE) e implementam ações do programa, por dependência administrativa da escola"
+    },
+    {
+      "id": "5979",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram implementar ações do Programa Mais Educação, por dependência administrativa da escola"
+    },
+    {
+      "id": "5980",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram realizar ações conjuntas com a Unidade Básica de Saúde ou com a Equipe de Saúde da Família ou com a Equipe de Atenção Básica, por dependência administrativa da escola"
+    },
+    {
+      "id": "5981",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram manter registros sobre a caderneta de vacinação dos escolares ou registros sobre a saúde dos escolares (histórico clínico, ocorrência de alergias, acidente, tipo sanguíneo, doenças etc.), por dependência administrativa da escola"
+    },
+    {
+      "id": "5982",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir material e/ou medicamentos de Primeiros Socorros mantidos em local adequado, por dependência administrativa da escola"
+    },
+    {
+      "id": "5983",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir conhecimento de consumo de cigarro por professores nas suas dependências, por dependência administrativa da escola"
+    },
+    {
+      "id": "5984",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir conhecimento de consumo de cigarro pelos escolares nas suas dependências, por dependência administrativa da escola"
+    },
+    {
+      "id": "5985",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir alguma política, norma ou regra escrita que proíba o uso de tabaco nas suas dependências, por dependência administrativa da escola"
+    },
+    {
+      "id": "5986",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que não compareceram à escola por falta de segurança no trajeto casa-escola ou na escola nos 30 dias anteriores à pesquisa, por dependência administrativa da escola"
+    },
+    {
+      "id": "5987",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "5988",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por idade"
+    },
+    {
+      "id": "5989",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por cor ou raça"
+    },
+    {
+      "id": "5993",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que já tiveram relação sexual, distribuído pelo número de parceiros, por sexo e grupo de idade do escolar"
+    },
+    {
+      "id": "5994",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que foram agredidos fisicamente por algum adulto da família alguma vez nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "5995",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem telefone fixo no domicílio, por dependência administrativa da escola"
+    },
+    {
+      "id": "5996",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por nível de instrução da mãe"
+    },
+    {
+      "id": "5997",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por condição de possuir algum trabalho ou emprego ou negócio e receber dinheiro por desempenhar esta atividade"
+    },
+    {
+      "id": "5998",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que costumam tomar café da manhã 5 dias ou mais na semana, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "5999",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que costumam almoçar ou jantar com pais ou responsáveis 5 dias ou mais na semana, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6000",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que costumam comer quando estão assistindo à TV ou estudando, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6001",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental em escolas que informaram oferecer comida (merenda escolar/almoço) para os escolares, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6002",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que costumam comer merenda escolar ou almoço oferecidos pela escola, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6005",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que comeram em restaurantes fast-food (lanchonetes, barracas de cachorro quente, pizzaria etc) 3 dias ou mais nos 7 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6006",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, que fumaram nos 30 dias anteriores à pesquisa, distribuído pelo modo como conseguiram cigarro"
+    },
+    {
+      "id": "6007",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, que consumiram bebida alcoólica nos 30 dias anteriores à pesquisa, distribuído pelo modo como conseguiram a bebida"
+    },
+    {
+      "id": "6009",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir alguma política, norma ou regra escrita que proíba o consumo de bebidas alcoólicas nas suas dependências, por dependência administrativa da escola"
+    },
+    {
+      "id": "6010",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir alguma política, norma ou regra escrita que proíba o uso de drogas ilícitas nas suas dependências, por dependência administrativa da escola"
+    },
+    {
+      "id": "6011",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir alguma política, norma ou regra escrita que proíba bullying nas suas dependências, por dependência administrativa da escola"
+    },
+    {
+      "id": "6013",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de consumo de alimentos em restaurantes fast-food (lanchonetes, barracas de cachorro quente, pizzaria etc), nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "6014",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de consumo de feijão, nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "6015",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de consumo de legumes e/ou verduras, nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "6016",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de consumo de frutas frescas, nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "6017",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de dias em que fez atividade física por 60 minutos ou mais nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "6018",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que fizeram 300 minutos ou mais de atívidade física globalmente estimada nos 7 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6019",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por predisposição para prática de atividade física durante a semana, caso tenha oportunidade"
+    },
+    {
+      "id": "6020",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que costumam assistir, semanalmente, 2 ou mais horas de televisão, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6021",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que costumam ficar sentados(as), assistindo televisão, usando computador, jogando videogame, conversando com amigos(as) ou fazendo outras atividades sentados(as), semanalmente, por 2 ou mais horas, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6023",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que experimentaram cigarro alguma vez, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6024",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que experimentaram cigarros alguma vez, que fumaram nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6026",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que usaram outros produtos de tabaco (cigarros de palha ou enrolados a mão, charuto, cachimbo, cigarrilha, cigarro indiano ou bali, narguilé, rapé, fumo de mascar etc) nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6028",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que estiveram em presença de pessoas que faziam uso de cigarro nos 7 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6029",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental em que ao menos um dos pais ou responsáveis é fumante, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6030",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que experimentaram bebida alcoólica alguma vez, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6031",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que experimentaram bebida alcoólica alguma vez, que consumiram bebidas alcoólicas pelo menos um dia nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6032",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que experimentaram bebida alcoólica alguma vez, que sofreram algum episódio de embriaguez na vida, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6033",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que experimentaram bebida alcoólica alguma vez, que tiveram problemas com família ou amigos, perderam aulas ou brigaram, uma ou mais vezes, porque tinham bebido, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6034",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental cujos amigos consomem bebidas alcoólicas, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6035",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que experimentaram drogas ilícitas alguma vez, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6036",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que experimentaram drogas ilícitas alguma vez, que usaram drogas nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6037",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que experimentaram drogas ilícitas alguma vez, que usaram maconha nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6040",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que experimentaram drogas ilícitas alguma vez, que usaram crack nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6043",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem amigos que usam drogas ilícitas, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6044",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de consumo de salgados fritos, nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "6045",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de consumo de guloseimas, nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "6046",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de consumo de refrigerantes, nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "6047",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, por frequência de consumo de alimentos industrializados ou ultraprocessados salgados, nos 7 dias anteriores à pesquisa"
+    },
+    {
+      "id": "6049",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela frequência com que os colegas da escola os trataram bem e/ou foram prestativos com eles nos 30 dias anteriores à pesquisa, por dependência administrativa da escola"
+    },
+    {
+      "id": "6050",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela frequência com que os colegas da escola os trataram bem e/ou foram prestativos com eles nos 30 dias anteriores à pesquisa, por sexo"
+    },
+    {
+      "id": "6051",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela frequência com que se sentiram humilhados pelas provocações de colegas da escola nos 30 dias anteriores à pesquisa, por dependência administrativa da escola"
+    },
+    {
+      "id": "6052",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela frequência com que se sentiram humilhados pelas provocações de colegas da escola nos 30 dias anteriores à pesquisa, por sexo"
+    },
+    {
+      "id": "6053",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que se sentiram humilhados por provocações de colegas da escola nos 30 dias anteriores à pesquisa, por motivo/causa da humilhação"
+    },
+    {
+      "id": "6054",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que esculacharam, zombaram, mangaram, intimidaram ou caçoaram algum colega da escola nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6056",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que já tiveram relação sexual, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6057",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que já tiveram relação sexual, que usaram preservativo (camisinha) na primeira relação sexual, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6058",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que já tiveram relação sexual, distribuído pelo número de parceiros, por sexo"
+    },
+    {
+      "id": "6059",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que já tiveram relação sexual, que usaram algum método para evitar gravidez e/ou Doenças Sexualmente Transmissíveis (DST) na última relação sexual, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6060",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que já tiveram relação sexual, que usaram preservativo (camisinha) na última relação sexual, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6061",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que já tiveram relação sexual, que utilizaram outro método para evitar gravidez (exceto preservativo) na última relação sexual, por método contraceptivo utilizado"
+    },
+    {
+      "id": "6062",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, do sexo feminino, que engravidaram alguma vez, por dependência administrativa da escola"
+    },
+    {
+      "id": "6063",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que receberam orientação, na escola, sobre prevenção de gravidez, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6064",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que receberam orientação, na escola, sobre AIDS ou outras Doenças Sexualmente Transmissíveis (DST), por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6065",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que receberam orientação, na escola, sobre aquisição gratuita de preservativo, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6066",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir alguma política, norma ou regra escrita que proíba brigas nas suas dependências, por dependência administrativa da escola"
+    },
+    {
+      "id": "6067",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que andaram de automóvel como passageiro no banco da frente ou de trás, que não usaram cinto de segurança nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6068",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem telefone celular no domicílio, por dependência administrativa da escola"
+    },
+    {
+      "id": "6069",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem computador no domicílio, por dependência administrativa da escola"
+    },
+    {
+      "id": "6070",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que andaram de motocicleta, que usaram capacete nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6071",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que conduziram veículo motorizado nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6072",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que andaram em veículo motorizado cujo condutor ingeriu bebida alcoólica nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6073",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que foram agredidos fisicamente por algum adulto da família alguma vez nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6074",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que estiveram envolvidos em briga na qual ao menos um dos envolvidos usou arma de fogo nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6075",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que estiveram envolvidos em briga na qual ao menos um dos envolvidos usou arma branca nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6076",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que sofreram agressão física alguma vez nos 12 meses anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6077",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que se envolveram em alguma briga e/ou luta física nos 12 meses anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6078",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que foram seriamente feridos uma ou mais vezes nos 12 meses anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6079",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que tiveram algum ferimento ou lesão mais séria nos 12 meses anteriores à pesquisa, por tipo de ferimento ou lesão"
+    },
+    {
+      "id": "6082",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que foram forçados a ter relação sexual alguma vez na vida, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6083",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que foram forçados a ter relação sexual alguma vez na vida, segundo a pessoa que forçou a relação"
+    },
+    {
+      "id": "6084",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que nunca ou raramente lavaram as mãos antes de comer, nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6085",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que nunca ou raramente lavaram as mãos após usar o banheiro ou o vaso sanitário, nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6086",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que nunca ou raramente usaram sabão/sabonete quando lavaram as mãos, nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6087",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que escovaram os dentes 3 ou mais vezes por dia nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6088",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que tiveram dor nos dentes (excluindo dor causada por uso de aparelho) nos 6 meses anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6089",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela frequência de ida ao dentista, nos 12 meses anteriores à pesquisa, por dependência administrativa da escola"
+    },
+    {
+      "id": "6090",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela frequência de ida ao dentista, nos 12 meses anteriores à pesquisa, por sexo"
+    },
+    {
+      "id": "6091",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pelo grau de importância atribuído à própria imagem corporal, por dependência administrativa da escola"
+    },
+    {
+      "id": "6092",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pelo grau de importância atribuído à própria imagem corporal, por sexo"
+    },
+    {
+      "id": "6093",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pelo sentimento em relação ao próprio corpo, por dependência administrativa da escola"
+    },
+    {
+      "id": "6094",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pelo sentimento em relação ao próprio corpo, por sexo"
+    },
+    {
+      "id": "6095",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela autopercepção da imagem corporal, por dependência administrativa da escola"
+    },
+    {
+      "id": "6096",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela autopercepção da imagem corporal, por sexo"
+    },
+    {
+      "id": "6097",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela atitude em relação ao próprio peso corporal, por dependência administrativa da escola"
+    },
+    {
+      "id": "6098",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela atitude em relação ao próprio peso corporal, por sexo"
+    },
+    {
+      "id": "6099",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que vomitaram ou tomaram laxantes para perder peso ou evitar ganhar peso nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6100",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que tomaram algum remédio, fórmula ou produto para perder peso sem acompanhamento médico nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6101",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que ingeriram algum medicamento, fórmula ou outro produto para ganhar peso ou massa muscular sem acompanhamento médico nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6102",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que se sentiram sozinhos na maioria das vezes ou sempre, nos 12 meses anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6103",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que perderam o sono devido a preocupações na maioria das vezes ou sempre, nos 12 meses anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6104",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que não têm amigos próximos, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6105",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela autoavaliação do estado de saúde, por dependência administrativa da escola"
+    },
+    {
+      "id": "6106",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, distribuído pela autoavaliação do estado de saúde, por sexo"
+    },
+    {
+      "id": "6107",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que não foram à escola por motivos relacionados à própria saúde alguma vez nos 12 meses anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6108",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir alguma política, norma ou regra escrita que proíba punição física dos estudantes por professores ou funcionários nas suas dependências, por dependência administrativa da escola"
+    },
+    {
+      "id": "6109",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que procuraram algum serviço ou profissional de saúde para atendimento relacionado à própria saúde, nos 12 meses anteriores à pesquisa, por tipo de serviço de saúde procurado com mais frequência"
+    },
+    {
+      "id": "6110",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que procuraram uma Unidade Básica de Saúde e foram ou não foram atendidos(as), nos 12 meses anteriores à pesquisa, por dependência administrativa da escola e situação da tentativa de atendimento de saúde"
+    },
+    {
+      "id": "6111",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que procuraram uma Unidade Básica de Saúde e foram ou não foram atendidos(as), nos 12 meses anteriores à pesquisa, por sexo e situação da tentativa de atendimento em Unidade Básica de Saúde"
+    },
+    {
+      "id": "6112",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que procuraram uma Unidade Básica de Saúde e foram ou não foram atendidos(as), nos 12 meses anteriores à pesquisa, por principal motivo da procura a uma Unidade Básica de Saúde"
+    },
+    {
+      "id": "6113",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que conhecem e/ou já ouviram falar sobre a campanha de vacinação contra o Papilomavírus Humano (HPV), por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6114",
+      "nome": "Percentual de escolares do sexo feminino frequentando o 9º ano do ensino fundamental que já foram vacinadas contra o Papilomavírus Humano (HPV), por dependência administrativa da escola"
+    },
+    {
+      "id": "6115",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que tiveram chiado ou piado no peito, nos 12 meses anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6116",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que tiveram episódio de asma alguma vez na vida, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6117",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, dentre aqueles que andaram de automóvel como passageiro no banco da frente ou de trás, que não usaram cinto de segurança nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6119",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos cujos pais ou responsáveis sabiam o que eles faziam durante o tempo livre nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6120",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pelo tempo acumulado de atividade física nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6121",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que faltaram às aulas ou à escola sem permissão dos pais ou responsáveis nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6122",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos com 300 minutos ou mais de atividade física acumulada nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6123",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos cujos pais ou responsáveis verificaram se os deveres de casa (lição de casa) foram feitos nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6124",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos cujos pais ou responsáveis entenderam seus problemas e preocupações nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6125",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos cujos pais ou responsáveis mexeram em suas coisas sem sua concordância nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6126",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de aulas de educação física na escola, nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6127",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que tiveram 2 ou mais dias de aulas de educação física na escola, nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6129",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que procuraram algum serviço ou profissional de saúde para atendimento relacionado à própria saúde, nos 12 meses anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6168",
+      "nome": "Escolares com idade de 13 a 17 anos, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6169",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído por cor ou raça, por grupo de idade do escolar"
+    },
+    {
+      "id": "6171",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela expectativa do escolar quanto ao nível de escolaridade que alcançará, por grupo de idade do escolar"
+    },
+    {
+      "id": "6172",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela expectativa/pretensão do escolar após a conclusão do curso/ciclo de estudos em que se encontra, por grupo de idade do escolar"
+    },
+    {
+      "id": "6173",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela classe de número de residentes no domicílio, por grupo de idade do escolar"
+    },
+    {
+      "id": "6174",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pelo nível de instrução da mãe, por grupo de idade do escolar"
+    },
+    {
+      "id": "6175",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela condição de possuir algum trabalho ou emprego ou negócio e receber dinheiro por desempenhar esta atividade, por grupo de idade do escolar"
+    },
+    {
+      "id": "6176",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que costumam tomar café da manhã 5 dias ou mais na semana, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6177",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que costumam almoçar ou jantar com pais ou responsáveis 5 dias ou mais na semana, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6178",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que costumam comer quando estão assistindo à TV ou estudando 5 dias ou mais na semana, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6179",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos em escolas que informaram oferecer comida (merenda escolar/almoço) para os escolares, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6180",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que costumam comer merenda escolar ou almoço oferecidos pela escola, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6181",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de consumo de alimentos em restaurantes fast-food (lanchonetes, barracas de cachorro quente, pizzaria etc), nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6182",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de consumo de alimentos industrializados ou ultraprocessados salgados, nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6183",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que comeram em restaurantes fast-food (lanchonetes, barracas de cachorro quente, pizzaria etc) 3 dias ou mais nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6184",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de consumo de feijão, nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6185",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de consumo de frutas frescas, nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6187",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de consumo de guloseimas, nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6188",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de consumo de legumes e/ou verduras, nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6189",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de consumo de refrigerantes, nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6191",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de dias em que fez atividade física por 60 minutos ou mais nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6192",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que fizeram 300 minutos ou mais de atívidade física globalmente estimada nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6193",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela predisposição para prática de atividade física durante a semana, caso tenha oportunidade, por grupo de idade do escolar"
+    },
+    {
+      "id": "6194",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que costumam assistir, semanalmente, 2 ou mais horas de televisão, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6195",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que costumam ficar sentados(as), assistindo televisão, usando computador, jogando videogame, conversando com amigos(as) ou fazendo outras atividades sentados(as), semanalmente, por 2 ou mais horas, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6196",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que experimentaram cigarro alguma vez, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6201",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que estiveram em presença de pessoas que faziam uso de cigarro nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6202",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos em que ao menos um dos pais ou responsáveis é fumante, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6203",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, que experimentaram bebida alcoólica alguma vez, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6207",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos cujos amigos consomem bebidas alcoólicas, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6208",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que experimentaram drogas ilícitas alguma vez, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6216",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que possuem amigos que usam drogas ilícitas, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6217",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência com que os colegas da escola os trataram bem e/ou foram prestativos com eles nos 30 dias anteriores à pesquisa, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6218",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência com que os colegas da escola os trataram bem e/ou foram prestativos com eles nos 30 dias anteriores à pesquisa, por sexo e grupo de idade do escolar"
+    },
+    {
+      "id": "6219",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência com que se sentiram humilhados pelas provocações de colegas da escola nos 30 dias anteriores à pesquisa, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6220",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência com que se sentiram humilhados pelas provocações de colegas da escola nos 30 dias anteriores à pesquisa, por sexo e grupo de idade do escolar (2015)"
+    },
+    {
+      "id": "6221",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que se sentiram humilhados por provocações de colegas da escola nos 30 dias anteriores à pesquisa, por motivo/causa da humilhação e grupo de idade do escolar"
+    },
+    {
+      "id": "6222",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que esculacharam, zombaram, mangaram, intimidaram ou caçoaram algum colega da escola nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6224",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que já tiveram relação sexual, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6225",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, dentre aqueles que já tiveram relação sexual, que usaram preservativo (camisinha) na primeira relação sexual, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6226",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, dentre aqueles que já tiveram relação sexual, que usaram algum método para evitar gravidez e/ou Doenças Sexualmente Transmissíveis (DST) na última relação sexual, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6227",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, dentre aqueles que já tiveram relação sexual, que usaram preservativo (camisinha) na última relação sexual, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6228",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, dentre aqueles que já tiveram relação sexual, que utilizaram outro método para evitar gravidez (exceto preservativo) na última relação sexual, distribuído pelo método contraceptivo utilizado, por grupo de idade do escolar"
+    },
+    {
+      "id": "6230",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que receberam orientação, na escola, sobre prevenção de gravidez, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6231",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que receberam orientação, na escola, sobre AIDS ou outras Doenças Sexualmente Transmissíveis (DST), por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6232",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que receberam orientação, na escola, sobre aquisição gratuita de preservativo, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6234",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que andaram de automóvel como passageiro no banco da frente, que não usaram cinto de segurança nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6235",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que andaram de automóvel como passageiro no banco de trás, que não usaram cinto de segurança nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6236",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, dentre aqueles que andaram de motocicleta, que usaram capacete nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6237",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que conduziram veículo motorizado nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6238",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que andaram em veículo motorizado cujo condutor ingeriu bebida alcoólica nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6239",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que estiveram envolvidos em briga na qual ao menos um dos envolvidos usou arma de fogo nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6240",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que estiveram envolvidos em briga na qual ao menos um dos envolvidos usou arma branca nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6241",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que sofreram agressão física alguma vez nos 12 meses anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6242",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que se envolveram em alguma briga e/ou luta física nos 12 meses anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6243",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que foram seriamente feridos uma ou mais vezes nos 12 meses anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6244",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que tiveram algum ferimento ou lesão mais séria nos 12 meses anteriores à pesquisa, por tipo de ferimento ou lesão e grupo de idade do escolar"
+    },
+    {
+      "id": "6247",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que foram forçados a ter relação sexual alguma vez na vida, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6249",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que nunca ou raramente lavaram as mãos antes de comer, nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6250",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que nunca ou raramente lavaram as mãos após usar o banheiro ou o vaso sanitário, nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6251",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que nunca ou raramente usaram sabão/sabonete quando lavaram as mãos, nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6252",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que escovaram os dentes 3 ou mais vezes por dia nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6253",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que tiveram dor nos dentes (excluindo dor causada por uso de aparelho) nos 6 meses anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6254",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de ida ao dentista, nos 12 meses anteriores à pesquisa, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6255",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de ida ao dentista, nos 12 meses anteriores à pesquisa, por sexo e grupo de idade do escolar"
+    },
+    {
+      "id": "6256",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pelo grau de importância atribuído à própria imagem corporal, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6257",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pelo grau de importância atribuído à própria imagem corporal, por sexo e grupo de idade do escolar"
+    },
+    {
+      "id": "6258",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pelo sentimento em relação ao próprio corpo, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6259",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pelo sentimento em relação ao próprio corpo, por sexo e grupo de idade do escolar"
+    },
+    {
+      "id": "6260",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela autopercepção da imagem corporal, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6261",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela autopercepção da imagem corporal, por sexo e grupo de idade do escolar"
+    },
+    {
+      "id": "6262",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela atitude em relação ao próprio peso corporal, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6263",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela atitude em relação ao próprio peso corporal, por sexo e grupo de idade do escolar"
+    },
+    {
+      "id": "6264",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que vomitaram ou tomaram laxantes para perder peso ou evitar ganhar peso nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6265",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que tomaram algum remédio, fórmula ou produto para perder peso sem acompanhamento médico nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6266",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que ingeriram algum medicamento, fórmula ou outro produto para ganhar peso ou massa muscular sem acompanhamento médico nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6267",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que se sentiram sozinhos na maioria das vezes ou sempre, nos 12 meses anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6268",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que perderam o sono devido a preocupações na maioria das vezes ou sempre, nos 12 meses anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6269",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que não têm amigos próximos, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6270",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela autoavaliação do estado de saúde, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6271",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela autoavaliação do estado de saúde, por sexo e grupo de idade do escolar"
+    },
+    {
+      "id": "6272",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que não foram à escola por motivos relacionados à própria saúde alguma vez nos 12 meses anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6273",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que procuraram algum serviço ou profissional de saúde para atendimento relacionado à própria saúde, nos 12 meses anteriores à pesquisa, por tipo de serviço de saúde procurado com mais frequência e grupo de idade do escolar"
+    },
+    {
+      "id": "6274",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que procuraram uma Unidade Básica de Saúde e foram ou não foram atendidos(as), nos 12 meses anteriores à pesquisa, por dependência administrativa da escola, situação da tentativa de atendimento de saúde e grupo de idade do escolar"
+    },
+    {
+      "id": "6275",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que procuraram uma Unidade Básica de Saúde e foram ou não foram atendidos(as), nos 12 meses anteriores à pesquisa, por sexo, situação da tentativa de atendimento em Unidade Básica de Saúde e grupo de idade do escolar"
+    },
+    {
+      "id": "6276",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que procuraram uma Unidade Básica de Saúde e foram ou não foram atendidos(as), nos 12 meses anteriores à pesquisa, por principal motivo da procura a uma Unidade Básica de Saúde e grupo de idade do escolar"
+    },
+    {
+      "id": "6277",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que conhecem e/ou já ouviram falar sobre a campanha de vacinação contra o Papilomavírus Humano (HPV), por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6278",
+      "nome": "Percentual de escolares do sexo feminino com idade de 13 a 17 anos que já foram vacinadas contra o Papilomavírus Humano (HPV), por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6279",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que tiveram chiado ou piado no peito, nos 12 meses anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6280",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que tiveram episódio de asma alguma vez na vida, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6281",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem acesso à internet no domicílio, por dependência administrativa da escola"
+    },
+    {
+      "id": "6282",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem carro no domicílio, por dependência administrativa da escola"
+    },
+    {
+      "id": "6283",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem moto no domicílio, por dependência administrativa da escola"
+    },
+    {
+      "id": "6284",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem banheiro com chuveiro dentro de casa, por dependência administrativa da escola"
+    },
+    {
+      "id": "6285",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que possuem empregado(a) doméstico(a) 3 ou mais dias na semana no domicílio, por dependência administrativa da escola"
+    },
+    {
+      "id": "6292",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela condição de morar com mãe e/ou pai, por grupo de idade do escolar"
+    },
+    {
+      "id": "6293",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que possuem acesso à internet no domicílio, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6294",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que possuem banheiro com chuveiro dentro de casa, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6295",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que possuem carro no domicílio, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6296",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que possuem computador no domicílio, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6297",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que possuem empregado(a) doméstico(a) 3 ou mais dias na semana no domicílio, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6298",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que possuem moto no domicílio, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6299",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que possuem telefone celular no domicílio, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6300",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que possuem telefone fixo no domicílio, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6301",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pela frequência de consumo de salgados fritos, nos 7 dias anteriores à pesquisa, por grupo de idade do escolar"
+    },
+    {
+      "id": "6307",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, dentre aqueles que andaram de automóvel como passageiro no banco da frente, que não usaram cinto de segurança nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6308",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, dentre aqueles que andaram de automóvel como passageiro no banco de trás, que não usaram cinto de segurança nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6315",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, que tomaram a primeira dose de bebida alcoólica com 13 anos ou menos, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6329",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que fumaram nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6330",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, dentre aqueles que usam outros produtos de tabaco, que usaram outros produtos de tabaco (cigarros de palha ou enrolados a mão, charuto, cachimbo, cigarrilha, cigarro indiano ou bali, narguilé, rapé, fumo de mascar etc) nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6331",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que consumiram bebidas alcoólicas pelo menos um dia nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6332",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, que sofreram algum episódio de embriaguez na vida, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6333",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que usaram drogas nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6334",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que usaram maconha nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6335",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que usaram crack nos 30 dias anteriores à pesquisa, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6336",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir cantina ou ponto alternativo de venda de produtos alimentícios, por dependência administrativa da escola"
+    },
+    {
+      "id": "6337",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram ofertar sabão para lavagem das mãos, por dependência administrativa da escola"
+    },
+    {
+      "id": "6338",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir pia ou lavatório em condições de uso e ofertar sabão para lavagem das mãos, por dependência administrativa da escola"
+    },
+    {
+      "id": "6339",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, por existência de alguma política, norma ou regra escrita de proibição de bullying na escola e ocorrência desta prática pelo escolar"
+    },
+    {
+      "id": "6340",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir quadra de esportes, material esportivo e vestiário em condições de uso, por dependência administrativa da escola"
+    },
+    {
+      "id": "6341",
+      "nome": "Escolares frequentando o 9º ano do ensino fundamental, total e percentual, em escolas que informaram possuir cantina ou ponto alternativo de venda de produtos alimentícios, segundo o tipo de produto vendido, por dependência administrativa da escola"
+    },
+    {
+      "id": "6342",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos com consumo de alimento marcador de alimentação saudável (feijão) igual ou superior a 5 dias nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6343",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos com consumo de alimento marcador de alimentação não saudável (salgados fritos) igual ou superior a 5 dias nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6344",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos com consumo de alimento marcador de alimentação saudável (legumes e/ou verduras) igual ou superior a 5 dias nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6345",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos com consumo de alimento marcador de alimentação não saudável (guloseimas) igual ou superior a 5 dias nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6346",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos com consumo de alimento marcador de alimentação saudável (frutas frescas) igual ou superior a 5 dias nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6347",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos com consumo de alimento marcador de alimentação não saudável (refrigerante) igual ou superior a 5 dias nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6348",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos com consumo de alimento marcador de alimentação não saudável (alimentos industrializados/ultraprocessados salgados) igual ou superior a 5 dias nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6352",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que não tiveram nenhum dia de aula de educação física na escola nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6353",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que tiveram 1 dia de aula de educação física na escola nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6354",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos classificados como inativos com base na atividade física acumulada nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6355",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que não realizaram atividade física por 60 minutos ou mais em nenhum dia nos 7 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6356",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que fumaram nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6357",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que usaram outros produtos de tabaco (cigarros de palha ou enrolados a mão, charuto, cachimbo, cigarrilha, cigarro indiano ou bali, narguilé, rapé, fumo de mascar etc) nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6358",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que consumiram bebidas alcoólicas pelo menos um dia nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6359",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que sofreram algum episódio de embriaguez na vida, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6360",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que usaram drogas nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6361",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que usaram maconha nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6362",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que usaram crack nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6363",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que não compareceram à escola por falta de segurança no trajeto casa-escola nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6364",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que não compareceram à escola por falta de segurança na escola nos 30 dias anteriores à pesquisa, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6366",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pelo estado nutricional, por sexo e grupo de idade do escolar"
+    },
+    {
+      "id": "6367",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos, distribuído pelo estado nutricional, por dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6368",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que tiveram problemas com família ou amigos, perderam aulas ou brigaram, uma ou mais vezes, porque tinham bebido, por sexo e dependência administrativa da escola"
+    },
+    {
+      "id": "6369",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental, do sexo feminino, dentre as que já tiveram relações sexuais, que engravidaram alguma vez, por dependência administrativa da escola"
+    },
+    {
+      "id": "6370",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que tiveram problemas com família ou amigos, perderam aulas ou brigaram, uma ou mais vezes, porque tinham bebido, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    },
+    {
+      "id": "6375",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que não compareceram à escola por falta de segurança no trajeto casa-escola nos 30 dias anteriores à pesquisa, por dependência administrativa da escola"
+    },
+    {
+      "id": "6376",
+      "nome": "Percentual de escolares frequentando o 9º ano do ensino fundamental que não compareceram à escola por falta de segurança na escola nos 30 dias anteriores à pesquisa, por dependência administrativa da escola"
+    },
+    {
+      "id": "6378",
+      "nome": "Percentual de escolares com idade de 13 a 17 anos que apresentaram excesso de peso, por sexo, dependência administrativa da escola e grupo de idade do escolar"
+    }
+  ]
+}

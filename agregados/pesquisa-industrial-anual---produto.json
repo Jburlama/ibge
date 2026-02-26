@@ -1,0 +1,74 @@
+{
+  "id": "PJ",
+  "nome": "Pesquisa Industrial Anual - Produto",
+  "agregados": [
+    {
+      "id": "3323",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlist Indústria 2007 (série encerrada)"
+    },
+    {
+      "id": "3337",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 0500 até 1722 - Prodlist Indústria 2007 (série encerrada)"
+    },
+    {
+      "id": "3338",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 1731 até 2221 - Prodlist Indústria 2007 (série encerrada)"
+    },
+    {
+      "id": "3339",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2222 até 2822 - Prodlist Indústria 2007 (série encerrada)"
+    },
+    {
+      "id": "3340",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2823 até 3329 - Prodlist Indústria 2007 (série encerrada)"
+    },
+    {
+      "id": "3463",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlist Indústria 2010 (série encerrada)"
+    },
+    {
+      "id": "3464",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 0500 até 1722 - Prodlist Indústria 2010 (série encerrada)"
+    },
+    {
+      "id": "3465",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 1731 até 2221 - Prodlist Indústria 2010 (série encerrada)"
+    },
+    {
+      "id": "3466",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2222 até 2822 - Prodlist Indústria 2010 (série encerrada)"
+    },
+    {
+      "id": "3467",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2823 até 3329 - Prodlist Indústria 2010 (série encerrada)"
+    },
+    {
+      "id": "5806",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlist Indústria 2013"
+    },
+    {
+      "id": "5807",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 0500 até 1722 - Prodlist Indústria 2013"
+    },
+    {
+      "id": "5808",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 1731 até 2221 - Prodlist Indústria 2013"
+    },
+    {
+      "id": "5809",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2222 até 2822 - Prodlist Indústria 2013"
+    },
+    {
+      "id": "5810",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - CNAE 2823 até 3329 - Prodlist Indústria 2013"
+    },
+    {
+      "id": "6705",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlist Indústria 2016"
+    },
+    {
+      "id": "7752",
+      "nome": "Produção e vendas dos produtos e/ou serviços industriais, segundo as classes de atividades e os produtos - Prodlists Indústria 2016, 2019 e 2022"
+    }
+  ]
+}
