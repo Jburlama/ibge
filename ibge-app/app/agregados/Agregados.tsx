@@ -29,9 +29,8 @@ export default function Agregados() {
                 <Link
                     key={agregado.id}
                     href={`/agregados/${agregado.id}`}
-                    className="block w-64" // largura fixa de 16rem (256px)
                 >
-                    <Card className="hover:shadow-lg transition-shadow h-full">
+                    <Card className="hover:shadow-lg transition-shadow h-full block w-64">
                         <CardHeader>
                             <CardTitle className="text-lg">{agregado.id}</CardTitle>
                         </CardHeader>
@@ -40,7 +39,7 @@ export default function Agregados() {
                                 {agregado.nome}
                             </p>
                             <p className="text-sm">
-                                Sub-agregados: <span className="font-medium">{agregado.agregados.length}</span>
+                                agregados: <span className="font-medium">{agregado.agregados.length}</span>
                             </p>
                         </CardContent>
                     </Card>
